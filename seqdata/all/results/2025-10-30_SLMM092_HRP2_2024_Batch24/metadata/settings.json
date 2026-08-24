@@ -1,0 +1,1 @@
+{"name": "2025-10-30_SeqLib_SLMM092_hrp2_batch24", "start_date": "2025-10-31T08:05:31", "caller": "delve", "fastq_dir": "/var/lib/minknow/data/2025-10-30_SeqLib_SLMM092_hrp2_batch24/*/*/fastq_pass", "metadata_csv": "./metadata/2025-10-30_SeqLib_SLMM092_hrp2_batch24.csv", "region_bed": "./beds/nomadsMVP.amplicons.bed", "reference_name": "Pf3D7", "n_barcodes": 68, "n_regions": 10}
