@@ -1,0 +1,307 @@
+collection_date,collection_time,village,age,sex,fever,day3_dbs_collected,treatment_history,sample_id,infection_rate,qualified,day0_parasite_density,day3_parasite_density,comment,day0_parasite_density_log10,day3_parasite_density_log10,status,day3_pos
+2026-04-02,_,mulamba,13.0,M,No,Yes,yes,8036218,1.27,no,63649.0,128.0,Parasites seen on day 3,4.803791584770608,2.1072099696478683,not_enrolled,
+2026-04-02,_,folkland,17.0,F,Yes,Yes,no,8036219,1.3299999999999998,yes,66427.0,861.0,Parasites seen on day 3,4.822344639121273,2.935003151453655,complete,True
+2026-04-02,_,chilombo,20.0,F,Yes,Yes,no,8036220,0.5,yes,25072.0,0.0,_,4.399188979124515,,complete,False
+2026-04-02,_,mulamba,1.0,F,Yes,No,no,8036221,0.33,yes,16517.0,0.0,_,4.21793116878578,,complete,False
+2026-04-02,_,mahilo,2.0,M,Yes,Yes,no,8036222,11.06,yes,553209.0,207.0,Parasites seen on day 3,5.742889236908247,2.315970345456918,complete,True
+2026-04-02,_,mahilo,10.0,M,Yes,Yes,no,8036223,1.46,yes,,,_,,,lost,
+2026-04-02,_,mahilo,1.0,M,Yes,No,no,8036224,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-02,_,mahilo,11.0,M,Yes,No,no,8036225,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-02,_,mahilo,8.0,M,Yes,Yes,no,8036226,0.09,no,4500.0,0.0,_,3.6532125137753435,,not_enrolled,
+2026-04-04,08:40 Hrs,mahilo,7.0,F,No,Yes,,8036227,0.5,yes,50000.0,0.0,_,4.698970004336019,,complete,False
+2026-04-04,08:47 Hrs,mugogo,5.0,M,Yes,Yes,no,8036228,1.0,yes,25000.0,0.0,_,4.3979400086720375,,complete,False
+2026-04-04,08:47 Hrs,site_and_service,28.0,F,No,No,no,8036229,0.2,yes,10000.0,,_,4.0,,lost,
+2026-04-04,09:05 Hrs,mahilo,,,,Yes,,8036230,0.05,no,459.0,0.0,_,2.661812685537261,,not_enrolled,
+2026-04-04,09:22 Hrs,mahilo,5.0,M,No,Yes,no,8036231,0.3,yes,15000.0,0.0,_,4.176091259055681,,complete,False
+2026-04-04,09:33 Hrs,mahilo,5.0,M,No,Yes,no,8036232,3.0,yes,150000.0,0.0,_,5.176091259055681,,complete,False
+2026-04-04,10:06 Hrs,mulamba,11.0,M,Yes,Yes,yes,8036233,0.5,no,50000.0,0.0,_,4.698970004336019,,not_enrolled,
+2026-04-04,10:01 Hrs,kaoma_secondary,15.0,M,No,Yes,no,8036234,0.26,yes,13000.0,32.0,Parasites seen on day 3,4.113943352306837,1.505149978319906,complete,True
+2026-04-04,10:15 Hrs,mugogo,6.0,F,No,No,yes,8036235,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-04,10:30 Hrs,mulamba,32.0,F,No,No,no,8036236,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-04,11:07 Hrs,malamatiya,3.0,M,No,No,yes,8036237,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-04,10:57 Hrs,mugogo,1.0,F,Yes,Yes,no,8036238,1.3,yes,65000.0,328.0,Parasites seen on day 3 | 22048 p/µl seen on day 13,4.812913356642856,2.515873843711679,complete,True
+2026-04-04,11:04 Hrs,mulamba,9.0,M,No,Yes,no,8036239,0.3,yes,15000.0,0.0,_,4.176091259055681,,complete,False
+2026-04-04,11:07 Hrs,nalambwa,6.0,M,No,Yes,no,8036240,0.2,yes,10000.0,0.0,_,4.0,,complete,False
+2026-04-04,11:12 Hrs,mahilo,10.0,M,No,No,no,8036241,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-04,11:18 Hrs,mahilo,10.0,F,No,No,no,8036242,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-04,11:20 Hrs,mahilo,23.0,F,No,Yes,no,8036243,1.2,yes,60000.0,414.0,Parasites seen on day 3,4.778151250383644,2.617000341120899,complete,True
+2026-04-04,11:23 Hrs,site_and_service,31.0,F,No,No,no,8036244,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-04,11:32 Hrs,mahilo,9.0,F,No,No,no,8036245,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-04,11:55 Hrs,zesco,48.0,F,No,Yes,yes,8036246,0.2,no,10000.0,0.0,_,4.0,,not_enrolled,
+2026-04-04,12:03 Hrs,airport,27.0,M,No,No,no,8036247,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-04,12:12 Hrs,site_and_service,40.0,F,No,No,no,8036248,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-04,12:23 Hrs,malamatiya,10.0,M,No,Yes,no,8036249,0.05,no,271.0,,_,2.432969290874406,,not_enrolled,
+2026-04-04,12:36 Hrs,site_and_service,42.0,F,No,No,no,8036250,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-04,13:40 Hrs,mulamba,22.0,F,No,No,no,8036251,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-04,13:56 Hrs,mahilo,15.0,F,No,No,no,8036252,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-04,14:07 Hrs,mulamatiya,20.0,F,No,Yes,no,8036253,0.2,yes,13000.0,,_,4.113943352306837,,lost,
+2026-04-07,09:30 Hrs,mulamba,15.0,M,No,Yes,no,8036261,1.0999999999999999,yes,55000.0,0.0,_,4.740362689494244,,complete,False
+2026-04-07,09:39 Hrs,mulamba,5.0,M,Yes,No,no,8036262,0.01,no,350.0,,_,2.5440680443502757,,not_enrolled,
+2026-04-07,10:18 Hrs,mahilo,14.0,F,,Yes,no,8036263,1.3,yes,65000.0,0.0,_,4.812913356642856,,complete,False
+2026-04-07,10:25 Hrs,folkland,12.0,M,,Yes,no,8036264,0.8,yes,40000.0,0.0,_,4.6020599913279625,,complete,False
+2026-04-07,10:55 Hrs,mahilo,7.0,M,,Yes,no,8036265,1.6,yes,80000.0,0.0,_,4.903089986991944,,complete,False
+2026-04-07,11:00 Hrs,site_and_service,,F,No,No,no,8036266,0.26,yes,13000.0,,_,4.113943352306837,,lost,
+2026-04-07,11:36 Hrs,mulamba,8.0,F,No,No,no,8036267,2.3,yes,115000.0,,_,5.060697840353612,,lost,
+2026-04-07,12:02 Hrs,komba,6.0,,,No,no,8036268,0.2,yes,10000.0,,_,4.0,,lost,
+2026-04-07,12:09 Hrs,mahilo,18.0,F,No,Yes,no,8036269,0.22,yes,55000.0,0.0,_,4.740362689494244,,complete,False
+2026-04-07,12:23 Hrs,folkland,5.0,M,No,No,no,8036270,,no,,,_,,,not_enrolled,
+2026-04-07,12:45 Hrs,resourse_centre,15.0,M,No,Yes,no,8036271,0.7000000000000001,yes,11000.0,0.0,_,4.041392685158225,,complete,False
+2026-04-07,12:54 Hrs,mulamba,6.0,F,No,Yes,no,8036272,1.0999999999999999,yes,35000.0,0.0,_,4.544068044350276,,complete,False
+2026-04-07,13:03 Hrs,mulamba,8.0,M,Yes,No,no,8036273,0.6,yes,55000.0,,_,4.740362689494244,,lost,
+2026-04-07,13:18 Hrs,mahilo,1.0,M,No,Yes,no,8036274,0.5,yes,30000.0,0.0,_,4.477121254719663,,complete,False
+2026-04-07,13:24 Hrs,shimano,14.0,M,No,Yes,no,8036275,1.6,yes,25000.0,0.0,_,4.3979400086720375,,complete,False
+2026-04-07,13:32 Hrs,mulamatiya,23.0,M,No,No,no,8036276,0.01,no,500.0,,_,2.6989700043360187,,not_enrolled,
+2026-04-07,13:43 Hrs,kalumangwe,41.0,F,No,No,no,8036277,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-07,14:08 Hrs,mahilo,6.0,F,,No,no,8036278,0.0,no,200.0,,_,2.3010299956639813,,not_enrolled,
+2026-04-07,14:15 Hrs,mahilo,11.0,F,No,Yes,no,8036279,1.0,yes,50000.0,123.0,Parasites seen on day 3,4.698970004336019,2.089905111439398,complete,True
+2026-04-07,14:32 Hrs,mahilo,2.0,M,No,No,no,8036280,0.8,yes,40000.0,,_,4.6020599913279625,,lost,
+2026-04-07,14:50 Hrs,mulamba,4.0,F,No,No,no,8036281,0.02,no,1000.0,,_,3.0,,not_enrolled,
+2026-04-07,15:18 Hrs,mulamba,2.0,M,No,No,no,8036282,0.3,yes,15000.0,,_,4.176091259055681,,lost,
+2026-04-07,15:30 Hrs,mulamba,2.0,M,Yes,No,no,8036283,0.7000000000000001,yes,35000.0,,_,4.544068044350276,,lost,
+2026-04-07,15:49 Hrs,katoya,24.0,F,No,No,no,8036284,0.8999999999999999,yes,45000.0,,_,4.653212513775344,,lost,
+2026-04-07,15:58 Hrs,mulamba,8.0,M,No,No,no,8036285,0.8,yes,40000.0,,_,4.6020599913279625,,lost,
+2026-04-07,16:14 Hrs,mulamba,1.0,F,No,Yes,no,8036286,0.1,yes,5000.0,0.0,_,3.6989700043360187,,complete,False
+2026-04-07,16:28 Hrs,mahilo,21.0,M,No,Yes,no,8036287,0.18,yes,9000.0,0.0,_,3.9542425094393248,,complete,False
+2026-04-09,16:28 Hrs,mahilo,12.0,F,No,Yes,no,8036288,0.1,yes,2545.0,0.0,_,3.4056877866727775,,complete,False
+2026-04-09,16:28 Hrs,mahilo,26.0,F,No,No,no,8036289,0.7000000000000001,yes,33662.0,,_,4.527139915655255,,lost,
+2026-04-09,16:28 Hrs,mulamba,45.0,F,No,Yes,no,8036290,0.4,yes,19105.0,0.0,_,4.281147042024427,,complete,False
+2026-04-09,16:28 Hrs,shimano,37.0,F,No,No,no,8036291,0.1,yes,2560.0,,_,3.4082399653118496,,lost,
+2026-04-09,16:28 Hrs,mungongo,30.0,F,No,Yes,no,8036292,0.1,yes,4941.0,382.0,Parasites seen on day 3,3.6938148538894167,2.582063362911709,complete,True
+2026-04-09,16:28 Hrs,mungongo,20.0,F,No,No,no,8036293,0.0,no,110.0,,_,2.041392685158225,,not_enrolled,
+2026-04-09,16:28 Hrs,site_and_service,6.0,M,No,Yes,no,8036294,1.9,yes,95545.0,1444.0,Parasites seen on day 3,4.980207964763856,3.1595671932336202,complete,True
+2026-04-09,16:28 Hrs,mulamba,5.0,M,No,Yes,no,8036295,0.8999999999999999,yes,45073.0,0.0,_,4.653916465106381,,complete,False
+2026-04-09,16:28 Hrs,mahilo,34.0,F,No,Yes,no,8036296,0.12,yes,7287.0,0.0,_,3.862548769524793,,complete,False
+2026-04-09,16:28 Hrs,mushoka,30.0,M,No,No,no,8036297,1.0999999999999999,yes,53589.0,,_,4.729075652947064,,lost,
+2026-04-09,16:28 Hrs,mahilo,36.0,M,No,Yes,no,8036298,0.5,yes,24600.0,0.0,_,4.390935107103379,,complete,False
+2026-04-09,16:28 Hrs,longe,20.0,F,No,No,no,8036299,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-09,16:28 Hrs,folkland,18.0,F,No,No,no,8036300,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-09,16:28 Hrs,mungongo,8.0,M,No,Yes,no,8036301,0.1,yes,5423.0,0.0,_,3.734239604435455,,complete,False
+2026-04-09,16:28 Hrs,mulamba,12.0,F,No,Yes,no,8036302,1.0,yes,48741.0,0.0,_,4.687894435189837,,complete,False
+2026-04-09,16:28 Hrs,mulamba,12.0,F,No,Yes,no,8036303,0.2,yes,8225.0,0.0,_,3.915135906622012,,complete,False
+2026-04-09,16:28 Hrs,airport,19.0,F,Yes,Yes,no,8036304,0.5,yes,22563.0,0.0,_,4.353396843397541,,complete,False
+2026-04-11,08:32 Hrs,kashotoko,6.0,M,No,Yes,no,8036305,0.1,yes,6918.0,0.0,_,3.839980557678343,,complete,False
+2026-04-11,08:32 Hrs,kashotoko,13.0,F,No,_,no,8036306,0.06,no,3002.0,,_,3.4774106879072515,,not_enrolled,
+2026-04-11,09:03 Hrs,mahilo,1.0,M,No,No,no,8036307,0.2,yes,10148.0,,_,4.006380458549693,,lost,
+2026-04-11,09:22 Hrs,kashotoko,51.0,F,No,_,no,8036308,0.01,no,317.0,,_,2.5010592622177517,,not_enrolled,
+2026-04-11,09:30 Hrs,kashotoko,13.0,F,No,Yes,no,8036309,0.1,yes,6783.0,0.0,_,3.831421817065022,,complete,False
+2026-04-11,09:40 Hrs,kashotoko,11.0,F,No,No,no,8036310,0.62,yes,31000.0,,_,4.491361693834273,,lost,
+2026-04-11,09:49 Hrs,mahilo,42.0,F,No,_,no,8036311,0.06999999999999999,no,3365.0,,_,3.5269850685599957,,not_enrolled,
+2026-04-11,09:50 Hrs,mugogo,10.0,M,No,Yes,no,8036312,0.5,yes,26366.0,0.0,_,4.421044247742048,,complete,False
+2026-04-11,09:58 Hrs,mahilo,1.0,F,No,Yes,no,8036313,0.1,yes,7686.0,0.0,_,3.88570038012833,,complete,False
+2026-04-11,10:13 Hrs,mulamatiya,5.0,M,No,Yes,no,8036314,2.0,yes,99446.0,0.0,_,4.9975873192566915,,complete,False
+2026-04-11,10:22 Hrs,naliyele,12.0,M,No,No,yes,8036315,3.0,no,15360.0,,_,4.186391215695493,,not_enrolled,
+2026-04-11,10:33 Hrs,mahilo,7.0,M,No,Yes,no,8036316,0.32,yes,16234.0,0.0,_,4.2104255416310865,,complete,False
+2026-04-11,10:35 Hrs,mahilo,10.0,M,No,Yes,no,8036317,0.43,yes,21373.0,0.0,_,4.329865485758008,,complete,False
+2026-04-11,11:25 Hrs,kakonge,8.0,F,No,No,no,8036318,1.4000000000000001,yes,72000.0,,_,4.857332496431268,,lost,
+2026-04-11,11:32 Hrs,kakonge,4.0,M,No,No,no,8036319,2.6,yes,129720.0,,_,5.113006940000935,,lost,
+2026-04-11,11:54 Hrs,mahilo,3.0,M,No,_,no,8036320,0.05,no,2379.0,,_,3.3763944420372662,,not_enrolled,
+2026-04-11,11:54 Hrs,folkland,19.0,M,No,Yes,no,8036321,0.6,yes,32158.0,0.0,_,4.507289030873264,,complete,False
+2026-04-11,11:54 Hrs,mahilo,10.0,F,No,Yes,no,8036322,0.4,yes,17654.0,0.0,_,4.246843122251319,,complete,False
+2026-04-11,12:45 Hrs,kankomba,3.0,F,No,No,no,8036323,1.5,yes,77241.0,,_,4.887847887733853,,lost,
+2026-04-11,13:04 Hrs,mungongo,13.0,F,No,Yes,no,8036324,0.6,yes,29256.0,80.0,Parasites seen on day 3,4.466214947329988,1.9030899869919435,complete,True
+2026-04-11,12:57 Hrs,mahilo,11.0,F,Yes,Yes,no,8036325,1.3,yes,65736.0,0.0,_,4.817803273965567,,complete,False
+2026-04-11,14:56 Hrs,site_and_service,7.0,F,Yes,_,no,8036326,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-11,15:10 Hrs,naliyele,10.0,M,No,No,no,8036327,0.15,yes,7692.0,,_,3.8860392755664424,,lost,
+2026-04-11,15:16 Hrs,mulamba,6.0,F,Yes,Yes,no,8036328,0.1,yes,7682.0,0.0,_,3.885474302829157,,complete,False
+2026-04-11,15:22 Hrs,mahilo,20.0,M,No,_,no,8036329,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-11,15:29 Hrs,zesco,15.0,M,No,_,yes,8036330,0.01,no,237.0,,_,2.374748346010104,,not_enrolled,
+2026-04-13,08:55 Hrs,naliyele,24.0,F,No,_,no,8036331,0.0,no,1512.0,,_,3.1795517911651876,,not_enrolled,
+2026-04-13,09:12 Hrs,mahilo,12.0,M,No,_,no,8036332,0.0,no,,,_,,,not_enrolled,
+2026-04-13,09:17 Hrs,mahilo,14.0,F,No,Yes,no,8036333,0.4,yes,17990.0,0.0,_,4.255031163345551,,complete,False
+2026-04-13,09:25 Hrs,mungongo,4.0,F,No,Yes,no,8036334,0.2,yes,8427.0,0.0,_,3.9256729939212405,,complete,False
+2026-04-13,09:36 Hrs,kaoma_secondary,22.0,F,No,_,no,8036335,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-13,09:42 Hrs,naliyele,3.0,F,No,_,no,8036336,0.02,no,1259.0,,_,3.1000257301078626,,not_enrolled,
+2026-04-13,09:59 Hrs,mahilo,11.0,F,No,No,no,8036337,0.16999999999999998,yes,8682.0,,_,3.938619781502681,,lost,
+2026-04-13,10:19 Hrs,mungongo,54.0,F,No,_,no,8036338,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-13,10:28 Hrs,zesco,15.0,F,No,Yes,no,8036339,2.17,yes,135327.0,141.0,Parasites seen on day 3,5.131384454255952,2.1492191126553797,complete,True
+2026-04-13,10:34 Hrs,airport,21.0,M,No,No,no,8036340,0.67,yes,33799.0,,_,4.528903851138409,,lost,
+2026-04-13,10:50 Hrs,mahilo,11.0,M,No,No,no,8036341,1.29,yes,64339.0,,_,4.808474306521547,,lost,
+2026-04-13,11:09 Hrs,mahilo,15.0,F,No,No,no,8036342,0.5,yes,24702.0,,_,4.392732117381129,,lost,
+2026-04-13,11:14 Hrs,mahilo,10.0,M,No,No,no,8036343,0.21,yes,10010.0,,_,4.000434077479318,,lost,
+2026-04-13,11:22 Hrs,kalingalinga,4.0,F,No,_,no,8036344,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-13,11:36 Hrs,mahilo,4.0,F,No,Yes,no,8036345,1.31,yes,65553.0,0.0,_,4.816592571748946,,complete,False
+2026-04-13,11:43 Hrs,site_and_service,21.0,M,No,No,no,8036346,0.16999999999999998,yes,8478.0,,_,3.928293412232202,,lost,
+2026-04-13,11:48 Hrs,mahilo,10.0,F,Yes,Yes,no,8036347,0.74,yes,37256.0,0.0,_,4.571196224924675,,complete,False
+2026-04-13,12:03 Hrs,longe,16.0,F,No,_,no,8036348,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-13,14:08 Hrs,mahilo,14.0,M,No,Yes,no,8036349,0.5,yes,25529.0,0.0,_,4.407033803328038,,complete,False
+2026-04-13,15:26 Hrs,kashamo,6.0,M,No,No,no,8036350,0.1,yes,5214.0,,_,3.71717102683231,,lost,
+2026-04-13,15:35 Hrs,mulamba,13.0,M,Yes,Yes,no,8036351,0.7000000000000001,yes,32618.0,206.0,Parasites seen on day 3,4.513457328390572,2.3138672203691533,complete,True
+2026-04-13,16:06 Hrs,mungongo,14.0,F,No,No,no,8036352,0.3,yes,17196.0,,_,4.2354274364449696,,lost,
+2026-04-13,16:14 Hrs,folkland,13.0,M,No,No,no,8036353,0.7000000000000001,yes,,,_,,,lost,
+2026-04-13,16:20 Hrs,zesco,17.0,M,Yes,Yes,no,8036354,1.3,yes,65154.0,0.0,_,4.8139410835114,,complete,False
+2026-04-13,16:29 Hrs,zesco,13.0,M,No,Yes,no,8036355,1.2,yes,62020.0,0.0,_,4.792531761901308,,complete,False
+2026-04-13,16:36 Hrs,mulamba,11.0,F,No,Yes,no,8036356,1.0,yes,54595.0,653.0,Parasites seen on day 3,4.737152870326679,2.814913181275074,complete,True
+2026-04-13,16:45 Hrs,mahilo,4.0,M,No,No,no,8036357,0.2,yes,9623.0,,_,3.9833104857941155,,lost,
+2026-04-13,16:58 Hrs,mungongo,10.0,M,No,Yes,no,8036358,0.7000000000000001,yes,32800.0,0.0,_,4.515873843711679,,complete,False
+2026-04-13,17:03 Hrs,mahilo,16.0,M,No,Yes,no,8036359,0.4,yes,21882.0,0.0,_,4.340087013697425,,complete,False
+2026-04-13,17:11 Hrs,zesco,10.0,F,No,Yes,no,8036360,0.6,yes,30291.0,0.0,_,4.4813136109793765,,complete,False
+2026-04-13,17:16 Hrs,site_and_service,6.0,F,No,No,no,8036361,0.8999999999999999,yes,47880.0,,_,4.6801541417343735,,lost,
+2026-04-15,09:33 Hrs,airport,8.0,F,Yes,Yes,no,8036362,2.9000000000000004,yes,148515.0,95.0,Parasites seen on day 3,5.171770319567304,1.9777236052888478,complete,True
+2026-04-15,10:09 Hrs,mungongo,21.0,F,No,_,yes,8036363,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-15,11:06 Hrs,mahilo,39.0,F,No,Yes,no,8036364,0.1,yes,3296.0,0.0,_,3.5179872030250783,,complete,False
+2026-04-15,11:10 Hrs,mahilo,15.0,M,No,Yes,no,8036365,0.3,yes,17416.0,0.0,_,4.240948416033038,,complete,False
+2026-04-15,11:27 Hrs,mungongo,11.0,F,No,_,no,8036366,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-15,11:40 Hrs,mulamba,6.0,F,No,No,no,8036367,0.4,yes,1900.0,,_,3.278753600952829,,lost,
+2026-04-15,11:46 Hrs,mungongo,28.0,F,No,Yes,no,8036368,0.26,yes,12784.0,0.0,_,4.106666761969916,,complete,False
+2026-04-15,11:58 Hrs,mulamba,7.0,F,Yes,_,yes,8036369,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-15,12:04 Hrs,mahilo,12.0,F,Yes,_,no,8036370,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-15,12:11 Hrs,mulamatiya,22.0,F,No,_,no,8036371,0.0,no,,,_,,,not_enrolled,
+2026-04-15,12:25 Hrs,site_and_service,21.0,M,No,No,no,8036372,0.6,yes,28374.0,,_,4.4529205643990695,,lost,
+2026-04-15,12:52 Hrs,lipako,45.0,M,No,_,no,8036373,0.0,no,95.0,,_,1.9777236052888478,,not_enrolled,
+2026-04-15,13:00 Hrs,folkland,34.0,F,No,_,no,8036374,0.01,no,608.0,,_,2.783903579272735,,not_enrolled,
+2026-04-15,13:08 Hrs,kapupa,40.0,F,No,_,no,8036375,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-15,13:17 Hrs,saint_asa,20.0,F,No,No,no,8036376,0.43,yes,21600.0,,_,4.334453751150931,,lost,
+2026-04-15,13:21 Hrs,mahilo,19.0,F,No,_,no,8036377,0.0,no,63.0,,_,1.7993405494535817,,not_enrolled,
+2026-04-15,13:29 Hrs,mulamba,21.0,F,No,_,no,8036378,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-15,13:36 Hrs,mulamba,61.0,M,No,No,no,8036379,0.1,yes,50940.0,,_,4.707058940627596,,lost,
+2026-04-15,13:40 Hrs,site_and_service,17.0,M,No,No,no,8036380,0.6,yes,31005.0,,_,4.491431735682969,,lost,
+2026-04-15,13:44 Hrs,site_and_service,10.0,M,No,No,no,8036381,0.48,yes,23883.0,,_,4.378088878638787,,lost,
+2026-04-15,13:50 Hrs,mulamba,5.0,M,No,No,no,8036382,2.63,yes,131366.0,,_,5.118482976159217,,lost,
+2026-04-15,13:56 Hrs,adada,24.0,M,No,Yes,no,8036383,1.7000000000000002,yes,83086.0,0.0,_,4.919527851281481,,complete,False
+2026-04-15,15:48 Hrs,mahilo,36.0,F,No,_,no,8036384,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-15,15:25 Hrs,site_and_service,23.0,F,No,Yes,no,8036385,0.3,yes,16231.0,0.0,_,4.21034527775002,,complete,False
+2026-04-15,15:48 Hrs,mahilo,3.0,M,No,_,no,8036386,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-15,16:03 Hrs,mulamba,22.0,F,No,No,no,8036387,1.2,yes,61822.0,,_,4.791143050790596,,lost,
+2026-04-15,16:09 Hrs,mahilo,16.0,M,No,Yes,no,8036388,1.0,yes,44537.0,127.0,Parasites seen on day 3,4.64872095972708,2.103803720955957,complete,True
+2026-04-15,16:27 Hrs,mahilo,40.0,F,No,_,no,8036389,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-15,16:27 Hrs,mulamba,30.0,F,No,Yes,no,8036390,0.5,yes,25405.0,874.0,Parasites seen on day 3,4.404919199246314,2.941511432634403,complete,True
+2026-04-15,16:50 Hrs,mahilo,8.0,F,No,_,no,8036391,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-17,09:12 Hrs,mahilo,13.0,F,No,_,no,8036392,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-17,09:28 Hrs,site_and_service,6.0,F,No,_,no,8036393,1.38,yes,68926.0,,_,4.838383075703911,,lost,
+2026-04-17,09:35 Hrs,mahilo,12.0,F,No,_,no,8036394,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-17,09:46 Hrs,mulamba,12.0,M,No,_,no,8036395,1.72,yes,85981.0,,_,4.934402491862127,,lost,
+2026-04-17,09:55 Hrs,mahilo,1.0,F,No,Yes,no,8036396,0.13999999999999999,yes,7107.0,0.0,_,3.8516863154424277,,complete,False
+2026-04-17,10:05 Hrs,mulamba,21.0,F,No,_,no,8036397,0.0,no,173.0,,_,2.2380461031287955,,not_enrolled,
+2026-04-17,10:10 Hrs,mawanche,30.0,F,No,_,no,8036398,0.11,yes,5480.0,,_,3.738780558484369,,lost,
+2026-04-17,10:36 Hrs,malilo,6.0,M,No,_,no,8036399,0.16,yes,8318.0,,_,3.9200189160289147,,lost,
+2026-04-17,10:42 Hrs,mulamba,3.0,M,No,_,no,8036400,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-17,10:49 Hrs,naliyele,6.0,F,No,Yes,no,8036401,0.89,yes,44256.0,0.0,_,4.645972158429217,,complete,False
+2026-04-17,10:59 Hrs,naliyele,28.0,F,No,_,no,8036402,0.02,no,750.0,,_,2.8750612633917,,not_enrolled,
+2026-04-17,11:33 Hrs,lipako,9.0,F,No,_,no,8036403,0.2,yes,10507.0,,_,4.021478732257528,,lost,
+2026-04-17,11:43 Hrs,site_and_service,9.0,M,No,Yes,no,8036404,0.4,yes,21720.0,644.0,Parasites seen on day 3,4.33685982091681,2.808885867359812,complete,True
+2026-04-17,11:50 Hrs,site_and_service,2.0,M,No,_,no,8036405,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-17,12:00 Hrs,mulamba,13.0,F,Yes,_,no,8036406,1.4000000000000001,yes,68040.0,,_,4.8327643049405316,,lost,
+2026-04-17,12:27 Hrs,site_and_service,5.0,M,Yes,Yes,no,8036407,0.3,yes,17237.0,0.0,_,4.236461681626815,,complete,False
+2026-04-17,12:33 Hrs,mahilo,9.0,F,Yes,Yes,no,8036408,1.0,yes,48995.0,0.0,_,4.690151762003892,,complete,False
+2026-04-17,12:40 Hrs,site_and_service,43.0,F,No,Yes,no,8036409,0.1,yes,5849.0,0.0,_,3.7670816213633223,,complete,False
+2026-04-17,12:50 Hrs,longe,20.0,F,No,_,no,8036410,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-17,13:40 Hrs,mahilo,21.0,M,No,No,no,8036411,1.0,yes,50510.0,,_,4.703377368512349,,lost,
+2026-04-17,15:00 Hrs,site_and_service,14.0,M,No,Yes,no,8036412,2.5,yes,122916.0,0.0,_,5.089608418764674,,complete,False
+2026-04-17,15:13 Hrs,site_and_service,9.0,F,No,Yes,no,8036413,0.8,yes,38493.0,0.0,_,4.585381759696136,,complete,False
+2026-04-17,15:20 Hrs,mahilo,13.0,M,No,_,no,8036414,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-17,15:26 Hrs,naliyele,42.0,M,No,No,no,8036415,0.1,yes,4256.0,,_,3.6290016192869916,,lost,
+2026-04-17,15:32 Hrs,mahilo,17.0,F,Yes,No,no,8036416,0.8999999999999999,yes,42667.0,,_,4.630092107840592,,lost,
+2026-04-17,15:41 Hrs,mulamatiya,12.0,M,No,Yes,no,8036417,0.1,yes,,,_,,,lost,
+2026-04-17,15:51 Hrs,kashama,18.0,M,No,_,no,8036418,0.02,no,972.0,,_,2.9876662649262746,,not_enrolled,
+2026-04-17,15:56 Hrs,kashama,15.0,M,No,_,no,8036419,0.01,no,723.0,,_,2.859138297294531,,not_enrolled,
+2026-04-17,16:03 Hrs,kashama,13.0,M,No,No,no,8036420,0.2,yes,10743.0,,_,4.031125575731565,,lost,
+2026-04-17,16:07 Hrs,kashama,12.0,M,No,_,no,8036421,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-17,16:24 Hrs,mungongo,18.0,M,Yes,No,no,8036422,0.3,yes,15845.0,,_,4.199892243526319,,lost,
+2026-04-17,16:30 Hrs,site_and_service,25.0,M,Yes,Yes,no,8036423,0.6,yes,30900.0,0.0,_,4.489958479424835,,complete,False
+2026-04-17,16:35 Hrs,mulamba,16.0,M,No,No,no,8036424,0.4,yes,22353.0,,_,4.349335818117248,,lost,
+2026-04-17,16:39 Hrs,mulamba,7.0,M,No,Yes,no,8036425,0.8,yes,40704.0,,_,4.609637089632301,,lost,
+2026-04-17,16:40 Hrs,site_and_service,9.0,F,No,Yes,no,8036426,0.8999999999999999,yes,44776.0,0.0,_,4.651045293898673,,complete,False
+2026-04-17,16:50 Hrs,site_and_service,48.0,F,No,Yes,no,8036427,0.7000000000000001,yes,34435.0,0.0,_,4.5370000873213385,,complete,False
+2026-04-17,16:58 Hrs,mulamba,17.0,F,No,Yes,no,8036428,0.5,yes,24040.0,0.0,_,4.380934463330702,,complete,False
+2026-04-18,10:43 Hrs,mulamba,18.0,M,No,No,no,8036429,0.2,yes,8152.0,,_,3.9112641709983698,,lost,
+2026-04-18,11:02 Hrs,mahilo,12.0,M,No,No,no,8036430,0.5,yes,24990.0,,_,4.39776625612645,,lost,
+2026-04-18,11:07 Hrs,mahilo,20.0,M,No,_,no,8036431,0.02,no,935.0,,_,2.9708116108725178,,not_enrolled,
+2026-04-18,11:12 Hrs,mungongo,14.0,M,No,No,no,8036432,1.15,yes,57391.0,,_,4.758843792105353,,lost,
+2026-04-18,11:38 Hrs,zesco,12.0,F,Yes,No,no,8036433,0.8999999999999999,yes,44651.0,,_,4.649831189755778,,lost,
+2026-04-18,11:43 Hrs,site_and_service,12.0,F,No,_,no,8036434,0.04,no,2004.0,,_,3.301897717195208,,not_enrolled,
+2026-04-18,11:47 Hrs,site_and_service,12.0,F,No,Yes,no,8036435,2.5,yes,123423.0,94.0,Parasites seen on day 3,5.091396098451818,1.9731278535996986,complete,True
+2026-04-18,12:20 Hrs,mulamba,7.0,M,No,_,no,8036436,0.02,no,894.0,,_,2.951337518795918,,not_enrolled,
+2026-04-18,13:22 Hrs,mahilo,21.0,F,No,No,no,8036437,0.1,yes,6178.0,,_,3.7908479039654317,,lost,
+2026-04-18,13:34 Hrs,mahilo,2.0,M,Yes,Yes,no,8036438,0.8,yes,42967.0,0.0,_,4.633135031856373,,complete,False
+2026-04-18,13:42 Hrs,likolwa,39.0,M,No,_,no,8036439,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-18,13:51 Hrs,mahilo,5.0,M,No,No,no,8036440,0.1,yes,5424.0,,_,3.734319680859007,,lost,
+2026-04-18,14:01 Hrs,mahilo,8.0,F,No,No,no,8036441,0.7000000000000001,yes,37206.0,,_,4.570612981730594,,lost,
+2026-04-18,14:13 Hrs,mahilo,1.0,F,No,_,no,8036442,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-18,14:20 Hrs,site_and_service,22.0,F,No,_,no,8036443,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-18,15:54 Hrs,mahilo,16.0,M,Yes,Yes,no,8036444,0.45999999999999996,yes,23776.0,0.0,_,4.376138792080481,,complete,False
+2026-04-18,16:01 Hrs,folkland,61.0,M,No,Yes,no,8036445,0.1,yes,5243.0,0.0,_,3.719579857713723,,complete,False
+2026-04-18,16:25 Hrs,mahilo,17.0,M,No,Yes,no,8036446,0.38,yes,19144.0,0.0,_,4.2820326856053805,,complete,False
+2026-04-18,16:38 Hrs,mungongo,16.0,M,No,_,no,8036447,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-18,16:40 Hrs,mulamba,11.0,M,No,_,no,8036448,0.01,no,461.0,,_,2.663700925389648,,not_enrolled,
+2026-04-18,16:58 Hrs,mahilo,5.0,F,Yes,Yes,no,8036449,1.6,yes,79355.0,813.0,Parasites seen on day 3,4.899574295980571,2.910090545594068,complete,True
+2026-04-18,17:25 Hrs,mungongo,2.0,M,Yes,Yes,no,8036450,1.2,yes,58485.0,0.0,_,4.767044494243667,,complete,False
+2026-04-19,09:16 Hrs,site_and_service,18.0,F,No,_,no,8036451,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-19,09:25 Hrs,naliyele,10.0,F,No,_,no,8036452,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-19,09:35 Hrs,mahilo,12.0,M,No,No,yes,8036453,0.3,no,12768.0,,_,4.106122874006654,,not_enrolled,
+2026-04-19,10:12 Hrs,folkland,21.0,F,,Yes,no,8036454,0.1,yes,5294.0,0.0,_,3.7237839369653294,,complete,False
+2026-04-19,10:21 Hrs,mahilo,2.0,M,Yes,_,no,8036455,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-19,10:38 Hrs,stadium,18.0,F,,_,yes,8036456,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-19,10:52 Hrs,mulamba,49.0,F,,_,no,8036457,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-19,11:13 Hrs,kashamo,30.0,F,,_,no,8036458,0.0,no,173.0,,_,2.2380461031287955,,not_enrolled,
+2026-04-19,11:36 Hrs,naliyele,40.0,M,No,_,no,8036459,0.01,no,367.0,,_,2.5646660642520893,,not_enrolled,
+2026-04-19,11:42 Hrs,naliyele,5.0,F,No,_,no,8036460,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-19,11:51 Hrs,naliyele,5.0,M,No,_,no,8036461,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-19,11:59 Hrs,mahilo,17.0,M,No,No,no,8036462,0.4,yes,18029.0,,_,4.255971638728724,,lost,
+2026-04-19,12:23 Hrs,kalikeme,2.0,F,No,_,no,8036463,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-19,12:35 Hrs,kalikeme,4.0,M,,No,no,8036464,0.6,yes,30184.0,,_,4.479776792192939,,lost,
+2026-04-19,12:40 Hrs,mungongo,8.0,M,No,_,no,8036465,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-19,12:46 Hrs,mungongo,11.0,M,Yes,No,no,8036466,1.4000000000000001,yes,68259.0,,_,4.834159921539117,,lost,
+2026-04-19,12:52 Hrs,site_and_service,25.0,M,No,_,no,8036467,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-19,13:05 Hrs,kashamutoka,2.0,M,No,No,no,8033751,0.1,yes,5010.0,,_,3.699837725867246,,lost,
+2026-04-19,13:00 Hrs,kashamutoka,42.0,F,,_,no,8033752,0.01,no,288.0,,_,2.459392487759231,,not_enrolled,
+2026-04-19,13:16 Hrs,site_and_service,18.0,F,No,No,no,8033753,1.6,yes,78455.0,,_,4.894620626740204,,lost,
+2026-04-19,13:40 Hrs,site_and_service,2.0,F,No,Yes,yes,8033754,1.6,no,78953.0,33334.0,Parasites seen on day 3,4.897368636671006,4.5228874310831175,not_enrolled,
+2026-04-19,13:55 Hrs,katokoto,5.0,F,No,No,no,8033755,1.7999999999999998,yes,90107.0,,_,4.954758530638175,,lost,
+2026-04-19,14:05 Hrs,mulamatiya,19.0,F,,Yes,no,8033756,0.4,yes,17734.0,0.0,_,4.24880670412872,,complete,False
+2026-04-19,14:18 Hrs,kashindi,36.0,F,No,_,no,8033757,0.01,no,234.0,,_,2.369215857410143,,not_enrolled,
+2026-04-19,16:05 Hrs,site_and_service,15.0,M,No,Yes,yes,8033758,0.4,no,17654.0,0.0,_,4.246843122251319,,not_enrolled,
+2026-04-19,16:18 Hrs,zesco,23.0,F,No,No,no,8033759,0.1,yes,5029.0,,_,3.7014816356209272,,lost,
+2026-04-19,16:27 Hrs,zesco,4.0,M,No,No,no,8033760,1.0,yes,49616.0,,_,4.6956217488932515,,lost,
+2026-04-19,16:35 Hrs,mulamba,7.0,F,Yes,No,no,8033761,1.3,yes,64000.0,,_,4.8061799739838875,,lost,
+2026-04-19,16:51 Hrs,folkland,12.0,F,Yes,No,no,8033762,1.9,yes,95050.0,,_,4.977952121201462,,lost,
+2026-04-19,16:57 Hrs,mulamba,4.0,F,No,Yes,no,8033763,0.7000000000000001,yes,37333.0,1127.0,Parasites seen on day 3,4.572092890303906,3.0519239160461065,complete,True
+2026-04-19,17:08 Hrs,mwanche,9.0,M,No,_,no,8033764,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-19,17:10 Hrs,mwanche,35.0,F,No,_,no,8033765,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-20,10:25 Hrs,kapupa,3.0,F,No,_,no,8033766,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-20,10:30 Hrs,kapupa,10.0,F,No,No,yes,8033767,0.49,no,24471.0,,_,4.388651717026825,,not_enrolled,
+2026-04-20,11:37 Hrs,mulamba,,F,No,Yes,no,8033768,2.3,yes,115184.0,0.0,_,5.061392156219966,,complete,False
+2026-04-20,11:51 Hrs,namimbwe,4.0,F,No,_,no,8033769,,no,,,Mixed infection (PF/PM),,,not_enrolled,
+2026-04-20,12:00 Hrs,site_and_service,50.0,M,No,No,no,8033770,0.16,yes,7849.0,,_,3.894814329083301,,lost,
+2026-04-20,12:19 Hrs,kashotoko,5.0,M,No,_,no,8033771,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-20,12:30 Hrs,mulamatiya,3.0,M,Yes,No,no,8033772,3.4099999999999997,yes,170263.0,,_,5.231120281305661,,lost,
+2026-04-20,12:44 Hrs,mulamba,16.0,M,Yes,Yes,no,8033773,0.45999999999999996,yes,22891.0,2114.0,Parasites seen on day 3,4.359664765369852,3.3251049829714074,complete,True
+2026-04-20,12:50 Hrs,nabiyoyo,2.0,M,Yes,_,no,8033774,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-20,13:01 Hrs,mahilo,18.0,M,No,Yes,no,8033775,0.15,yes,7480.0,0.0,_,3.8739015978644615,,complete,False
+2026-04-20,13:15 Hrs,njonjolo,21.0,F,No,No,no,8033776,0.1,yes,5270.0,,_,3.7218106152125467,,lost,
+2026-04-20,15:25 Hrs,site_and_service,46.0,F,No,Yes,no,8033777,1.2,yes,57569.0,0.0,_,4.760188685625816,,complete,False
+2026-04-20,15:29 Hrs,kashama,23.0,F,No,No,yes,8033778,0.25,no,12577.0,,_,4.099577060916708,,not_enrolled,
+2026-04-20,15:32 Hrs,mulamba,12.0,F,No,No,no,8033779,0.1,yes,5243.0,,_,3.719579857713723,,lost,
+2026-04-20,15:40 Hrs,mahilo,17.0,F,No,_,no,8033780,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-20,15:48 Hrs,mulamba,9.0,F,Yes,No,no,8033781,0.4,yes,18495.0,,_,4.267054335651413,,lost,
+2026-04-20,15:48 Hrs,mahilo,3.0,F,Yes,_,yes,8033782,0.02,no,948.0,,_,2.976808337338066,,not_enrolled,
+2026-04-20,15:59 Hrs,mahilo,21.0,M,Yes,No,no,8033783,0.36,yes,18028.0,,_,4.25594754939894,,lost,
+2026-04-20,16:00 Hrs,mahilo,3.0,F,No,Yes,no,8033784,0.8999999999999999,yes,43231.0,1705.0,Parasites seen on day 3,4.635795281553983,3.2317243833285163,complete,True
+2026-04-20,16:15 Hrs,mulamatiya,29.0,M,No,Yes,no,8033785,0.2,yes,8792.0,0.0,_,3.9440876794154343,,complete,False
+2026-04-20,16:20 Hrs,mulamba,20.0,M,No,Yes,no,8033786,0.12,yes,5776.0,0.0,_,3.7616271845615827,,complete,False
+2026-04-20,16:20 Hrs,mulamba,20.0,F,No,No,no,8033787,0.7000000000000001,yes,36770.0,,_,4.565493629868862,,lost,
+2026-04-20,16:30 Hrs,mulamba,21.0,M,No,No,no,8033788,0.1,yes,8407.0,,_,3.924641047417163,,lost,
+2026-04-22,09:19 Hrs,mulamba,4.0,F,Yes,No,no,8033789,0.1,yes,5014.0,,_,3.7001843296221977,,lost,
+2026-04-22,09:30 Hrs,mulamba,6.0,F,No,_,no,8033790,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-22,10:40 Hrs,mulamba,1.0,F,No,_,no,8033791,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-22,10:50 Hrs,township,1.0,F,No,_,no,8033792,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-22,11:03 Hrs,mahilo,53.0,M,,_,no,8033793,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-22,11:44 Hrs,mulamba,32.0,F,,_,no,8033794,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-22,12:30 Hrs,folkland,8.0,F,Yes,Yes,no,8033795,2.1,yes,106798.0,0.0,_,5.02856311976092,,complete,False
+2026-04-22,13:09 Hrs,mulamba,56.0,F,,_,no,8033796,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-22,14:09 Hrs,kashotoko,10.0,M,Yes,Yes,no,8033797,2.0,yes,97515.0,0.0,_,4.989071425095162,,complete,False
+2026-04-22,14:55 Hrs,namalowe,17.0,M,No,_,no,8033798,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-22,15:14 Hrs,resource,9.0,F,No,No,no,8033799,1.0999999999999999,yes,56597.0,,_,4.752793411436052,,lost,
+2026-04-22,15:30 Hrs,mahilo,8.0,F,No,No,no,8033800,1.5,yes,74732.0,,_,4.873506605129727,,lost,
+2026-04-22,15:46 Hrs,mahilo,12.0,F,No,_,no,8033801,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-22,15:51 Hrs,mahilo,9.0,F,No,_,no,8033802,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-22,16:00 Hrs,mahilo,2.0,M,No,_,no,8033803,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-22,16:10 Hrs,mulamba,15.0,M,Yes,_,no,8033804,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-22,16:19 Hrs,airport,16.0,F,Yes,_,no,8033805,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-22,16:29 Hrs,mulamba,2.0,M,No,No,no,8033806,0.8999999999999999,yes,43115.0,,_,4.634628390436653,,lost,
+2026-04-22,16:37 Hrs,mungongo,11.0,F,No,Yes,no,8033807,0.2,yes,8150.0,0.0,_,3.9111576087399764,,complete,False
+2026-04-22,16:41 Hrs,mungongo,16.0,M,No,Yes,no,8033808,0.18,yes,9030.0,0.0,_,3.9556877503135057,,complete,False
+2026-04-22,16:42 Hrs,folkland,10.0,F,No,No,no,8033809,0.12,yes,5891.0,,_,3.7701890227359933,,lost,
+2026-04-22,16:50 Hrs,site_and_service,19.0,M,No,_,no,8033810,0.0,no,0.0,,_,,,not_enrolled,
+2026-04-22,16:51 Hrs,mulamba,12.0,F,No,No,no,8033811,1.0,yes,50566.0,,_,4.70385860032752,,lost,
+2026-04-22,16:59 Hrs,zesco,16.0,M,No,Yes,no,8033812,0.96,yes,47882.0,0.0,_,4.680172282311302,,complete,False
+2026-04-22,17:07 Hrs,shimano,4.0,F,No,_,no,8033813,0.0,no,,,_,,,not_enrolled,
