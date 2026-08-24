@@ -1,0 +1,57 @@
+sample_id,cluster,district,province,expt_name,barcode
+1038998,0,mkushi,central,2025-05-08_SLMM075_HRP22024_Batch7,barcode44
+1039024,0,mkushi,central,2025-05-08_SLMM075_HRP22024_Batch7,barcode50
+1039021,0,mkushi,central,2025-05-08_SLMM075_HRP22024_Batch7,barcode56
+1039032,0,mkushi,central,2025-05-08_SLMM075_HRP22024_Batch7,barcode60
+1039023,1,mkushi,central,2025-05-08_SLMM075_HRP22024_Batch7,barcode45
+1039198,8,kapiri mposhi,central,2025-05-06_SLMM073_HRP22024_Batch6,barcode68
+1012738,16,chingola,copperbelt,2026-02-12_SLBM012_HRP2_Batch32,barcode92
+1012739,16,chingola,copperbelt,2026-02-12_SLBM012_HRP2_Batch32,barcode93
+5053891,22,kalumbila,northwestern,2025-04-03_SLMM071_HRP22024_Batch4,barcode36
+8011423,30,luangwa,lusaka,2026-02-12_SLBM011_HRP2_Batch31,barcode53
+8011441,31,luangwa,lusaka,2026-02-12_SLBM011_HRP2_Batch31,barcode55
+8011478,32,mufulira,copperbelt,2025-08-08_SLBM009_HRP2_2024_Batch16,barcode29
+8011485,32,mufulira,copperbelt,2025-08-08_SLBM009_HRP2_2024_Batch16,barcode31
+8011486,32,mufulira,copperbelt,2025-08-08_SLBM009_HRP2_2024_Batch16,barcode32
+8022961,32,mufulira,copperbelt,2025-08-08_SLBM009_HRP2_2024_Batch16,barcode47
+8031239,32,mufulira,copperbelt,2025-08-08_SLBM009_HRP2_2024_Batch16,barcode55
+8031241,32,mufulira,copperbelt,2025-08-08_SLBM009_HRP2_2024_Batch16,barcode57
+8031242,32,mufulira,copperbelt,2025-08-08_SLBM009_HRP2_2024_Batch16,barcode58
+8031244,32,mufulira,copperbelt,2025-08-08_SLBM009_HRP2_2024_Batch16,barcode60
+8031245,32,mufulira,copperbelt,2025-08-08_SLBM009_HRP2_2024_Batch16,barcode61
+8031247,32,mufulira,copperbelt,2025-08-08_SLBM009_HRP2_2024_Batch16,barcode63
+8031249,32,mufulira,copperbelt,2025-08-08_SLBM009_HRP2_2024_Batch16,barcode65
+8011479,33,mufulira,copperbelt,2025-08-08_SLBM009_HRP2_2024_Batch16,barcode30
+8021785,39,nkeyema,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode59
+8021786,39,nkeyema,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode60
+8021767,39,nkeyema,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode61
+8021771,39,nkeyema,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode64
+8021779,39,nkeyema,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode65
+8021780,39,nkeyema,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode67
+8021770,39,nkeyema,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode68
+8021777,39,nkeyema,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode70
+8021781,39,nkeyema,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode71
+8021783,39,nkeyema,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode72
+8021772,39,nkeyema,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode73
+8021775,39,nkeyema,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode74
+8021773,39,nkeyema,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode75
+8021803,40,kapiri mposhi,central,2025-05-06_SLMM073_HRP22024_Batch6,barcode81
+8021798,40,kapiri mposhi,central,2025-05-06_SLMM073_HRP22024_Batch6,barcode84
+8021937,41,kaoma,western,2024-11-06_SLMM067_HRP2,barcode55
+8021941,42,kaoma,western,2024-11-06_SLMM067_HRP2,barcode59
+8021943,43,kaoma,western,2024-11-06_SLMM067_HRP2,barcode71
+8030148,46,mufulira,copperbelt,2025-09-17_SLMM086_HRP2_2024_Batch18,barcode42
+8030153,46,mufulira,copperbelt,2025-09-17_SLMM086_HRP2_2024_Batch18,barcode43
+8030154,46,mufulira,copperbelt,2025-09-17_SLMM086_HRP2_2024_Batch18,barcode44
+8030157,46,mufulira,copperbelt,2025-09-17_SLMM086_HRP2_2024_Batch18,barcode45
+8030159,46,mufulira,copperbelt,2025-09-17_SLMM086_HRP2_2024_Batch18,barcode46
+8030164,46,mufulira,copperbelt,2025-09-17_SLMM086_HRP2_2024_Batch18,barcode47
+8030165,46,mufulira,copperbelt,2025-09-17_SLMM086_HRP2_2024_Batch18,barcode48
+8030173,46,mufulira,copperbelt,2025-09-17_SLMM086_HRP2_2024_Batch18,barcode50
+8034055,48,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode62
+8035616,49,chibombo,central,2024-10-21_SLMM057_HRP2,barcode20
+8035606,49,chibombo,central,2024-10-21_SLMM057_HRP2,barcode23
+8035608,49,chibombo,central,2024-10-21_SLMM057_HRP2,barcode24
+8035613,49,chibombo,central,2024-10-21_SLMM057_HRP2,barcode25
+8035605,49,chibombo,central,2024-10-21_SLMM057_HRP2,barcode26
+8035611,49,chibombo,central,2024-10-21_SLMM057_HRP2,barcode28

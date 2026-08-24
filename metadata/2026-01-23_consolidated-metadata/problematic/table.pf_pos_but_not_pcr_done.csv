@@ -1,0 +1,379 @@
+study,sample_id,province,district,ward,healthfac,lat,long,collection_date,rdt_result,parasitemia
+MIS2024,8010007,central,kapiri mposhi,chibwelelo,,-14.1023883333333,28.6492866666667,2024-04-18,pf_pos,
+MIS2024,8010016,central,kapiri mposhi,kashitu,,-13.6841708333334,28.8621708333333,2024-04-21,pf_pos,
+MIS2024,8010019,central,kapiri mposhi,kashitu,,-13.6841708333334,28.8621708333333,2024-04-22,pf_pos,
+MIS2024,8010025,central,kapiri mposhi,kashitu,,-13.6841708333334,28.8621708333333,2024-04-22,pf_pos,
+MIS2024,8010031,central,mkushi,nkumbi,,-13.7545316666667,29.0010366666666,2024-04-26,pf_pos,
+MIS2024,8010036,central,kapiri mposhi,mubofwe,,-14.3867083333333,28.87762,2024-05-01,pf_pos,
+MIS2024,8010037,central,kapiri mposhi,mubofwe,,-14.3867083333333,28.87762,2024-05-01,pf_pos,
+MIS2024,8010256,central,kapiri mposhi,chibwelelo,,-14.1023883333333,28.6492866666667,2024-04-19,pf_pos,
+MIS2024,8010262,central,kapiri mposhi,kashitu,,-13.6841708333334,28.8621708333333,2024-04-21,pf_pos,
+MIS2024,8010264,central,kapiri mposhi,kashitu,,-13.6841708333334,28.8621708333333,2024-04-22,pf_pos,
+MIS2024,8010272,central,mkushi,chibefwe,,-13.6055975,29.3988625,2024-04-24,pf_pos,
+MIS2024,8010283,central,kapiri mposhi,mubofwe,,-14.3867083333333,28.87762,2024-05-01,pf_pos,
+MIS2024,8010287,central,kapiri mposhi,mubofwe,,-14.3867083333333,28.87762,2024-05-01,pf_pos,
+MIS2024,8010296,central,luano,katukutu,,-14.2926958333334,29.2064516666667,2024-05-04,pf_pos,
+MIS2024,8010519,luapula,milenge,sokontwe,,-12.2335750768557,29.4997702384183,2024-04-26,pf_pos,
+MIS2024,8010523,luapula,milenge,sokontwe,,-12.2335750768557,29.4997702384183,2024-04-26,pf_pos,
+MIS2024,8010757,central,serenje,musangashi,,-13.1150212115608,29.8755382653326,2024-04-20,pf_pos,
+MIS2024,8010759,central,serenje,musangashi,,-13.1150212115608,29.8755382653326,2024-04-20,pf_pos,143.0
+MIS2024,8010763,central,serenje,musangashi,,-13.1150212115608,29.8755382653326,2024-04-21,pf_pos,
+MIS2024,8010764,central,serenje,musangashi,,-13.1150212115608,29.8755382653326,2024-04-21,pf_pos,
+MIS2024,8010769,central,chitambo,lulimala,,-12.2047695145011,30.1347166666667,2024-04-23,pf_pos,
+MIS2024,8010782,luapula,milenge,sokontwe,,-12.2335750768557,29.4997702384183,2024-04-26,pf_pos,
+MIS2024,8010785,luapula,milenge,sokontwe,,-12.2335750768557,29.4997702384183,2024-04-26,pf_pos,
+MIS2024,8010799,luapula,chembe,luwo,,-11.8066925,28.743355376646,2024-05-04,pf_pos,
+MIS2024,8010801,luapula,mansa,lukangaba,,-11.2950442847796,28.8647897075862,2024-05-06,pf_pos,855.0
+MIS2024,8010809,luapula,mansa,katangishi,,-11.3602773472667,29.4962858183465,2024-05-10,pf_pos,
+MIS2024,8010815,luapula,mansa,katangishi,,-11.3602773472667,29.4962858183465,2024-05-10,pf_pos,
+MIS2024,8010823,luapula,samfya,katanshya,,-11.457735,29.8241233333333,2024-05-18,pf_pos,
+MIS2024,8010826,luapula,samfya,katanshya,,-11.457735,29.8241233333333,2024-05-18,pf_pos,
+MIS2024,8010834,northern,lupososhi,intandashi,,-11.071527394516,29.405448990874,2024-05-21,pf_pos,
+MIS2024,8011005,luapula,mansa,mansa,,-11.1719925,28.8761216666666,2024-04-17,pf_pos,
+MIS2024,8011011,luapula,mwense,chachacha,,-10.2919766666666,28.6775241666667,2024-04-20,pf_pos,
+MIS2024,8011014,luapula,chienge,ifuna,,-8.813775,29.1107591666667,2024-04-23,pf_pos,
+MIS2024,8011016,luapula,chienge,ifuna,,-8.813775,29.1107591666667,2024-04-24,pf_pos,
+MIS2024,8011017,luapula,chienge,ifuna,,-8.813775,29.1107591666667,2024-04-24,pf_pos,
+MIS2024,8011024,luapula,chienge,ifuna,,-8.813775,29.1107591666667,2024-04-25,pf_pos,
+MIS2024,8011025,luapula,nchelenge,munkombwe,,-9.14869666666667,29.1696608333334,2024-04-26,pf_pos,
+MIS2024,8011028,luapula,nchelenge,munkombwe,,-9.14869666666667,29.1696608333334,2024-04-27,pf_pos,
+MIS2024,8011031,luapula,nchelenge,munkombwe,,-9.14869666666667,29.1696608333334,2024-04-27,pf_pos,
+MIS2024,8011040,luapula,nchelenge,nchelenge,,-9.3367425,28.7474675,2024-05-08,pf_pos,
+MIS2024,8011050,luapula,kawambwa,filenge,,-10.1141541666667,29.2755808333333,2024-05-12,pf_pos,267.0
+MIS2024,8011055,luapula,chipili,kanshimba,,-10.6835141666667,29.1197941666667,2024-05-16,pf_pos,
+MIS2024,8011263,luapula,mwense,chachacha,,-10.2919766666666,28.6775241666667,2024-04-20,pf_pos,
+MIS2024,8011264,luapula,mwense,chachacha,,-10.2919766666666,28.6775241666667,2024-04-20,pf_pos,
+MIS2024,8011270,luapula,chienge,ifuna,,-8.813775,29.1107591666667,2024-04-23,pf_pos,
+MIS2024,8011276,luapula,chienge,ifuna,,-8.813775,29.1107591666667,2024-04-24,pf_pos,
+MIS2024,8011320,luapula,kawambwa,filenge,,-10.1141541666667,29.2755808333333,2024-05-11,pf_pos,5493.0
+MIS2024,8011324,luapula,kawambwa,filenge,,-10.1141541666667,29.2755808333333,2024-05-11,pf_pos,
+MIS2024,8011326,luapula,kawambwa,filenge,,-10.1141541666667,29.2755808333333,2024-05-12,pf_pos,
+MIS2024,8011327,luapula,kawambwa,filenge,,-10.1141541666667,29.2755808333333,2024-05-12,pf_pos,7225.0
+MIS2024,8011328,luapula,kawambwa,filenge,,-10.1141541666667,29.2755808333333,2024-05-12,pf_pos,4935.0
+MIS2024,8011333,luapula,chipili,kanshimba,,-10.6835141666667,29.1197941666667,2024-05-16,pf_pos,
+MIS2024,8012013,copperbelt,ndola,kantolomba,,-13.0086916666667,28.60292,2024-04-26,pf_pos,
+MIS2024,8012266,copperbelt,ndola,pamodzi,,-12.9272208333334,28.6340658333333,2024-04-23,pf_pos,
+MIS2024,8012289,copperbelt,mpongwe,kashiba,,-13.4069075,27.9514633333334,2024-05-14,pf_pos,
+MIS2024,8012295,copperbelt,mpongwe,kashiba,,-13.4069075,27.9514633333334,2024-05-14,pf_pos,
+MIS2024,8012517,copperbelt,lufwanyama,chibanga,,-12.8977866666667,28.0125925,2024-05-04,pf_pos,
+MIS2024,8012531,copperbelt,lufwanyama,mpindi,,-13.112265,27.3894191666667,2024-05-11,pf_pos,
+MIS2024,8012535,copperbelt,lufwanyama,mpindi,,-13.112265,27.3894191666667,2024-05-11,pf_pos,
+MIS2024,8012536,copperbelt,lufwanyama,mpindi,,-13.112265,27.3894191666667,2024-05-11,pf_pos,
+MIS2024,8012539,copperbelt,lufwanyama,mpindi,,-13.112265,27.3894191666667,2024-05-12,pf_pos,
+MIS2024,8012562,copperbelt,lufwanyama,kansanta,,-12.57603,27.47288,2024-05-19,pf_pos,
+MIS2024,8012567,copperbelt,lufwanyama,kansanta,,-12.57603,27.47288,2024-05-19,pf_pos,
+MIS2024,8012568,copperbelt,lufwanyama,kansanta,,-12.57603,27.47288,2024-05-19,pf_pos,95.0
+MIS2024,8012570,copperbelt,lufwanyama,kansanta,,-12.57603,27.47288,2024-05-19,pf_pos,
+MIS2024,8012575,copperbelt,lufwanyama,kansanta,,-12.57603,27.47288,2024-05-19,pf_pos,
+MIS2024,8012754,copperbelt,kalulushi,lubanga,,-12.87369,27.9684666666667,2024-04-21,pf_pos,
+MIS2024,8012755,copperbelt,kalulushi,lubanga,,-12.87369,27.9684666666667,2024-04-21,pf_pos,
+MIS2024,8012756,copperbelt,kalulushi,lubanga,,-12.87369,27.9684666666667,2024-04-22,pf_pos,63227.0
+MIS2024,8012757,copperbelt,kalulushi,lubanga,,-12.87369,27.9684666666667,2024-04-22,pf_pos,
+MIS2024,8012774,copperbelt,lufwanyama,chibanga,,-12.8977866666667,28.0125925,2024-05-03,pf_pos,
+MIS2024,8012781,copperbelt,kalulushi,lubanga,,-12.87369,27.9684666666667,2024-04-22,pf_pos,
+MIS2024,8012786,copperbelt,kalulushi,lubanga,,-12.87369,27.9684666666667,2024-04-22,pf_pos,112.0
+MIS2024,8012796,copperbelt,mufulira,kafue,,-12.5981183333333,28.1624633333333,2024-04-29,pf_pos,
+MIS2024,8012798,copperbelt,mufulira,kafue,,-12.5981183333333,28.1624633333333,2024-04-30,pf_pos,
+MIS2024,8012802,copperbelt,lufwanyama,luswishi,,-12.9928483333333,27.2698916666667,2024-05-06,pf_pos,
+MIS2024,8012808,copperbelt,lufwanyama,luswishi,,-12.9928483333333,27.2698916666667,2024-05-08,pf_pos,
+MIS2024,8012835,copperbelt,chingola,mutenda,,-12.4510791666667,27.4353891666667,2024-05-22,pf_pos,
+MIS2024,8013002,eastern,lusangazi,singozi,,-13.9783645614596,31.2694441666667,2024-04-18,pf_pos,
+MIS2024,8013026,eastern,kasenengwa,mkowe,,-13.4983097985359,32.392132687124,2024-04-26,pf_pos,
+MIS2024,8013028,eastern,kasenengwa,mkowe,,-13.4983097985359,32.392132687124,2024-04-26,pf_pos,
+MIS2024,8013259,eastern,lusangazi,lutwazi,,-14.1218533333333,31.2614889679335,2024-04-19,pf_pos,110.0
+MIS2024,8013265,eastern,vubwi,mbande,,-13.9642366666667,32.8486029244959,2024-04-23,pf_pos,
+MIS2024,8013278,eastern,vubwi,mbande,,-13.9642366666667,32.8486029244959,2024-04-24,pf_pos,
+MIS2024,8013283,eastern,kasenengwa,mkowe,,-13.4983097985359,32.392132687124,2024-04-26,pf_pos,
+MIS2024,8013301,eastern,chadiza,ngala,,-14.0838383333333,32.67041,2024-05-02,pf_pos,
+MIS2024,8013313,eastern,katete,yowoyani,,-14.2300466666666,32.2236325,2024-05-09,pf_pos,
+MIS2024,8013317,eastern,katete,dole,,-14.2167391511611,32.0249131721218,2024-05-10,pf_pos,
+MIS2024,8013553,eastern,chipangali,madziatuba,,-13.1849833333333,32.6679416666666,2024-05-15,pf_pos,
+MIS2024,8013557,eastern,chipangali,madziatuba,,-13.1849833333333,32.6679416666666,2024-05-15,pf_pos,
+MIS2024,8013561,eastern,chipangali,nthope,,-13.1931875,32.454955,2024-05-17,pf_pos,
+MIS2024,8013565,eastern,kasenengwa,kwenje,,-13.8804966666667,32.1649766666666,2024-05-20,pf_pos,
+MIS2024,8013759,eastern,chipata,kapata,,-13.63601,32.6649174559861,2024-04-18,pf_pos,
+MIS2024,8013820,eastern,chipangali,nthope,,-13.1931875,32.454955,2024-05-17,pf_pos,
+MIS2024,8013822,eastern,chipangali,nthope,,-13.1931875,32.454955,2024-05-17,pf_pos,
+MIS2024,8013823,eastern,chipangali,nthope,,-13.1931875,32.454955,2024-05-17,pf_pos,47.0
+MIS2024,8013825,eastern,chipangali,nthope,,-13.1931875,32.454955,2024-05-17,pf_pos,
+MIS2024,8013827,eastern,chipangali,nthope,,-13.1931875,32.454955,2024-05-17,pf_pos,
+MIS2024,8013828,eastern,chipangali,nthope,,-13.1931875,32.454955,2024-05-17,pf_pos,762.0
+MIS2024,8013829,eastern,chipangali,nthope,,-13.1931875,32.454955,2024-05-17,pf_pos,380.0
+MIS2024,8013835,eastern,kasenengwa,kwenje,,-13.8804966666667,32.1649766666666,2024-05-21,pf_pos,
+MIS2024,8022249,eastern,chasefu,magodi,,-11.9620330142789,33.1662572314962,2024-04-21,pf_pos,
+MIS2024,8022271,eastern,chasefu,chizingizi,,-12.1405783333333,32.8969080839306,2024-04-29,pf_pos,2845.0
+MIS2024,8022272,eastern,chasefu,chizingizi,,-12.1405783333333,32.8969080839306,2024-04-29,pf_pos,
+MIS2024,8022285,eastern,lumezi,kaikumbe,,-12.3610958333333,32.9950704032871,2024-05-04,pf_pos,
+MIS2024,8022314,eastern,lundazi,lunevwa,,-12.4754543667758,33.2907010399252,2024-05-16,pf_pos,
+MIS2024,8022471,eastern,chasefu,chizingizi,,-12.1405783333333,32.8969080839306,2024-04-29,pf_pos,
+MIS2024,8022481,eastern,lumezi,kaikumbe,,-12.3610958333333,32.9950704032871,2024-05-04,pf_pos,
+MIS2024,8022483,eastern,lumezi,kaikumbe,,-12.3610958333333,32.9950704032871,2024-05-04,pf_pos,
+MIS2024,8022494,eastern,lundazi,nthitimila,,-12.5450299638861,33.1849530307614,2024-05-13,pf_pos,
+MIS2024,8022502,eastern,lundazi,lunevwa,,-12.4754543667758,33.2907010399252,2024-05-16,pf_pos,558.0
+MIS2024,8022702,eastern,lundazi,lunevwa,,-12.4754543667758,33.2907010399252,2024-05-16,pf_pos,
+MIS2024,8022731,lusaka,rufunsa,kabuyu,,-15.104402708821,28.9251216666667,2024-04-21,pf_pos,
+MIS2024,8022980,lusaka,rufunsa,kabuyu,,-15.104402708821,28.9251216666667,2024-04-21,pf_pos,
+MIS2024,8022997,eastern,petauke,kovyane,,-14.3678133333333,31.4624419994652,2024-04-26,pf_pos,
+MIS2024,8023015,eastern,nyimba,lwezi,,-14.5978531674401,30.9049033333334,2024-05-09,pf_pos,
+MIS2024,8030015,southern,namwala,mandondo,,-15.991233503446,27.0198160596192,2024-04-22,pf_pos,
+MIS2024,8030789,northern,mbala,motomoto,,-8.78595784306526,31.3920671632513,2024-05-04,pf_pos,
+MIS2024,8030814,northern,luwingu,lwata,,-10.7007291913033,30.3868504520506,2024-05-16,pf_pos,
+MIS2024,8030824,northern,chilubi,kashitu,,-11.14842,29.9697583333333,2024-05-22,pf_pos,
+MIS2024,8030830,northern,chilubi,luangwa,,-11.4269959973171,30.3792620636523,2024-05-24,pf_pos,
+MIS2024,8031029,northern,mungwi,chambeshi,,-10.3923417488113,31.8313469685841,2024-04-27,pf_pos,
+MIS2024,8031044,northern,mpulungu,chibulula,,-8.79247885895893,31.0783664742485,2024-05-06,pf_pos,
+MIS2024,8031053,northern,kaputa,nkonta,,-8.89554406050592,29.4789487263188,2024-05-12,pf_pos,
+MIS2024,8031063,northern,lunte,kalungwishi,,-10.0023530017086,30.4971501040703,2024-05-13,pf_pos,
+MIS2024,8031064,northern,lunte,kalungwishi,,-10.0023530017086,30.4971501040703,2024-05-13,pf_pos,
+MIS2024,8031065,northern,lunte,kalungwishi,,-10.0023530017086,30.4971501040703,2024-05-13,pf_pos,
+MIS2024,8031256,muchinga,chinsali,chunga,,-9.865745,32.3391008333333,2024-04-20,pf_pos,
+MIS2024,8031265,muchinga,mafinga,mahobe,,-10.429005,33.5715035162866,2024-04-25,pf_pos,126.0
+MIS2024,8031275,muchinga,nakonde,mpande,,-9.66993072303012,32.7504307458935,2024-05-01,pf_pos,
+MIS2024,8031276,muchinga,nakonde,mpande,,-9.66993072303012,32.7504307458935,2024-05-02,pf_pos,
+MIS2024,8031310,muchinga,kanchibiya,chibwa,,-11.7888782545924,31.0409366666667,2024-05-17,pf_pos,
+MIS2024,8031312,muchinga,kanchibiya,chibwa,,-11.7888782545924,31.0409366666667,2024-05-18,pf_pos,560.0
+MIS2024,8031313,muchinga,kanchibiya,chibwa,,-11.7888782545924,31.0409366666667,2024-05-18,pf_pos,
+MIS2024,8031517,muchinga,isoka,kalungu,,-9.72951513715088,32.7145847585052,2024-04-27,pf_pos,
+MIS2024,8031531,muchinga,nakonde,mpande,,-9.66993072303012,32.7504307458935,2024-05-02,pf_pos,
+MIS2024,8031545,northern,senga hill,chela,,-9.36453666666667,31.359715,2024-05-11,pf_pos,
+MIS2024,8031560,northern,kasama,chibundu,,-10.4421055207818,31.2409906089306,2024-05-16,pf_pos,320.0
+MIS2024,8031573,muchinga,lavushimanda,lukulu,,-11.9787146151066,30.3718766666667,2024-05-20,pf_pos,
+MIS2024,8031806,northwestern,ikelenge,nyakaseya,,-11.1524491666666,24.1926516666666,2024-05-04,pf_pos,
+MIS2024,8031821,northwestern,zambezi,muyembe,,-13.44845,22.7435741666667,2024-05-12,pf_pos,
+MIS2024,8032003,northwestern,mushindamo,mulonga,,-11.9754058333334,26.77353,2024-04-20,pf_pos,10524.0
+MIS2024,8032024,northwestern,kalumbila,chovwe,,-12.3713033333334,25.0873233333333,2024-04-25,pf_pos,
+MIS2024,8032058,northwestern,kasempa,kanongo,,-13.7473883333333,26.138025,2024-05-17,pf_pos,
+MIS2024,8032286,western,mongu,namengo,,-15.7326858333333,23.8547591666666,2024-04-25,pf_pos,
+MIS2024,8032291,western,limulunga,makuku,,-14.9641058333333,22.9909491666667,2024-04-30,pf_pos,
+MIS2024,8032302,western,luampa,nyambi,,-15.4706941666667,24.7580458333333,2024-05-04,pf_pos,
+MIS2024,8032559,western,luampa,nyambi,,-15.4706941666667,24.7580458333333,2024-05-05,pf_pos,
+MIS2024,8032567,western,mitete,lwambimba,,-14.148215,22.4384083333333,2024-05-11,pf_pos,15.0
+MIS2024,8032576,western,kalabo,lukona,,-15.3966916666667,22.85784,2024-05-14,pf_pos,
+HRP23,8010581,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,93.0
+HRP23,8010582,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,
+HRP23,8010583,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,348.0
+HRP23,8010584,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,4860.0
+HRP23,8010585,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,61.0
+HRP23,8010586,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,4056.0
+HRP23,8010587,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,
+HRP23,8010589,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,302.0
+HRP23,8010591,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,100665.0
+HRP23,8010592,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,78.0
+HRP23,8010593,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,
+HRP23,8010594,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,105723.0
+HRP23,8010595,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,31418.0
+HRP23,8010598,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,924.0
+HRP23,8010599,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,
+HRP23,8010600,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,24422.0
+HRP23,8010601,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,4560.0
+HRP23,8010603,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,
+HRP23,8010604,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,
+HRP23,8010605,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,
+HRP23,8010606,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,235.0
+HRP23,8010608,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,562.0
+HRP23,8010609,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,333.0
+HRP23,8010610,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,5021.0
+HRP23,8010613,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,20056.0
+HRP23,8010616,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,
+HRP23,8010620,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,158581.0
+HRP23,8010623,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,128120.0
+HRP23,8010626,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,28370.0
+HRP23,8010628,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,58798.0
+HRP23,8010629,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,33362.0
+HRP23,8010630,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,18837.0
+HRP23,8010631,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,5307.0
+HRP23,8010632,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,476.0
+HRP23,8010634,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,2877.0
+HRP23,8010637,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,140.0
+HRP23,8010639,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,383.0
+HRP23,8010640,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,2439.0
+HRP23,8010641,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,27405.0
+HRP23,8010642,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,4117.0
+HRP23,8010643,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,
+HRP23,8010645,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,711.0
+HRP23,8010646,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,937.0
+HRP23,8010647,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,665.0
+HRP23,8010648,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,405.0
+HRP23,8010649,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,97038.0
+HRP23,8010650,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,33.0
+HRP23,8010652,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,378.0
+HRP23,8010653,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,14179.0
+HRP23,8010655,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,
+HRP23,8010656,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,335.0
+HRP23,8010658,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,2382.0
+HRP23,8010659,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,
+HRP23,8010660,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,
+HRP23,8010666,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,17742.0
+HRP23,8010667,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,
+HRP23,8010668,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,
+HRP23,8010670,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,
+HRP23,8010671,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,
+HRP23,8010672,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,
+HRP23,8010673,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,1161.0
+HRP23,8010675,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,8150.0
+HRP23,8010678,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,690.0
+HRP23,8010679,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,75555.0
+HRP23,8010680,luapula,milenge,,milenge east 7 rural health centre,-12.4161389999,29.4854549997,,pf_pos,
+HRP23,8011062,luapula,mansa,,central urban health centre,-11.2034,28.887,2024-05-15,pf_pos,
+HRP23,8011069,luapula,mansa,,central urban health centre,-11.2034,28.887,2024-05-15,pf_pos,
+HRP23,8011072,luapula,mansa,,central urban health centre,-11.2034,28.887,2024-05-15,pf_pos,
+HRP23,8011074,luapula,mansa,,central urban health centre,-11.2034,28.887,2024-05-15,pf_pos,
+HRP23,8011079,luapula,mansa,,central urban health centre,-11.2034,28.887,2024-05-15,pf_pos,
+HRP23,8011080,luapula,mansa,,central urban health centre,-11.2034,28.887,2024-05-17,pf_pos,
+HRP23,8011083,luapula,mansa,,central urban health centre,-11.2034,28.887,2024-05-17,pf_pos,
+HRP23,8011086,luapula,mansa,,central urban health centre,-11.2034,28.887,2024-05-22,pf_pos,
+HRP23,8011088,luapula,mansa,,central urban health centre,-11.2034,28.887,2024-05-22,pf_pos,
+HRP23,8011091,luapula,mansa,,central urban health centre,-11.2034,28.887,2024-05-22,pf_pos,
+HRP23,8011102,luapula,mansa,,central urban health centre,-11.2034,28.887,2024-05-22,pf_pos,
+HRP23,8011103,luapula,mansa,,central urban health centre,-11.2034,28.887,2024-05-22,pf_pos,
+HRP23,8011106,luapula,mansa,,central urban health centre,-11.2034,28.887,2024-05-22,pf_pos,
+HRP23,8011108,luapula,mansa,,central urban health centre,-11.2034,28.887,2024-05-22,pf_pos,
+HRP23,8011109,luapula,mansa,,central urban health centre,-11.2034,28.887,2024-05-22,pf_pos,
+HRP23,8011112,luapula,mansa,,central urban health centre,-11.2034,28.887,2024-05-22,pf_pos,
+HRP23,8011115,luapula,mansa,,central urban health centre,-11.2034,28.887,2024-05-22,pf_pos,
+HRP23,8011116,luapula,mansa,,central urban health centre,-11.2034,28.887,2024-05-22,pf_pos,
+HRP23,8011120,luapula,mansa,,central urban health centre,-11.2034,28.887,2024-05-22,pf_pos,
+HRP23,8011125,luapula,mansa,,central urban health centre,-11.2034,28.887,2024-05-23,pf_pos,
+HRP23,8011180,copperbelt,mufulira,,ronald ross hospital,-12.5480229997,28.2415910001,,pf_pos,
+HRP23,8011182,copperbelt,mufulira,,ronald ross hospital,-12.5480229997,28.2415910001,,pf_pos,17306.0
+HRP23,8011187,copperbelt,mufulira,,ronald ross hospital,-12.5480229997,28.2415910001,,pf_pos,
+HRP23,8011188,copperbelt,mufulira,,ronald ross hospital,-12.5480229997,28.2415910001,,pf_pos,
+HRP23,8011191,copperbelt,mufulira,,ronald ross hospital,-12.5480229997,28.2415910001,,pf_pos,
+HRP23,8011392,lusaka,luangwa,,katondwe mission hospital,-15.2465429998,30.2475470001,2024-06-17,pf_pos,1057.0
+HRP23,8011450,lusaka,luangwa,,katondwe mission hospital,-15.2465429998,30.2475470001,2024-06-23,pf_pos,1344.0
+HRP23,8011873,eastern,katete,,kamphambe rural health centre,-14.0232069998,32.158588,,pf_pos,
+HRP23,8012104,luapula,mansa,,senama urban health centre,-11.1778510002,28.8847499999,,pf_pos,
+HRP23,8012162,luapula,mansa,,senama urban health centre,-11.1778510002,28.8847499999,,pf_pos,
+HRP23,8012167,luapula,mansa,,senama urban health centre,-11.1778510002,28.8847499999,,pf_pos,
+HRP23,8012208,luapula,mansa,,senama urban health centre,-11.1778510002,28.8847499999,,pf_pos,
+HRP23,8012741,luapula,samfya,,kasanka rural health centre,-11.9678840003,29.512841,2024-05-15,pf_pos,
+HRP23,8013691,eastern,chipata,,katandala rural health centre,-13.7164269998,32.7504719996,,pf_pos,19710.0
+HRP23,8013693,eastern,chipata,,katandala rural health centre,-13.7164269998,32.7504719996,,pf_pos,1256.0
+HRP23,8013868,copperbelt,luanshya,,roan antelope referral hospital,-13.1366039998,28.3881270002,2024-06-07,pf_pos,5346.0
+HRP23,8013890,copperbelt,luanshya,,roan antelope referral hospital,-13.1366039998,28.3881270002,2024-06-25,pf_pos,
+HRP23,8013891,copperbelt,luanshya,,roan antelope referral hospital,-13.1366039998,28.3881270002,2024-06-26,pf_pos,
+HRP23,8013954,eastern,vubwi,,mzigawa health post,-13.851967,32.9026849997,,pf_pos,5461.0
+HRP23,8022674,copperbelt,mufulira,,kamuchanga district hospital,-12.5768010003,28.2455170004,,pf_pos,45894.5
+HRP23,8022829,eastern,chipangali,,mkanda rural health centre,-13.4720689997,32.8058920003,,pf_pos,42444.0
+HRP23,8022830,eastern,chipangali,,mkanda rural health centre,-13.4720689997,32.8058920003,,pf_pos,40966.0
+HRP23,8023044,muchinga,kanchibiya,,chalabesa rural health centre,-11.3756790004,31.0134429996,,pf_pos,95.0
+HRP23,8023047,muchinga,kanchibiya,,chalabesa rural health centre,-11.3756790004,31.0134429996,,pf_pos,63841.0
+HRP23,8023050,muchinga,kanchibiya,,chalabesa rural health centre,-11.3756790004,31.0134429996,,pf_pos,112.0
+HRP23,8023075,muchinga,kanchibiya,,chalabesa rural health centre,-11.3756790004,31.0134429996,,pf_pos,
+HRP23,8023109,muchinga,kanchibiya,,chalabesa rural health centre,-11.3756790004,31.0134429996,,pf_pos,400.0
+HRP23,8023124,muchinga,kanchibiya,,chalabesa rural health centre,-11.3756790004,31.0134429996,,pf_pos,170.0
+HRP23,8023656,eastern,katete,,kafumbwe rural health centre,-14.2165089999,32.2375829998,,pf_pos,
+HRP23,8030681,eastern,katete,,kafumbwe rural health centre,-14.2165089999,32.2375829998,,pf_pos,
+HRP23,8031933,copperbelt,kitwe,,twatasha urban health centre (kitwe),-12.7569239996,28.1913509999,,pf_pos,
+HRP23,8031935,copperbelt,kitwe,,twatasha urban health centre (kitwe),-12.7569239996,28.1913509999,,pf_pos,18743.5
+HRP23,8031936,copperbelt,kitwe,,twatasha urban health centre (kitwe),-12.7569239996,28.1913509999,,pf_pos,7954.0
+HRP23,8031938,copperbelt,kitwe,,twatasha urban health centre (kitwe),-12.7569239996,28.1913509999,,pf_pos,39951.5
+HRP23,8031939,copperbelt,kitwe,,twatasha urban health centre (kitwe),-12.7569239996,28.1913509999,,pf_pos,53018.5
+HRP23,8031940,copperbelt,kitwe,,twatasha urban health centre (kitwe),-12.7569239996,28.1913509999,,pf_pos,155404.5
+HRP23,8031941,copperbelt,kitwe,,twatasha urban health centre (kitwe),-12.7569239996,28.1913509999,,pf_pos,22154.0
+HRP23,8031942,copperbelt,kitwe,,twatasha urban health centre (kitwe),-12.7569239996,28.1913509999,,pf_pos,183440.0
+HRP23,8031943,copperbelt,kitwe,,twatasha urban health centre (kitwe),-12.7569239996,28.1913509999,,pf_pos,160494.0
+HRP23,8032378,luapula,mwense,,musangu rural health centre,-10.2470560001,28.6493589996,2024-05-21,pf_pos,
+HRP23,8032597,luapula,chembe,,chembe rural health centre,-11.9676539996,28.7457270001,2024-05-05,pf_pos,13272.0
+HRP23,8032693,luapula,chembe,,chembe rural health centre,-11.9676539996,28.7457270001,2024-05-22,pf_pos,5941.0
+HRP23,8033420,eastern,mambwe,,chisengu health post,-13.2996989999,32.2190199999,,pf_pos,
+HRP23,4043504,central,mkushi,,chalata rural health centre,-13.5509890004,29.683149,,pf_pos,
+HRP23,01039028,central,mkushi,,chalata rural health centre,-13.5509890004,29.683149,,pf_pos,
+HRP23,01039023,central,mkushi,,chalata rural health centre,-13.5509890004,29.683149,,pf_pos,33.0
+HRP23,01039038,central,mkushi,,chalata rural health centre,-13.5509890004,29.683149,,pf_pos,80.0
+HRP23,8023439,northwestern,kabompo,,kabompo district hospital,-13.5956790001,24.2044060002,,pf_pos,
+HRP23,8023420,northwestern,kabompo,,kabompo district hospital,-13.5956790001,24.2044060002,,pf_pos,
+HRP23,8023435,northwestern,kabompo,,kabompo district hospital,-13.5956790001,24.2044060002,,pf_pos,
+HRP23,8023425,northwestern,kabompo,,kabompo district hospital,-13.5956790001,24.2044060002,,pf_pos,
+HRP23,8023443,northwestern,kabompo,,kabompo district hospital,-13.5956790001,24.2044060002,,pf_pos,
+HRP23,8023441,northwestern,kabompo,,kabompo district hospital,-13.5956790001,24.2044060002,,pf_pos,
+HRP23,8023429,northwestern,kabompo,,kabompo district hospital,-13.5956790001,24.2044060002,,pf_pos,
+HRP23,5053841,northwestern,solwezi,,kazomba health centre,-12.1887220004,26.3766690001,,pf_pos,750.499002
+HRP23,4043622,northwestern,solwezi,,kazomba health centre,-12.1887220004,26.3766690001,,pf_pos,
+HRP23,4043661,northwestern,solwezi,,kazomba health centre,-12.1887220004,26.3766690001,,pf_pos,
+HRP23,4043632,northwestern,solwezi,,kazomba health centre,-12.1887220004,26.3766690001,,pf_pos,
+HRP23,4043642,northwestern,solwezi,,kazomba health centre,-12.1887220004,26.3766690001,,pf_pos,
+HRP23,4043637,northwestern,solwezi,,kazomba health centre,-12.1887220004,26.3766690001,,pf_pos,
+HRP23,4043653,northwestern,solwezi,,kazomba health centre,-12.1887220004,26.3766690001,,pf_pos,
+HRP23,4043648,northwestern,solwezi,,kazomba health centre,-12.1887220004,26.3766690001,,pf_pos,
+HRP23,4043656,northwestern,solwezi,,kazomba health centre,-12.1887220004,26.3766690001,,pf_pos,
+HRP23,4043657,northwestern,solwezi,,kazomba health centre,-12.1887220004,26.3766690001,,pf_pos,
+HRP23,5053837,northwestern,solwezi,,kazomba health centre,-12.1887220004,26.3766690001,,pf_pos,7111.111111
+HRP23,5053830,northwestern,solwezi,,kazomba health centre,-12.1887220004,26.3766690001,,pf_pos,
+HRP23,5053834,northwestern,solwezi,,kazomba health centre,-12.1887220004,26.3766690001,,pf_pos,482.4902724
+HRP23,01045311,northwestern,solwezi,,kazomba health centre,-12.1887220004,26.3766690001,,pf_pos,269.3069307
+HRP23,5053831,northwestern,solwezi,,kazomba health centre,-12.1887220004,26.3766690001,,pf_pos,25069.30693
+HRP23,5053842,northwestern,solwezi,,kazomba health centre,-12.1887220004,26.3766690001,,pf_pos,29660.37736
+HRP23,8023256,northwestern,solwezi,,kimasala health centre,-12.151426,26.3861239999,,pf_pos,
+HRP23,8023324,northwestern,manyinga,,loloma mission district hospital,-13.4052229999,24.3284530001,,pf_pos,
+HRP23,8023383,northwestern,manyinga,,loloma mission district hospital,-13.4052229999,24.3284530001,,pf_pos,
+HRP23,8023343,northwestern,manyinga,,loloma mission district hospital,-13.4052229999,24.3284530001,,pf_pos,
+HRP23,8023341,northwestern,manyinga,,loloma mission district hospital,-13.4052229999,24.3284530001,,pf_pos,
+HRP23,8023411,northwestern,manyinga,,loloma mission district hospital,-13.4052229999,24.3284530001,,pf_pos,
+HRP23,8021909,northwestern,kalumbila,,maheba a rural health centre,-12.3856959999,25.9297609997,,pf_pos,477.1371769
+HRP23,5053853,northwestern,kalumbila,,maheba a rural health centre,-12.3856959999,25.9297609997,,pf_pos,
+HRP23,5053880,northwestern,kalumbila,,maheba a rural health centre,-12.3856959999,25.9297609997,,pf_pos,158.0
+HRP23,1012345,central,chisamba,,malombe rural health centre,-14.6785300003,28.1887299996,,pf_pos,320.0
+HRP23,1012371,central,chisamba,,malombe rural health centre,-14.6785300003,28.1887299996,,pf_pos,4931.506849
+HRP23,1012403,central,chisamba,,malombe rural health centre,-14.6785300003,28.1887299996,,pf_pos,
+HRP23,1012352,central,chisamba,,malombe rural health centre,-14.6785300003,28.1887299996,,pf_pos,
+HRP23,1012862,northern,mpulungu,,mpulungu district hospital,-8.78560600022,31.1331669998,,pf_pos,
+HRP23,1012442,northwestern,mufumbwe,,mufumbwe hospital affiliated health centre,-13.1458509999,25.0335689999,,pf_pos,
+HRP23,1012445,northwestern,mufumbwe,,mufumbwe hospital affiliated health centre,-13.1458509999,25.0335689999,,pf_pos,
+HRP23,1012429,northwestern,mufumbwe,,mufumbwe hospital affiliated health centre,-13.1458509999,25.0335689999,,pf_pos,
+HRP23,4043383,northern,mungwi,,mungwi rural health centre,-10.166998,31.3645299996,,pf_pos,
+HRP23,4043368,northern,mungwi,,mungwi rural health centre,-10.166998,31.3645299996,,pf_pos,
+HRP23,4043608,central,mkushi,,musofu rural health centre,-13.514023,29.0413029996,,pf_pos,
+HRP23,4043605,central,mkushi,,musofu rural health centre,-13.514023,29.0413029996,,pf_pos,
+HRP23,4043604,central,mkushi,,musofu rural health centre,-13.514023,29.0413029996,,pf_pos,
+HRP23,4043599,central,mkushi,,musofu rural health centre,-13.514023,29.0413029996,,pf_pos,
+HRP23,4043586,central,mkushi,,musofu rural health centre,-13.514023,29.0413029996,,pf_pos,
+HRP23,4043629,central,mkushi,,musofu rural health centre,-13.514023,29.0413029996,,pf_pos,
+HRP23,4043573,central,mkushi,,musofu rural health centre,-13.514023,29.0413029996,,pf_pos,
+HRP23,4043670,central,mkushi,,musofu rural health centre,-13.514023,29.0413029996,,pf_pos,
+HRP23,4043620,central,mkushi,,musofu rural health centre,-13.514023,29.0413029996,,pf_pos,
+HRP23,4043217,northern,senga hill,,senga district hospital,-9.36503400002,31.2382920003,,pf_pos,1691.0
+HRP23,8023310,northwestern,mushindano,,st dorothy rural health centre,-12.3382010004,27.0642810003,,pf_pos,478.0876494
+HRP23,5053964,northwestern,mushindano,,st dorothy rural health centre,-12.3382010004,27.0642810003,,pf_pos,1293.885602
+HRP23,5053947,northwestern,mushindano,,st dorothy rural health centre,-12.3382010004,27.0642810003,,pf_pos,
+HRP23,8023303,northwestern,mushindano,,st dorothy rural health centre,-12.3382010004,27.0642810003,,pf_pos,347.1400394
+HRP23,8023315,northwestern,mushindano,,st dorothy rural health centre,-12.3382010004,27.0642810003,,pf_pos,258.5551331
+HRP23,5053963,northwestern,mushindano,,st dorothy rural health centre,-12.3382010004,27.0642810003,,pf_pos,
+HRP23,8023295,northwestern,mushindano,,st dorothy rural health centre,-12.3382010004,27.0642810003,,pf_pos,
+HRP23,8023299,northwestern,mushindano,,st dorothy rural health centre,-12.3382010004,27.0642810003,,pf_pos,156.8627451
+HRP23,8023300,northwestern,mushindano,,st dorothy rural health centre,-12.3382010004,27.0642810003,,pf_pos,866.2420382
+HRP23,1012559,northwestern,zambezi,,zambezi district hospital affiliated health centre,-13.543667,23.1106750002,,pf_pos,223.0
+HRP23,1012595,northwestern,zambezi,,zambezi district hospital affiliated health centre,-13.543667,23.1106750002,,pf_pos,
+HRP23,1012582,northwestern,zambezi,,zambezi district hospital affiliated health centre,-13.543667,23.1106750002,,pf_pos,
+HRP23,1012564,northwestern,zambezi,,zambezi district hospital affiliated health centre,-13.543667,23.1106750002,,pf_pos,684.0
+HRP23,1012523,northwestern,zambezi,,zambezi district hospital affiliated health centre,-13.543667,23.1106750002,,pf_pos,80.0
+HRP23,1012549,northwestern,zambezi,,zambezi district hospital affiliated health centre,-13.543667,23.1106750002,,pf_pos,49.0
+HRP23,4043556,northwestern,zambezi,,zambezi district hospital affiliated health centre,-13.543667,23.1106750002,,pf_pos,
+HRP23,4043557,northwestern,zambezi,,zambezi district hospital affiliated health centre,-13.543667,23.1106750002,,pf_pos,
+HRP23,1012540,northwestern,zambezi,,zambezi district hospital affiliated health centre,-13.543667,23.1106750002,,pf_pos,519.0
+HRP23,1012511,northwestern,zambezi,,zambezi district hospital affiliated health centre,-13.543667,23.1106750002,,pf_pos,176.0
+HRP23,4043269,northern,kasama,,chisanga health centre,-10.2455489999,31.1958980004,,pf_pos,45.36862004
+HRP23,4043354,northern,kasama,,chisanga health centre,-10.2455489999,31.1958980004,,pf_pos,
+HRP23,4043355,northern,kasama,,chisanga health centre,-10.2455489999,31.1958980004,,pf_pos,19801.9802
+HRP23,4043356,northern,kasama,,chisanga health centre,-10.2455489999,31.1958980004,,pf_pos,34419.5122
+HRP23,4043300,northern,kasama,,chisanga health centre,-10.2455489999,31.1958980004,,pf_pos,
+HRP23,8019452,northwestern,kasempa,,kasempa health centre,-13.4586359999,25.8326930002,,pf_pos,
+HRP23,8023246,northwestern,kasempa,,kasempa health centre,-13.4586359999,25.8326930002,,pf_pos,
+HRP23,5053688,western,sesheke,,zambezi rural health centre,-17.4402389996,24.3773369998,,pf_pos,
+HRP23,5053682,western,sesheke,,zambezi rural health centre,-17.4402389996,24.3773369998,,pf_pos,
+HRP23,01045434,western,sesheke,,njoko mission rural health centre,-17.0756330004,24.0360759997,,pf_pos,
+HRP23,01045445,western,sesheke,,njoko mission rural health centre,-17.0756330004,24.0360759997,,pf_pos,
+HRP23,01045452,western,sesheke,,njoko mission rural health centre,-17.0756330004,24.0360759997,,pf_pos,
+HRP23,01045455,western,sesheke,,njoko mission rural health centre,-17.0756330004,24.0360759997,,pf_pos,
+HRP23,01045414,western,sesheke,,njoko mission rural health centre,-17.0756330004,24.0360759997,,pf_pos,
+HRP23,2033423,western,sesheke,,njoko mission rural health centre,-17.0756330004,24.0360759997,,pf_pos,64.0
+HRP23,2033424,western,sesheke,,njoko mission rural health centre,-17.0756330004,24.0360759997,,pf_pos,
+HRP23,2033428,western,sesheke,,njoko mission rural health centre,-17.0756330004,24.0360759997,,pf_pos,
+HRP23,1039183,central,kapiri mposhi,,mutaba health centre,-13.9213030003,28.6738369998,,pf_pos,
+HRP23,1039193,central,kapiri mposhi,,mutaba health centre,-13.9213030003,28.6738369998,,pf_pos,
+HRP23,01039177,central,kapiri mposhi,,mutaba health centre,-13.9213030003,28.6738369998,,pf_pos,
+HRP23,1039182,central,kapiri mposhi,,mutaba health centre,-13.9213030003,28.6738369998,,pf_pos,
+HRP23,1039166,central,kapiri mposhi,,mutaba health centre,-13.9213030003,28.6738369998,,pf_pos,
+HRP23,1039150,central,kapiri mposhi,,mutaba health centre,-13.9213030003,28.6738369998,,pf_pos,
+HRP23,8021796,central,kapiri mposhi,,mutaba health centre,-13.9213030003,28.6738369998,,pf_pos,
+HRP23,8021798,central,kapiri mposhi,,mutaba health centre,-13.9213030003,28.6738369998,,pf_pos,

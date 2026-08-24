@@ -1,0 +1,485 @@
+study,province,district,healthfac,collection_date,sample_id,age,gender,hrp2onlyrdt_name,hrp2onlyrdt_hrp2line,hrp2onlyrdt_controlline,num_combordts_tested,combordt_name,combordt_hrp2testline,combordt_pldhtestline,combordt_controlline,combordt2_name,combordt2_hrp2testline,combordt2_pldhtestline,combordt2_controlline,treatment,treatment_details,prev_travel,prev_travel_details,prev_malaria,prev_malaria_details,lat,long,microscopy_result,microscopy_species,parasitemia,microscopy_gametocytes,rdt_result
+HRP23,copperbelt,kalulushi,chambishi government urban health centre,2024-06-10,8022532,13.0,female,abbott,positive,negative,1,biocredit,positive,positive,positive,,,,,yes,artemether lumefantrine (coartem),no,,no,,-12.6379160001,28.0552049997,neg,,,,invalid
+HRP23,muchinga,kanchibiya,chalabesa rural health centre,,8023061,43.0,female,first response,positive,negative,1,biocredit,negative,negative,positive,,,,,unknown,,unknown,,unknown,,-11.3756790004,31.0134429996,neg,,,,invalid
+HRP23,muchinga,kanchibiya,chalabesa rural health centre,,8023063,6.0,female,first response,positive,negative,1,biocredit,negative,negative,positive,,,,,unknown,,unknown,,unknown,,-11.3756790004,31.0134429996,neg,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043389,19.0,,abbott,positive,,1,biocredit,,positive,positive,,,,,,,no,no,no,no,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043395,3.25,,abbott,positive,,1,biocredit,,positive,positive,,,,,,,no,no,no,no,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043436,23.0,,abbott,positive,,0,,,,,,,,,,,yes,yes,yes,yes,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043465,10.0,,abbott,positive,,0,,,,,,,,,,,no,no,no,no,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043466,4.0,,abbott,positive,,0,,,,,,,,,,,no,no,no,no,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043467,14.0,,abbott,positive,,0,,,,,,,,,,,no,no,no,no,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043468,25.0,,abbott,positive,,0,,,,,,,,,,,no,no,no,no,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043469,31.0,,abbott,positive,,0,,,,,,,,,,,no,no,no,no,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043477,15.0,,abbott,positive,,0,,,,,,,,,,,no,no,no,no,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043478,12.0,,abbott,positive,,0,,,,,,,,,,,no,no,no,no,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043479,31.0,,abbott,positive,,0,,,,,,,,,,,no,no,no,no,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043480,18.0,,abbott,positive,,0,,,,,,,,,,,no,no,no,no,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043481,8.0,,abbott,positive,,0,,,,,,,,,,,na,na,na,na,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043482,18.0,,abbott,positive,,0,,,,,,,,,,,na,na,na,na,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043483,14.0,,abbott,positive,,0,,,,,,,,,,,na,na,na,na,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043484,13.0,,abbott,positive,,0,,,,,,,,,,,na,na,na,na,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043485,10.0,,abbott,positive,,0,,,,,,,,,,,na,na,na,na,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043486,19.0,,abbott,positive,,0,,,,,,,,,,,na,na,na,na,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043487,23.0,,abbott,positive,,0,,,,,,,,,,,na,na,na,na,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043488,8.0,,abbott,positive,,0,,,,,,,,,,,na,na,na,na,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043489,70.0,,abbott,positive,,0,,,,,,,,,,,na,na,na,na,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043490,25.0,,abbott,positive,,0,,,,,,,,,,,na,na,na,na,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043491,3.0,,abbott,positive,,0,,,,,,,,,,,na,na,na,na,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043492,16.0,,abbott,positive,,0,,,,,,,,,,,na,na,na,na,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043493,53.0,,abbott,positive,,0,,,,,,,,,,,na,na,na,na,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043494,3.0,,abbott,positive,,0,,,,,,,,,,,na,na,na,na,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043495,7.0,,abbott,positive,,0,,,,,,,,,,,na,na,na,na,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043496,36.0,,abbott,positive,,0,,,,,,,,,,,na,na,na,na,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043497,62.0,,abbott,positive,,0,,,,,,,,,,,na,na,na,na,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043498,8.0,,abbott,positive,,0,,,,,,,,,,,na,na,na,na,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043499,4.0,,abbott,positive,,0,,,,,,,,,,,na,na,na,na,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043500,22.0,,abbott,positive,,0,,,,,,,,,,,na,na,na,na,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,lusaka,kafue,chiawa rural health centre,,4043501,9.0,,abbott,positive,,0,,,,,,,,,,,na,na,na,na,-15.8961340003,29.0428580003,,,,,invalid
+HRP23,western,kalabo,kalabo district hospital,,01046748,1.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,18578.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,01046750,22.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,270.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,01046752,60.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,yes,yes (angola),no,no,-14.9932389999,22.6806919996,pos,Pf,290.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,01046753,24.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,336.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,01046754,21.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,1189.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,01046755,8.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,401.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,01046756,17.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,6248.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,01046766,17.0,,abbott,positive,,1,biocredit,positive,negative,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,32.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,01046767,36.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,yes,yes,-14.9932389999,22.6806919996,pos,Pf,1777.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,01046770,28.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,13866.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,01046772,17.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,88.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,01046773,24.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,714.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,01046774,27.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,5229.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,01046782,19.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,29771.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,01046783,4.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,12396.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,01046788,13.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,4807.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,01046791,34.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,2629.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,01046793,10.0,,abbott,positive,,1,biocredit,positive,negative,,,,,,,,no,no,yes,yes,-14.9932389999,22.6806919996,pos,Pf,32.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,01046797,32.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,1232.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,01046798,62.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,2048.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,01046799,9.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,6133.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,01046801,10.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,37500.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,01046802,23.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,956.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,01046803,53.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,yes,travelled to mongu,no,no,-14.9932389999,22.6806919996,pos,Pf,1414.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,01046804,19.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,8194.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,01046805,14.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,25760.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,5053639,21.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,8118.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,5053640,5.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,2841.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,5053641,7.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,215.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,5053642,7.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,56392.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,5053643,27.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,368.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,5053644,7.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,32.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,5053645,11.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,95.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,5053646,16.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,80.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,5053647,17.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,329.0,,invalid
+HRP23,western,kalabo,kalabo district hospital,,5053648,21.0,,abbott,positive,,1,biocredit,positive,positive,,,,,,,,no,no,no,no,-14.9932389999,22.6806919996,pos,Pf,6088.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021912,61.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021913,4.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,144.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021914,6.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,1325.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021915,8.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,786.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021918,9.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,5174.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021919,7.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,32.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021920,18.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,neg,,,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021921,7.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,neg,,,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021922,17.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,7106.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021923,52.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,254.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021956,9.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,6925.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021924,37.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,yes,yes,-14.8047549998,24.7983910004,neg,,,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021925,7.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,75200.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021926,12.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,108936.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021927,10.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,21120.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021928,4.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,47.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021930,11.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,48.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021931,5.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,2460.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021932,25.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,83692.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021933,27.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,neg,,,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021934,38.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,7961.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021935,8.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,83692.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021936,31.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,128.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021937,12.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,216755.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021938,6.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,neg,,,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021939,82.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,yes,yes,-14.8047549998,24.7983910004,neg,,,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021941,2.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,94.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021942,4.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,332.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021943,9.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,30448.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021944,19.0,,first response,positive,,1,biocredit,negative,negative,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,47.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021945,33.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,63.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021946,7.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,126.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021947,9.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,283733.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021948,56.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,neg,,,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021949,9.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,neg,,,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021950,11.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,160.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021951,16.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,289.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021952,30.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,19765.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021953,12.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,2288.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021954,6.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf,208.0,,invalid
+HRP23,western,kaoma,kaoma health centre,,8021955,30.0,,first response,positive,,1,biocredit,positive,,positive,,,,,,,no,no,no,no,-14.8047549998,24.7983910004,pos,Pf & Pm,286.0,,invalid
+HRP23,western,sesheke,katima mulilo rural health centre,,01036152,23.0,,first response,positive,,0,,,,,,,,,,,no,no,yes,yes,-17.4713509999,24.242585,pos,Pf,391.0,,invalid
+HRP23,western,sesheke,katima mulilo rural health centre,,01036153,35.0,,first response,positive,,0,,,,,,,,,,,no,no,no,no,-17.4713509999,24.242585,neg,,,,invalid
+HRP23,western,sesheke,katima mulilo rural health centre,,01036154,18.0,,first response,positive,,0,,,,,,,,,,,no,no,no,no,-17.4713509999,24.242585,pos,Pf,1250.0,,invalid
+HRP23,western,sesheke,katima mulilo rural health centre,,01036155,13.0,,first response,positive,,0,,,,,,,,,,,yes,yes,no,no,-17.4713509999,24.242585,pos,Pf,2004.0,,invalid
+HRP23,western,sesheke,katima mulilo rural health centre,,01036156,13.0,,first response,positive,,0,,,,,,,,,,,yes,yes,no,no,-17.4713509999,24.242585,pos,Pf,28061.0,,invalid
+HRP23,western,sesheke,katima mulilo rural health centre,,01036157,17.0,,first response,positive,,0,,,,,,,,,,,no,no,no,no,-17.4713509999,24.242585,pos,Pf,159.0,,invalid
+HRP23,western,sesheke,katima mulilo rural health centre,,01036158,19.0,,first response,positive,,0,,,,,,,,,,,no,no,no,no,-17.4713509999,24.242585,neg,,,,invalid
+HRP23,western,sesheke,katima mulilo rural health centre,,01036159,14.0,,first response,positive,,0,,,,,,,,,,,no,no,no,no,-17.4713509999,24.242585,pos,Pf,783.0,,invalid
+HRP23,northwestern,solwezi,kazomba health centre,,2033069,23.0,,first response,positive,negative,1,biocredit,negative,negative,positive,,,,,,,no,no,no,no,-12.1887220004,26.3766690001,neg,,,,invalid
+HRP23,northwestern,solwezi,kazomba health centre,,2030494,4.0,,first response,positive,negative,1,biocredit,negative,negative,positive,,,,,,,no,no,no,no,-12.1887220004,26.3766690001,neg,,,,invalid
+HRP23,northwestern,solwezi,kazomba health centre,,01045378,1.92,,first response,positive,negative,1,biocredit,negative,negative,positive,,,,,,,no,no,no,no,-12.1887220004,26.3766690001,neg,,,,invalid
+HRP23,northwestern,solwezi,kazomba health centre,,5053827,6.0,,first response,positive,negative,1,biocredit,negative,negative,positive,,,,,,,no,no,no,no,-12.1887220004,26.3766690001,neg,,,,invalid
+HRP23,northwestern,solwezi,kazomba health centre,,2033076,31.0,,first response,positive,negative,1,biocredit,negative,negative,positive,,,,,,,no,no,no,no,-12.1887220004,26.3766690001,neg,,,,invalid
+HRP23,northwestern,solwezi,kazomba health centre,,1021020,13.0,,first response,positive,negative,1,biocredit,negative,negative,positive,,,,,,,no,no,no,no,-12.1887220004,26.3766690001,neg,,,,invalid
+HRP23,northwestern,solwezi,kazomba health centre,,01045338,13.0,,first response,positive,negative,1,biocredit,negative,negative,positive,,,,,,,no,no,no,no,-12.1887220004,26.3766690001,neg,,,,invalid
+HRP23,northwestern,solwezi,kazomba health centre,,01045384,4.0,,first response,positive,negative,1,biocredit,negative,negative,positive,,,,,,,no,no,no,no,-12.1887220004,26.3766690001,neg,,,,invalid
+HRP23,northwestern,solwezi,kazomba health centre,,1021015,24.0,,first response,positive,negative,1,biocredit,negative,negative,positive,,,,,,,no,no,no,no,-12.1887220004,26.3766690001,neg,,,,invalid
+HRP23,northwestern,solwezi,kazomba health centre,,2033073,3.0,,first response,positive,negative,1,biocredit,negative,negative,positive,,,,,,,no,no,no,no,-12.1887220004,26.3766690001,neg,,,,invalid
+HRP23,northwestern,solwezi,kazomba health centre,,01045399,8.0,,first response,positive,negative,1,biocredit,negative,negative,positive,,,,,,,no,no,no,no,-12.1887220004,26.3766690001,neg,,,,invalid
+HRP23,northwestern,solwezi,kazomba health centre,,01045329,1.0,,first response,positive,negative,1,biocredit,negative,negative,positive,,,,,,,no,no,no,no,-12.1887220004,26.3766690001,neg,,,,invalid
+HRP23,northwestern,solwezi,kazomba health centre,,01045396,6.0,,first response,positive,negative,1,biocredit,negative,negative,positive,,,,,,,no,no,no,no,-12.1887220004,26.3766690001,neg,,,,invalid
+HRP23,northwestern,solwezi,kazomba health centre,,01045321,14.0,,first response,positive,negative,1,biocredit,negative,negative,positive,,,,,,,no,no,no,no,-12.1887220004,26.3766690001,neg,,,,invalid
+HRP23,northwestern,solwezi,kazomba health centre,,01045334,50.0,,first response,positive,negative,1,biocredit,negative,negative,positive,,,,,,,no,no,no,no,-12.1887220004,26.3766690001,neg,,,,invalid
+HRP23,northwestern,solwezi,kazomba health centre,,5053820,6.0,,first response,positive,negative,1,biocredit,negative,negative,positive,,,,,,,no,no,no,no,-12.1887220004,26.3766690001,neg,,,,invalid
+HRP23,northwestern,solwezi,kazomba health centre,,2033072,17.0,,first response,positive,negative,1,biocredit,negative,negative,positive,,,,,,,no,no,no,no,-12.1887220004,26.3766690001,neg,,,,invalid
+HRP23,northwestern,solwezi,kazomba health centre,,01045325,25.0,,first response,positive,negative,1,biocredit,negative,negative,positive,,,,,,,no,no,no,no,-12.1887220004,26.3766690001,neg,,,,invalid
+HRP23,northwestern,solwezi,kazomba health centre,,5053823,2.0,,first response,positive,negative,1,biocredit,negative,negative,positive,,,,,,,no,no,no,no,-12.1887220004,26.3766690001,neg,,,,invalid
+HRP23,northwestern,solwezi,kazomba health centre,,2030500,3.0,,first response,positive,negative,1,biocredit,negative,positive,positive,,,,,,,no,no,no,no,-12.1887220004,26.3766690001,neg,,,,invalid
+HRP23,northwestern,solwezi,kazomba health centre,,2033071,22.0,,first response,positive,negative,1,biocredit,negative,negative,positive,,,,,,,no,no,no,no,-12.1887220004,26.3766690001,neg,,,,invalid
+HRP23,northwestern,solwezi,kazomba health centre,,5053819,20.0,,first response,positive,negative,1,biocredit,negative,negative,positive,,,,,,,no,no,no,no,-12.1887220004,26.3766690001,neg,,,,invalid
+HRP23,western,limulunga,limulunga stage ii rural health centre,,01053943,36.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,yes,coartem,-15.1346300001,23.1457499998,neg,,,,invalid
+HRP23,western,limulunga,limulunga stage ii rural health centre,,01053953,33.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,yes,coartem 3/7,-15.1346300001,23.1457499998,neg,,,,invalid
+HRP23,western,limulunga,limulunga stage ii rural health centre,,01053971,25.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-15.1346300001,23.1457499998,pos,Pf,8320.0,,invalid
+HRP23,northern,mbala,mbala health centre,,1012596,4.67,,first response,positive,,1,biocredit,positive,positive,,,,,,,,no,no,na,na,-8.83959299962,31.3556959996,pos,Pf,4430.0,,invalid
+HRP23,northern,mbala,mbala health centre,,1012605,11.0,,first response,positive,,1,biocredit,positive,positive,,,,,,,,no,no,na,na,-8.83959299962,31.3556959996,pos,Pf,50269.0,,invalid
+HRP23,northern,mbala,mbala health centre,,1012607,12.0,,first response,positive,,1,biocredit,positive,negative,,,,,,,,no,no,na,na,-8.83959299962,31.3556959996,pos,Pf,172.0,,invalid
+HRP23,northern,mbala,mbala health centre,,1012608,13.0,,first response,positive,,1,biocredit,positive,positive,,,,,,,,no,no,yes,yes,-8.83959299962,31.3556959996,pos,Pf,60634.0,,invalid
+HRP23,northern,mbala,mbala health centre,,1012609,1.5,,first response,positive,,1,biocredit,positive,positive,,,,,,,,no,no,yes,yes,-8.83959299962,31.3556959996,pos,Pf,23642.0,,invalid
+HRP23,northern,mbala,mbala health centre,,1012610,12.0,,first response,positive,,1,biocredit,positive,positive,,,,,,,,no,no,na,na,-8.83959299962,31.3556959996,pos,Pf,20910.0,,invalid
+HRP23,northern,mbala,mbala health centre,,1012615,4.66666666666667,,first response,positive,,1,biocredit,positive,positive,,,,,,,,no,no,na,na,-8.83959299962,31.3556959996,pos,Pf,1360.0,,invalid
+HRP23,northern,mbala,mbala health centre,,1012616,17.0,,first response,positive,,1,biocredit,positive,positive,,,,,,,,no,no,na,na,-8.83959299962,31.3556959996,pos,Pf,18918.0,,invalid
+HRP23,northern,mbala,mbala health centre,,1012623,60.0,,first response,positive,,1,biocredit,positive,positive,,,,,,,,no,no,yes,omeprazole,-8.83959299962,31.3556959996,pos,Pf,7235.0,,invalid
+HRP23,northern,mbala,mbala health centre,,1012624,5.0,,first response,positive,,1,biocredit,positive,positive,,,,,,,,no,no,na,na,-8.83959299962,31.3556959996,pos,Pf,20262.0,,invalid
+HRP23,northern,mbala,mbala health centre,,1012635,20.0,,first response,positive,,1,biocredit,positive,positive,,,,,,,,no,no,na,na,-8.83959299962,31.3556959996,pos,Pf,16800.0,,invalid
+HRP23,northern,mbala,mbala health centre,,1012637,4.42,,first response,positive,,1,biocredit,positive,positive,,,,,,,,no,no,na,na,-8.83959299962,31.3556959996,pos,Pf,57751.0,,invalid
+HRP23,northern,mbala,mbala health centre,,1012638,18.0,,first response,positive,,1,biocredit,positive,positive,,,,,,,,no,no,na,na,-8.83959299962,31.3556959996,pos,Pf,40280.0,,invalid
+HRP23,northern,mbala,mbala health centre,,1012640,9.0,,first response,positive,,1,biocredit,positive,positive,,,,,,,,no,no,na,na,-8.83959299962,31.3556959996,pos,Pf,110431.0,,invalid
+HRP23,northern,mbala,mbala health centre,,1012639,6.0,,first response,positive,,1,biocredit,positive,positive,,,,,,,,no,no,na,na,-8.83959299962,31.3556959996,pos,Pf,254.0,,invalid
+HRP23,northern,mbala,mbala health centre,,1012642,12.0,,first response,positive,,1,biocredit,positive,positive,,,,,,,,no,no,na,na,-8.83959299962,31.3556959996,pos,Pf,23248.0,,invalid
+HRP23,northern,mbala,mbala health centre,,1012643,20.0,,first response,positive,,1,biocredit,positive,positive,,,,,,,,no,no,na,na,-8.83959299962,31.3556959996,pos,Pf,7065.0,,invalid
+HRP23,northern,mbala,mbala health centre,,1012646,18.0,,first response,positive,,1,biocredit,positive,positive,,,,,,,,no,no,na,na,-8.83959299962,31.3556959996,pos,Pf,17748.0,,invalid
+HRP23,northern,mbala,mbala health centre,,1012654,3.0,,first response,positive,,1,biocredit,positive,positive,,,,,,,,no,no,na,na,-8.83959299962,31.3556959996,pos,Pf,,,invalid
+HRP23,northern,mbala,mbala health centre,,1012655,15.0,,first response,positive,,1,biocredit,positive,positive,,,,,,,,no,no,na,na,-8.83959299962,31.3556959996,pos,Pf,14182.0,,invalid
+HRP23,northern,mbala,mbala health centre,,1012656,13.0,,first response,positive,,1,biocredit,positive,positive,,,,,,,,no,no,na,na,-8.83959299962,31.3556959996,pos,Pf,4000.0,,invalid
+HRP23,northern,mbala,mbala health centre,,1012657,12.0,,first response,positive,,1,biocredit,positive,positive,,,,,,,,no,no,na,na,-8.83959299962,31.3556959996,pos,Pf,29268.0,,invalid
+HRP23,northern,mbala,mbala health centre,,1012660,11.0,,first response,positive,,1,biocredit,positive,positive,,,,,,,,no,no,na,na,-8.83959299962,31.3556959996,neg,,,,invalid
+HRP23,northern,mbala,mbala health centre,,1012661,7.0,,first response,positive,,1,biocredit,positive,positive,,,,,,,,no,no,na,na,-8.83959299962,31.3556959996,pos,Pf,65216.0,,invalid
+HRP23,northern,mbala,mbala health centre,,1012662,20.0,,first response,positive,,1,biocredit,positive,positive,,,,,,,,no,no,na,na,-8.83959299962,31.3556959996,pos,Pf,7354.0,,invalid
+HRP23,northern,mbala,mbala health centre,,1012663,20.0,,first response,positive,,1,biocredit,positive,positive,,,,,,,,no,no,na,na,-8.83959299962,31.3556959996,pos,Pf,82898.0,,invalid
+HRP23,northern,mbala,mbala health centre,,1012664,21.0,,first response,positive,,1,biocredit,positive,positive,,,,,,,,no,no,na,na,-8.83959299962,31.3556959996,pos,Pf,21910.0,,invalid
+HRP23,northern,mbala,mbala health centre,,1012666,7.0,,first response,positive,,1,biocredit,positive,positive,,,,,,,,no,no,na,na,-8.83959299962,31.3556959996,pos,Pf,57174.0,,invalid
+HRP23,northern,mbala,mbala health centre,,1012667,9.0,,first response,positive,,1,biocredit,positive,positive,,,,,,,,no,no,na,na,-8.83959299962,31.3556959996,pos,Pf,64128.0,,invalid
+HRP23,northern,mbala,mbala health centre,,1012668,3.0,,first response,positive,,1,biocredit,positive,positive,,,,,,,,no,no,na,na,-8.83959299962,31.3556959996,pos,Pf,129536.0,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039066,0.67,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039082,15.0,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,pos,Pf,512.0,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039077,0.83,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039079,16.0,,first response,positive,negative,1,biocredit,positive,positive,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,pos,Pm,208.0,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039110,26.0,,first response,positive,negative,1,biocredit,positive,positive,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,pos,Pf,27303.48259,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039120,20.0,,first response,positive,negative,1,biocredit,positive,positive,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,pos,Pf,32.0,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039140,8.0,,first response,positive,negative,1,biocredit,positive,positive,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,pos,Pf,64969.0,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039075,11.0,,first response,positive,negative,1,biocredit,positive,positive,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,pos,Pf,292571.4286,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039114,3.0,,first response,positive,negative,1,biocredit,positive,positive,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039064,14.0,,first response,positive,negative,1,biocredit,positive,positive,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,pos,Pf,429.1845494,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039118,1.0,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,yes,yes,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039111,19.0,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039073,17.0,,first response,positive,negative,1,biocredit,positive,positive,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,pos,Pf,4960.0,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039104,3.0,,first response,positive,negative,1,biocredit,positive,positive,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,pos,Pf,7047.619048,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039063,7.0,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039106,6.0,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039081,2.0,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,5053818,5.0,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039119,11.0,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,no,no,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039076,12.0,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,no,no,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039078,7.0,,first response,positive,negative,1,biocredit,positive,positive,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,pos,Pf,1630.47619,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039108,0.67,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,pos,Pf,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039115,6.0,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039065,2.0,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039112,24.0,,first response,positive,negative,1,biocredit,positive,positive,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,pos,Pf,915.1873767,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039123,0.67,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039068,9.0,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039132,13.0,,first response,positive,negative,1,biocredit,positive,positive,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,pos,Pf,27560.0,,invalid
+HRP23,central,serenje,mulilima rural health centre,,5053815,44.0,,first response,positive,negative,1,biocredit,positive,positive,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,pos,Pf,2480.0,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039116,4.0,,first response,positive,negative,1,biocredit,positive,positive,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,pos,Pf,1329066.667,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039098,7.0,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039093,4.0,,first response,positive,negative,1,biocredit,positive,positive,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,pos,Pf,7442.78607,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039092,28.0,,first response,positive,negative,1,biocredit,positive,positive,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039087,7.0,,first response,positive,negative,1,biocredit,positive,positive,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039095,23.0,,first response,positive,negative,1,biocredit,positive,positive,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,pos,Pf,2052.631579,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039088,2.0,,first response,positive,negative,1,biocredit,positive,positive,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,pos,Pf,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039097,22.0,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039089,7.0,,first response,positive,negative,1,biocredit,positive,positive,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039094,2.0,,first response,positive,negative,1,biocredit,positive,positive,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,pos,Pf,11480.0,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039086,14.0,,first response,positive,negative,1,biocredit,positive,positive,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039091,7.0,,first response,positive,negative,1,biocredit,positive,positive,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,pos,Pf,14800.0,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039084,16.0,,first response,positive,negative,1,biocredit,positive,positive,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,pos,Pf,949.6981891,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039100,31.0,,first response,positive,negative,1,biocredit,positive,positive,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,pos,Pf,352.0,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039103,26.0,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039101,0.42,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039062,14.0,,first response,positive,negative,1,biocredit,positive,positive,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,pos,Pf,320.0,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039055,1.0,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039059,11.0,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039060,1.25,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039041,13.0,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039050,1.0,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,pos,Pf,162.5282167,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039054,3.0,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039061,10.0,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039043,25.0,,first response,positive,negative,1,biocredit,positive,positive,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039045,9.0,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,pos,Pf,27303.48259,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039048,12.0,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039057,5.0,,first response,positive,negative,1,biocredit,positive,positive,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,pos,Pf,880.0,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039051,0.75,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039058,42.0,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039127,54.0,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039125,8.0,,first response,positive,negative,1,biocredit,positive,positive,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,central,serenje,mulilima rural health centre,,01039131,7.0,,first response,positive,negative,1,biocredit,positive,negative,negative,,,,,,,no,no,na,na,-13.3657669997,29.9160240003,neg,,,,invalid
+HRP23,copperbelt,chingola,musenga rural health post,,1012749,14.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-12.5963780001,27.9612220004,pos,Pf,17600.0,,invalid
+HRP23,copperbelt,chingola,musenga rural health post,,1012733,10.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-12.5963780001,27.9612220004,pos,Pf,44253.65854,,invalid
+HRP23,copperbelt,chingola,musenga rural health post,,1012742,13.0,,first response,positive,,1,biocredit,positive,,positive,,,,,,,no,no,yes,yes,-12.5963780001,27.9612220004,,,,,invalid
+HRP23,copperbelt,chingola,musenga rural health post,,1012750,8.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-12.5963780001,27.9612220004,pos,Pf,171680.0,,invalid
+HRP23,copperbelt,chingola,musenga rural health post,,1012740,9.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-12.5963780001,27.9612220004,pos,Pf,1365.079365,,invalid
+HRP23,copperbelt,chingola,musenga rural health post,,1012746,19.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-12.5963780001,27.9612220004,pos,Pf,43824.39024,,invalid
+HRP23,copperbelt,chingola,musenga rural health post,,1012743,0.75,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-12.5963780001,27.9612220004,neg,,,,invalid
+HRP23,copperbelt,chingola,musenga rural health post,,1012741,14.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-12.5963780001,27.9612220004,neg,,,,invalid
+HRP23,copperbelt,chingola,musenga rural health post,,1012748,35.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-12.5963780001,27.9612220004,pos,Pf,6495.049505,,invalid
+HRP23,copperbelt,chingola,musenga rural health post,,1012747,38.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-12.5963780001,27.9612220004,pos,Pf,2912.0,,invalid
+HRP23,copperbelt,chingola,musenga rural health post,,1012745,28.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-12.5963780001,27.9612220004,pos,Pf & Pm,1714.285714,,invalid
+HRP23,copperbelt,chingola,musenga rural health post,,1012744,4.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-12.5963780001,27.9612220004,pos,Pf,121507.2464,,invalid
+HRP23,copperbelt,chingola,musenga rural health post,,1012732,1.58,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-12.5963780001,27.9612220004,pos,Pf,116970.8738,,invalid
+HRP23,copperbelt,chingola,musenga rural health post,,1012739,0.75,,first response,positive,,1,biocredit,,,positive,,,,,,,no,no,yes,yes,-12.5963780001,27.9612220004,pos,Pf,177454.5455,,invalid
+HRP23,copperbelt,chingola,musenga rural health post,,1012734,10.0,,first response,positive,,1,biocredit,,,positive,,,,,,,no,no,yes,yes,-12.5963780001,27.9612220004,pos,Pf,273280.0,,invalid
+HRP23,copperbelt,chingola,musenga rural health post,,1012737,26.0,,first response,positive,,1,biocredit,,,positive,,,,,,,no,no,yes,yes,-12.5963780001,27.9612220004,pos,Pf,325120.0,,invalid
+HRP23,copperbelt,chingola,musenga rural health post,,1012736,7.0,,first response,positive,,1,biocredit,,,positive,,,,,,,no,no,yes,yes,-12.5963780001,27.9612220004,pos,Pf,1166.986564,,invalid
+HRP23,copperbelt,chingola,musenga rural health post,,1012735,12.0,,first response,positive,,1,biocredit,,,positive,,,,,,,no,no,yes,yes,-12.5963780001,27.9612220004,pos,Pf,1147.410359,,invalid
+HRP23,copperbelt,chingola,musenga rural health post,,1012738,14.0,,first response,positive,,1,biocredit,,,positive,,,,,,,no,no,yes,yes,-12.5963780001,27.9612220004,pos,Pf,768.0,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021755,38.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,yes,mumbwa,no,no,-14.869777,25.3799299996,neg,,,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021754,37.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.869777,25.3799299996,pos,Pf,47.0,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021756,7.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.869777,25.3799299996,neg,,,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021758,27.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.869777,25.3799299996,pos,Pf,205.0,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021759,20.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.869777,25.3799299996,neg,,,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021757,17.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.869777,25.3799299996,pos,Pf,776.0,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021760,3.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.869777,25.3799299996,neg,,,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021761,0.42,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.869777,25.3799299996,pos,Pf,175.0,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021762,2.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.869777,25.3799299996,neg,,,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021763,77.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.869777,25.3799299996,pos,Pf,77.0,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021764,32.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.869777,25.3799299996,pos,Pf,374.0,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021765,21.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.869777,25.3799299996,pos,Pf,98.0,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021766,26.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.869777,25.3799299996,neg,,,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021784,19.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.869777,25.3799299996,pos,Pf,513.0,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021753,24.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.869777,25.3799299996,pos,Pf,192.0,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021785,30.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.869777,25.3799299996,pos,Po,2929.0,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021786,22.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-14.869777,25.3799299996,pos,Po,4160.0,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021767,23.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,yes,yes,no,no,-14.869777,25.3799299996,pos,Pf,144.0,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021768,18.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.869777,25.3799299996,pos,Pf & Pm,4356.0,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021769,4.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.869777,25.3799299996,pos,Pf,287.0,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021770,18.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.869777,25.3799299996,pos,Pf,208.0,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021771,23.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.869777,25.3799299996,pos,Pf,4060.0,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021778,19.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,yes,yes,no,no,-14.869777,25.3799299996,pos,Pf,3758.0,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021779,38.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.869777,25.3799299996,pos,Pf,4846.0,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021780,49.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.869777,25.3799299996,pos,Pf,265.0,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021781,25.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.869777,25.3799299996,pos,Pf,3636.0,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021783,33.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.869777,25.3799299996,pos,Pf,409.0,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021772,22.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.869777,25.3799299996,pos,Pf,5465.0,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021773,17.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.869777,25.3799299996,pos,Pf,5771.0,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021775,41.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.869777,25.3799299996,pos,Pf,4926.0,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021776,27.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.869777,25.3799299996,pos,Pf,878.0,,invalid
+HRP23,western,nkeyema,nkeyema rural health centre,,8021777,20.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-14.869777,25.3799299996,pos,Pf,211.0,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043142,17.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,,,,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043147,1.16,,first response,positive,,1,biocredit,positive,,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,neg,,,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043099,12.0,,first response,positive,,1,biocredit,positive,,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,pos,Pf,396.0,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043143,10.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,pos,Pf,4920.0,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043140,13.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,pos,Pf,6230.769231,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043059,13.0,,first response,positive,,1,biocredit,,,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,neg,,,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043110,13.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,pos,Pf,33180.95238,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043116,17.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,pos,Pf,1239.915074,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043124,6.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,pos,Pf,341.7475728,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043139,0.917,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,neg,,,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043141,29.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,neg,,,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043133,13.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,pos,Pf,3200.0,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043112,12.0,,first response,positive,,1,biocredit,positive,,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,pos,Pf,175.6487026,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043126,53.0,,first response,positive,,1,biocredit,positive,,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,pos,Pf,10706.46766,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043109,6.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,pos,Pf,201.5503876,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043115,6.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,pos,Pf,45681.15942,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043148,6.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,pos,Pf,233.9181287,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043130,11.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,pos,Pf & Pm,1126.984127,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043082,15.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,neg,,,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043081,24.0,,first response,positive,,1,biocredit,positive,,positive,,,,,,,no,no,na,na,-9.560713,31.1997370003,neg,,,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043117,19.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,,,,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043145,20.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,na,na,-9.560713,31.1997370003,pos,Pf,18109.0,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043122,2.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,pos,Pf,76555.0,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043103,16.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,pos,Pf,135736.2637,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043137,2.75,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,neg,,,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043067,58.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,,,,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043107,2.0,,first response,positive,,1,biocredit,positive,,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,pos,Pf,8150.943396,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043065,15.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,neg,,,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043120,15.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,pos,Pf,8261.682243,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043146,10.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,neg,,,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043144,12.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,pos,Pf,22841.1215,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043058,13.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,,,,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043125,12.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,neg,,,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043090,29.0,,first response,positive,,1,biocredit,,,,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,neg,,,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043129,5.0,,first response,positive,,1,biocredit,,,,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,pos,Pf,892.3679061,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043100,6.0,,first response,positive,,1,biocredit,,,,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,pos,Pf,1088.888889,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043119,7.0,,first response,positive,,1,biocredit,,,,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,neg,,,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043105,49.0,,first response,positive,,1,biocredit,,,,,,,,,,no,no,yes,yes,-9.560713,31.1997370003,pos,Pf,299.8027613,,invalid
+HRP23,northern,senga hill,nondo rural health centre,,4043104,23.0,,first response,positive,,1,biocredit,,,,,,,,,,yes,yes,yes,yes,-9.560713,31.1997370003,pos,Pf,554.4554455,,invalid
+HRP23,central,serenje,serenje hospital affiliated health centre,,8021832,10.0,,sd bioline,positive,,1,biocredit,positive,positive,,,,,,,,na,na,na,na,-13.2344829998,30.2349370004,pos,Pf,,,invalid
+HRP23,central,serenje,serenje hospital affiliated health centre,,8021834,6.0,,sd bioline,positive,,1,biocredit,positive,positive,,,,,,,,na,na,na,na,-13.2344829998,30.2349370004,neg,,,,invalid
+HRP23,central,serenje,serenje hospital affiliated health centre,,8021848,36.0,,sd bioline,positive,,1,biocredit,positive,positive,,,,,,,,na,na,na,na,-13.2344829998,30.2349370004,pos,Pf,,,invalid
+HRP23,central,serenje,serenje hospital affiliated health centre,,8021849,31.0,,sd bioline,positive,,1,biocredit,positive,positive,,,,,,,,na,na,na,na,-13.2344829998,30.2349370004,pos,Pf,,,invalid
+HRP23,central,serenje,serenje hospital affiliated health centre,,8021863,7.0,,sd bioline,positive,,1,biocredit,positive,positive,,,,,,,,na,na,na,na,-13.2344829998,30.2349370004,neg,,,,invalid
+HRP23,central,serenje,serenje hospital affiliated health centre,,8021866,10.0,,sd bioline,positive,,1,biocredit,positive,positive,,,,,,,,na,na,na,na,-13.2344829998,30.2349370004,pos,Pf,,,invalid
+HRP23,central,serenje,serenje hospital affiliated health centre,,8021867,12.0,,sd bioline,positive,,1,biocredit,positive,positive,,,,,,,,na,na,na,na,-13.2344829998,30.2349370004,pos,Pf,,,invalid
+HRP23,central,serenje,serenje hospital affiliated health centre,,8021874,2.0,,sd bioline,positive,,1,biocredit,positive,negative,,,,,,,,na,na,na,na,-13.2344829998,30.2349370004,neg,,,,invalid
+HRP23,central,serenje,serenje hospital affiliated health centre,,8021884,13.0,,sd bioline,positive,,1,biocredit,positive,positive,,,,,,,,na,na,na,na,-13.2344829998,30.2349370004,pos,Pf,,,invalid
+HRP23,central,serenje,serenje hospital affiliated health centre,,8021899,6.0,,sd bioline,positive,,1,biocredit,positive,positive,,,,,,,,na,na,na,na,-13.2344829998,30.2349370004,pos,Pf,,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053691,6.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,yes,yes,-15.0350449996,22.1542679998,neg,,,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053692,12.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-15.0350449996,22.1542679998,pos,Pf,16816.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053695,4.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-15.0350449996,22.1542679998,pos,Pf,37833.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053699,40.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,yes,yes,-15.0350449996,22.1542679998,pos,Pf,532.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053700,15.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-15.0350449996,22.1542679998,pos,Pf,21895.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053702,8.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-15.0350449996,22.1542679998,pos,Pf,7485.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053704,40.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-15.0350449996,22.1542679998,pos,Pf,589.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053705,9.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-15.0350449996,22.1542679998,pos,Pf,30.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053706,18.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,yes,yes,-15.0350449996,22.1542679998,pos,Pf,172.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053707,5.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-15.0350449996,22.1542679998,pos,Pf,128.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053708,15.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-15.0350449996,22.1542679998,pos,Pm,1917.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053709,8.0,,first response,positive,,1,biocredit,negative,positive,positive,,,,,,,no,no,yes,yes,-15.0350449996,22.1542679998,pos,Pf,6549.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053711,15.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-15.0350449996,22.1542679998,pos,Pf,12560.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053712,11.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-15.0350449996,22.1542679998,neg,,,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053713,0.92,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-15.0350449996,22.1542679998,pos,Pf,26359.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053714,8.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,yes,yes,-15.0350449996,22.1542679998,pos,Pf,1050.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053715,0.75,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-15.0350449996,22.1542679998,pos,Pf,39960.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053716,13.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,yes,yes,no,no,-15.0350449996,22.1542679998,pos,Pf,15884.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053720,11.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-15.0350449996,22.1542679998,neg,,,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053721,11.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-15.0350449996,22.1542679998,pos,Pf,78.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053722,6.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-15.0350449996,22.1542679998,pos,Pf,8574.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053724,8.0,,first response,positive,,1,biocredit,negative,positive,positive,,,,,,,no,no,yes,yes,-15.0350449996,22.1542679998,neg,,,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053725,25.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-15.0350449996,22.1542679998,pos,Pf,333.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053726,14.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,yes,yes,no,no,-15.0350449996,22.1542679998,pos,Pf,911.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053727,15.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-15.0350449996,22.1542679998,pos,Pf,239.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053732,16.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-15.0350449996,22.1542679998,pos,Pf,10157.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053734,14.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-15.0350449996,22.1542679998,pos,Pf,173.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053736,10.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-15.0350449996,22.1542679998,pos,Pf,141.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053739,17.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-15.0350449996,22.1542679998,pos,Pf,6586.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053740,8.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-15.0350449996,22.1542679998,pos,Pf & Pm,3498.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053741,5.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-15.0350449996,22.1542679998,neg,,,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053742,33.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,no,no,-15.0350449996,22.1542679998,pos,Pf,635.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053743,0.83,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-15.0350449996,22.1542679998,neg,,,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053744,25.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,no,no,no,no,-15.0350449996,22.1542679998,pos,Pf,951.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053751,13.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-15.0350449996,22.1542679998,pos,Pf,13091.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053767,8.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,no,no,yes,yes,-15.0350449996,22.1542679998,pos,Pf,1077.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,4043553,2.5,,first response,positive,,1,biocredit,,,positive,,,,,,,no,no,yes,yes,-15.0350449996,22.1542679998,,,,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053780,9.0,,first response,positive,,1,biocredit,,,positive,,,,,,,no,no,yes,yes,-15.0350449996,22.1542679998,pos,Pf,10160.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053781,4.0,,first response,positive,,1,biocredit,,,positive,,,,,,,no,no,yes,yes,-15.0350449996,22.1542679998,pos,Pf,52986.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053782,17.0,,first response,positive,,1,biocredit,,,positive,,,,,,,no,no,yes,yes,-15.0350449996,22.1542679998,pos,Pf,4144.0,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053787,19.0,,first response,positive,,1,biocredit,,,positive,,,,,,,no,no,yes,yes,-15.0350449996,22.1542679998,neg,,,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053795,12.0,,first response,positive,,1,biocredit,,,positive,,,,,,,no,no,yes,yes,-15.0350449996,22.1542679998,neg,,,,invalid
+HRP23,western,sikongo,sikongo rural health centre,,5053798,1.92,,first response,positive,,1,biocredit,,,positive,,,,,,,no,no,yes,yes,-15.0350449996,22.1542679998,neg,,,,invalid
+HRP23,northern,mbala,tulemane health centre,,4043049,2.75,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,na,na,na,na,-8.8392200004,31.3554309999,pos,Pf,960.0,,invalid
+HRP23,northern,mbala,tulemane health centre,,4043565,14.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,na,na,na,na,-8.8392200004,31.3554309999,,,,,invalid
+HRP23,northern,mbala,tulemane health centre,,4043010,16.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,na,na,na,na,-8.8392200004,31.3554309999,pos,Pf,18951.0,,invalid
+HRP23,northern,mbala,tulemane health centre,,4043022,4.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,na,na,na,na,-8.8392200004,31.3554309999,pos,Pf,127.0,,invalid
+HRP23,northern,mbala,tulemane health centre,,1012997,21.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,na,na,na,na,-8.8392200004,31.3554309999,pos,Pf,96.0,,invalid
+HRP23,northern,mbala,tulemane health centre,,4043006,5.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,na,na,na,na,-8.8392200004,31.3554309999,pos,Pf,2555.0,,invalid
+HRP23,northern,mbala,tulemane health centre,,1012984,6.75,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,na,na,na,na,-8.8392200004,31.3554309999,pos,Pf,2777.0,,invalid
+HRP23,northern,mbala,tulemane health centre,,1013000,10.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,na,na,na,na,-8.8392200004,31.3554309999,pos,Pf,238.0,,invalid
+HRP23,northern,mbala,tulemane health centre,,4043041,72.0,,first response,positive,,1,biocredit,negative,negative,positive,,,,,,,na,na,na,na,-8.8392200004,31.3554309999,neg,,,,invalid
+HRP23,northern,mbala,tulemane health centre,,1012986,1.92,,first response,positive,,1,biocredit,negative,positive,positive,,,,,,,na,na,na,na,-8.8392200004,31.3554309999,pos,Po,77.0,,invalid
+HRP23,northern,mbala,tulemane health centre,,1012977,4.0,,first response,positive,,1,biocredit,negative,positive,positive,,,,,,,na,na,na,na,-8.8392200004,31.3554309999,pos,Pf,206.0,,invalid
+HRP23,northern,mbala,tulemane health centre,,4043033,22.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,na,na,na,na,-8.8392200004,31.3554309999,pos,Pf,475.0,,invalid
+HRP23,northern,mbala,tulemane health centre,,4043037,42.0,,first response,positive,,1,biocredit,positive,negative,positive,,,,,,,na,na,na,na,-8.8392200004,31.3554309999,pos,Pf,191.0,,invalid
+HRP23,northern,mbala,tulemane health centre,,1012987,0.08,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,na,na,na,na,-8.8392200004,31.3554309999,neg,,,,invalid
+HRP23,northern,mbala,tulemane health centre,,1012976,13.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,na,na,na,na,-8.8392200004,31.3554309999,pos,Pf,280296.0,,invalid
+HRP23,northern,mbala,tulemane health centre,,1012994,0.92,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,na,na,na,na,-8.8392200004,31.3554309999,neg,,,,invalid
+HRP23,northern,mbala,tulemane health centre,,4043017,25.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,na,na,na,na,-8.8392200004,31.3554309999,pos,Pf,28762.0,,invalid
+HRP23,northern,mbala,tulemane health centre,,1012988,10.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,na,na,na,na,-8.8392200004,31.3554309999,pos,Pf,34866.0,,invalid
+HRP23,northern,mbala,tulemane health centre,,1012985,10.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,na,na,na,na,-8.8392200004,31.3554309999,pos,Pf,210424.0,,invalid
+HRP23,northern,mbala,tulemane health centre,,1012975,1.0,,first response,positive,,1,biocredit,positive,positive,positive,,,,,,,na,na,na,na,-8.8392200004,31.3554309999,pos,Pf,296000.0,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034001,,,,positive,,0,,,,,,,,,,,yes,mulobezi,yes,coartem,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034002,13.0,,,positive,,0,,,,,,,,,,,yes,sioma,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034003,6.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034004,26.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034007,9.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034008,32.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034009,33.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034010,14.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034011,11.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034012,45.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034013,10.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034014,6.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034015,32.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034016,16.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034017,14.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034018,44.0,,,positive,,0,,,,,,,,,,,yes,namibia,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034019,14.0,,,positive,,0,,,,,,,,,,,yes,mulobezi,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034020,20.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034021,29.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034022,2.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034023,26.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034024,34.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034025,11.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034026,7.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034027,20.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034028,30.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034029,15.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034030,44.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034031,14.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034032,2.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034033,12.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034034,19.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034035,9.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034036,14.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034037,22.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034038,32.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034039,8.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034040,51.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034041,46.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034042,23.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034043,12.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034044,6.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034045,9.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034046,12.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034047,38.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034048,23.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034049,13.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034050,15.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034051,9.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034052,5.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034053,33.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034054,9.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034055,15.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034056,1.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034057,4.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034058,15.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034059,33.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034060,3.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,zambezi rural health centre,,8034061,19.0,,,positive,,0,,,,,,,,,,,na,na,na,na,-17.4402389996,24.3773369998,,,,,invalid
+HRP23,western,sesheke,njoko mission rural health centre,,8036472,60.0,,first response,positive,negative,0,,,,,,,,,,,no,no,no,no,-17.0756330004,24.0360759997,,,,,invalid
+HRP23,western,sesheke,njoko mission rural health centre,,8036476,12.0,,first response,positive,negative,0,,,,,,,,,,,no,no,no,no,-17.0756330004,24.0360759997,,,,,invalid
+HRP23,western,sesheke,njoko mission rural health centre,,8036479,27.0,,first response,positive,negative,0,,,,,,,,,,,no,no,no,no,-17.0756330004,24.0360759997,,,,,invalid
+HRP23,western,sesheke,njoko mission rural health centre,,8036483,7.0,,first response,positive,negative,0,,,,,,,,,,,no,no,no,no,-17.0756330004,24.0360759997,,,,,invalid
+HRP23,western,sesheke,njoko mission rural health centre,,8036489,26.0,,first response,positive,negative,0,,,,,,,,,,,no,no,no,no,-17.0756330004,24.0360759997,,,,,invalid
+HRP23,western,sesheke,njoko mission rural health centre,,8036491,14.0,,first response,positive,negative,0,,,,,,,,,,,no,no,no,no,-17.0756330004,24.0360759997,,,,,invalid
+HRP23,western,sesheke,njoko mission rural health centre,,8036501,35.0,,first response,positive,negative,0,,,,,,,,,,,no,no,no,no,-17.0756330004,24.0360759997,,,,,invalid
+HRP23,western,sesheke,njoko mission rural health centre,,8036508,13.0,,first response,positive,negative,0,,,,,,,,,,,no,no,no,no,-17.0756330004,24.0360759997,,,,,invalid
+HRP23,western,sesheke,njoko mission rural health centre,,8036509,35.0,,first response,positive,negative,0,,,,,,,,,,,no,no,no,no,-17.0756330004,24.0360759997,,,,,invalid
+HRP23,western,sesheke,njoko mission rural health centre,,8036510,37.0,,first response,positive,negative,0,,,,,,,,,,,no,no,no,no,-17.0756330004,24.0360759997,,,,,invalid
+HRP23,western,sesheke,njoko mission rural health centre,,8036511,33.0,,first response,positive,negative,0,,,,,,,,,,,no,no,no,no,-17.0756330004,24.0360759997,,,,,invalid
+HRP23,western,sesheke,njoko mission rural health centre,,8036516,33.0,,first response,positive,negative,0,,,,,,,,,,,no,no,no,no,-17.0756330004,24.0360759997,,,,,invalid
+HRP23,western,sesheke,njoko mission rural health centre,,8036519,10.0,,first response,positive,negative,0,,,,,,,,,,,no,no,no,no,-17.0756330004,24.0360759997,,,,,invalid
+HRP23,western,sesheke,njoko mission rural health centre,,8036521,15.0,,first response,positive,negative,0,,,,,,,,,,,no,no,no,no,-17.0756330004,24.0360759997,,,,,invalid
+HRP23,western,sesheke,njoko mission rural health centre,,8036524,11.0,,first response,positive,negative,0,,,,,,,,,,,no,no,no,no,-17.0756330004,24.0360759997,,,,,invalid
+HRP23,western,sesheke,njoko mission rural health centre,,8036526,19.0,,first response,positive,negative,0,,,,,,,,,,,no,no,no,no,-17.0756330004,24.0360759997,,,,,invalid
+HRP23,western,sesheke,njoko mission rural health centre,,8036529,65.0,,first response,positive,negative,0,,,,,,,,,,,no,no,no,no,-17.0756330004,24.0360759997,,,,,invalid
+HRP23,western,sesheke,njoko mission rural health centre,,8036531,38.0,,first response,positive,negative,0,,,,,,,,,,,no,no,no,no,-17.0756330004,24.0360759997,,,,,invalid
+HRP23,western,sesheke,njoko mission rural health centre,,8036533,38.0,,first response,positive,negative,0,,,,,,,,,,,no,no,no,no,-17.0756330004,24.0360759997,,,,,invalid
+HRP23,western,sesheke,njoko mission rural health centre,,8036534,15.0,,first response,positive,negative,0,,,,,,,,,,,no,no,no,no,-17.0756330004,24.0360759997,,,,,invalid
+HRP23,western,sesheke,njoko mission rural health centre,,8036535,6.0,,first response,positive,negative,0,,,,,,,,,,,no,no,no,no,-17.0756330004,24.0360759997,,,,,invalid
+HRP23,western,sesheke,njoko mission rural health centre,,8036536,11.0,,first response,positive,negative,0,,,,,,,,,,,no,no,no,no,-17.0756330004,24.0360759997,,,,,invalid
+HRP23,western,sesheke,njoko mission rural health centre,,8036542,20.0,,first response,positive,negative,0,,,,,,,,,,,no,no,no,no,-17.0756330004,24.0360759997,,,,,invalid
+HRP23,western,sesheke,njoko mission rural health centre,,8036543,18.0,,first response,positive,negative,0,,,,,,,,,,,no,no,no,no,-17.0756330004,24.0360759997,,,,,invalid

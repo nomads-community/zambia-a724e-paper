@@ -1,0 +1,301 @@
+set_type,sample_id,district,province,expt_name,barcode,gt_A724E,dp_A724E,wsaf_A724E,clonality,carrier_A724E
+representative,8032012,mushindano,northwestern,2024-10-16_SLMM055_MIS2024_Batch1,barcode08,0.0,4454.0,0.000341996,polyclonal,False
+clonal,8032294,kaoma,western,2024-10-16_SLMM055_MIS2024_Batch1,barcode13,0.0,4577.0,0.0,clonal,False
+representative,8032550,luampa,western,2024-10-16_SLMM055_MIS2024_Batch1,barcode26,0.0,4094.0,0.000795015,polyclonal,False
+representative,8032003,mushindano,northwestern,2024-10-16_SLMM055_MIS2024_Batch1,barcode33,0.0,3601.0,0.0,polyclonal,False
+representative,8032589,shangombo,western,2024-10-16_SLMM055_MIS2024_Batch1,barcode34,0.0,4302.0,0.00015307,clonal,False
+representative,8032319,mitete,western,2024-10-16_SLMM055_MIS2024_Batch1,barcode38,2.0,3368.0,0.999512,clonal,True
+representative,8032551,luampa,western,2024-10-16_SLMM055_MIS2024_Batch1,barcode39,1.0,4228.0,0.323807,polyclonal,True
+representative,8032545,kaoma,western,2024-10-16_SLMM055_MIS2024_Batch1,barcode42,1.0,4254.0,0.827502,clonal,True
+representative,8032573,kalabo,western,2024-10-16_SLMM055_MIS2024_Batch1,barcode44,0.0,4548.0,0.0,polyclonal,False
+clonal,8032348,sikongo,western,2024-10-16_SLMM056_MIS2024_Batch1,barcode57,0.0,2469.0,0.00040649,clonal,False
+representative,8032032,mwinilunga,northwestern,2024-10-16_SLMM056_MIS2024_Batch1,barcode59,0.0,2683.0,0.0,clonal,False
+representative,8032037,mwinilunga,northwestern,2024-10-16_SLMM056_MIS2024_Batch1,barcode72,0.0,3056.0,0.0,polyclonal,False
+representative,8032543,kaoma,western,2024-10-16_SLMM056_MIS2024_Batch1,barcode73,1.0,2414.0,0.834696,polyclonal,True
+representative,8031769,mushindano,northwestern,2024-10-16_SLMM056_MIS2024_Batch1,barcode74,0.0,2940.0,0.0,polyclonal,False
+representative,8031774,mushindano,northwestern,2024-10-16_SLMM056_MIS2024_Batch1,barcode75,0.0,1330.0,0.0,polyclonal,False
+representative,8031770,mushindano,northwestern,2024-10-16_SLMM056_MIS2024_Batch1,barcode76,0.0,1955.0,1.52506e-05,polyclonal,False
+clonal,8032013,mushindano,northwestern,2024-10-16_SLMM056_MIS2024_Batch1,barcode78,0.0,2277.0,0.000280034,clonal,False
+representative,8032544,kaoma,western,2024-10-16_SLMM056_MIS2024_Batch1,barcode80,1.0,1649.0,0.270294,polyclonal,True
+representative,8031771,mushindano,northwestern,2024-10-16_SLMM056_MIS2024_Batch1,barcode82,0.0,2336.0,0.0,polyclonal,False
+representative,8032330,kalabo,western,2024-10-16_SLMM056_MIS2024_Batch1,barcode83,0.0,1737.0,0.0,clonal,False
+representative,8032000,mushindano,northwestern,2024-10-16_SLMM056_MIS2024_Batch1,barcode84,0.0,1048.0,1.52506e-05,polyclonal,False
+representative,8032343,shangombo,western,2024-10-16_SLMM056_MIS2024_Batch1,barcode88,2.0,2046.0,0.999985,clonal,True
+representative,8032595,sikongo,western,2024-10-16_SLMM056_MIS2024_Batch1,barcode90,1.0,1557.0,0.0209592,polyclonal,True
+representative,8031761,mushindano,northwestern,2024-10-16_SLMM056_MIS2024_Batch1,barcode93,0.0,2226.0,1.52506e-05,polyclonal,False
+clonal,8032583,nalolo,western,2024-10-30_SLMM060_MIS2024Batch2,barcode07,0.0,4343.0,1.52506e-05,clonal,False
+representative,8032034,mwinilunga,northwestern,2024-10-30_SLMM060_MIS2024Batch2,barcode08,1.0,3678.0,0.68878,clonal,True
+representative,8031772,mushindano,northwestern,2024-10-30_SLMM060_MIS2024Batch2,barcode09,0.0,2498.0,0.0,clonal,False
+representative,8032335,nalolo,western,2024-10-30_SLMM060_MIS2024Batch2,barcode10,0.0,1727.0,0.0,clonal,False
+representative,8032594,sikongo,western,2024-10-30_SLMM060_MIS2024Batch2,barcode11,0.0,2521.0,0.0,polyclonal,False
+representative,8032527,mongu,western,2024-10-30_SLMM060_MIS2024Batch2,barcode14,0.0,4496.0,0.0,clonal,False
+representative,8032526,mongu,western,2024-10-30_SLMM060_MIS2024Batch2,barcode20,0.0,2084.0,0.00625696,clonal,False
+clonal,8031773,mushindano,northwestern,2024-10-30_SLMM060_MIS2024Batch2,barcode28,0.0,1854.0,0.0,clonal,False
+representative,8032055,manyinga,northwestern,2024-10-30_SLMM060_MIS2024Batch2,barcode34,2.0,398.0,1.0,clonal,True
+representative,8032541,limulunga,western,2024-10-30_SLMM060_MIS2024Batch2,barcode35,0.0,823.0,0.0,clonal,False
+clonal,8032265,senanga,western,2024-10-30_SLMM060_MIS2024Batch2,barcode36,0.0,611.0,0.0,clonal,False
+representative,8032347,sikongo,western,2024-10-30_SLMM060_MIS2024Batch2,barcode38,0.0,1205.0,0.0,polyclonal,False
+representative,8032558,luampa,western,2024-10-30_SLMM060_MIS2024Batch2,barcode39,2.0,790.0,1.0,clonal,True
+representative,8032320,mitete,western,2024-10-30_SLMM060_MIS2024Batch2,barcode43,1.0,1803.0,0.159865,polyclonal,True
+representative,8031811,chavuma,northwestern,2024-10-30_SLMM060_MIS2024Batch2,barcode47,2.0,235.0,1.0,clonal,True
+clonal,8032579,nalolo,western,2024-10-30_SLMM060_MIS2024Batch2,barcode55,0.0,1983.0,0.0,clonal,False
+clonal,8031765,mushindano,northwestern,2024-10-30_SLMM060_MIS2024Batch2,barcode57,0.0,852.0,0.0,clonal,False
+clonal,8032277,mongu,western,2024-10-30_SLMM060_MIS2024Batch2,barcode58,2.0,167.0,1.0,clonal,True
+representative,8031271,isoka,muchinga,2024-11-06_SLMM065_MIS2024_Batch7,barcode63,0.0,200.0,0.0,clonal,False
+representative,8031277,nakonde,muchinga,2024-11-06_SLMM065_MIS2024_Batch7,barcode64,0.0,1654.0,0.0,polyclonal,False
+representative,8031324,lavushimanda,muchinga,2024-11-06_SLMM065_MIS2024_Batch7,barcode84,0.0,1041.0,0.0,polyclonal,False
+representative,8031512,mafinga,muchinga,2024-11-06_SLMM065_MIS2024_Batch7,barcode87,2.0,1118.0,1.0,clonal,True
+representative,8031523,isoka,muchinga,2024-11-06_SLMM065_MIS2024_Batch7,barcode89,0.0,157.0,0.0,polyclonal,False
+representative,8031527,nakonde,muchinga,2024-11-06_SLMM065_MIS2024_Batch7,barcode91,0.0,191.0,0.0,polyclonal,False
+representative,8021937,kaoma,western,2024-11-06_SLMM067_HRP2,barcode55,1.0,4351.0,0.692312,polyclonal,True
+representative,1046675,luampa,western,2024-11-06_SLMM067_HRP2,barcode73,2.0,4169.0,0.999827,clonal,True
+representative,1046674,luampa,western,2024-11-06_SLMM067_HRP2,barcode83,2.0,81.0,1.0,polyclonal,True
+representative,8031566,kanchibiya,muchinga,2024-11-07_SLMM066_MIS2024batch8,barcode22,0.0,764.0,0.0,polyclonal,False
+representative,8021912,kaoma,western,2025-03-27_SLMM069_HRP2 2024_Batch2,barcode06,0.0,320.0,0.0,polyclonal,False
+representative,8021930,kaoma,western,2025-03-27_SLMM069_HRP2 2024_Batch2,barcode20,2.0,224.0,1.0,clonal,True
+representative,8021932,kaoma,western,2025-03-27_SLMM069_HRP2 2024_Batch2,barcode22,0.0,2402.0,0.000106963,clonal,False
+representative,8021934,kaoma,western,2025-03-27_SLMM069_HRP2 2024_Batch2,barcode24,2.0,250.0,1.0,clonal,True
+representative,8021935,kaoma,western,2025-03-27_SLMM069_HRP2 2024_Batch2,barcode26,0.0,4547.0,0.00040823,clonal,False
+representative,8021940,kaoma,western,2025-03-27_SLMM069_HRP2 2024_Batch2,barcode30,0.0,287.0,0.0,polyclonal,False
+representative,8021941,kaoma,western,2025-03-27_SLMM069_HRP2 2024_Batch2,barcode31,2.0,3259.0,1.0,polyclonal,True
+representative,8021946,kaoma,western,2025-03-27_SLMM069_HRP2 2024_Batch2,barcode33,1.0,738.0,0.836221,polyclonal,True
+representative,8021948,kaoma,western,2025-03-27_SLMM069_HRP2 2024_Batch2,barcode35,0.0,381.0,0.0,clonal,False
+clonal,8021950,kaoma,western,2025-03-27_SLMM069_HRP2 2024_Batch2,barcode37,0.0,217.0,0.0,clonal,False
+representative,8021951,kaoma,western,2025-03-27_SLMM069_HRP2 2024_Batch2,barcode38,2.0,2311.0,1.0,polyclonal,True
+representative,8021943,kaoma,western,2025-03-27_SLMM069_HRP2 2024_Batch2,barcode43,1.0,3695.0,0.855588,polyclonal,True
+representative,8021942,kaoma,western,2025-03-27_SLMM069_HRP2 2024_Batch2,barcode44,0.0,470.0,0.0,polyclonal,False
+representative,1046720,luampa,western,2025-03-27_SLMM069_HRP2 2024_Batch2,barcode57,0.0,1513.0,0.0,polyclonal,False
+representative,1046719,luampa,western,2025-03-27_SLMM069_HRP2 2024_Batch2,barcode58,0.0,447.0,0.0,polyclonal,False
+representative,1046678,luampa,western,2025-03-27_SLMM069_HRP2 2024_Batch2,barcode59,2.0,762.0,1.0,clonal,True
+clonal,1046680,luampa,western,2025-03-27_SLMM069_HRP2 2024_Batch2,barcode60,2.0,2754.0,1.0,clonal,True
+clonal,1046677,luampa,western,2025-03-27_SLMM069_HRP2 2024_Batch2,barcode61,0.0,4117.0,0.0,clonal,False
+representative,1046705,luampa,western,2025-03-27_SLMM069_HRP2 2024_Batch2,barcode68,0.0,623.0,0.00156997,polyclonal,False
+representative,1046689,luampa,western,2025-03-27_SLMM069_HRP2 2024_Batch2,barcode69,2.0,3205.0,1.0,clonal,True
+representative,1046718,luampa,western,2025-03-27_SLMM069_HRP2 2024_Batch2,barcode71,2.0,4271.0,1.0,clonal,True
+clonal,1046717,luampa,western,2025-03-27_SLMM069_HRP2 2024_Batch2,barcode73,2.0,50.0,0.962639,clonal,True
+representative,1046728,luampa,western,2025-03-27_SLMM069_HRP2 2024_Batch2,barcode74,0.0,368.0,0.0,clonal,False
+representative,1046736,luampa,western,2025-03-27_SLMM069_HRP2 2024_Batch2,barcode79,0.0,1232.0,0.0,clonal,False
+clonal,1046791,kalabo,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode09,2.0,1375.0,1.0,clonal,True
+clonal,1046798,kalabo,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode11,0.0,1834.0,0.0,clonal,False
+clonal,1046802,kalabo,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode13,0.0,1397.0,0.0,clonal,False
+representative,1046803,kalabo,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode14,0.0,1160.0,0.0,polyclonal,False
+representative,1046805,kalabo,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode16,1.0,2318.0,0.423708,polyclonal,True
+representative,5053639,kalabo,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode17,1.0,1924.0,0.657564,polyclonal,True
+representative,5053640,kalabo,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode18,1.0,1547.0,0.797182,polyclonal,True
+representative,5053641,kalabo,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode19,0.0,1340.0,0.0,polyclonal,False
+clonal,5053645,kalabo,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode22,0.0,1844.0,0.0,clonal,False
+clonal,1053971,limulunga,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode26,0.0,2698.0,0.000379338,clonal,False
+representative,1053943,limulunga,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode27,0.0,530.0,0.0,polyclonal,False
+clonal,1045436,sesheke,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode30,0.0,994.0,0.0,clonal,False
+representative,1045437,sesheke,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode31,1.0,1223.0,0.85957,polyclonal,True
+representative,1045438,sesheke,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode32,1.0,359.0,0.334195,polyclonal,True
+representative,1045439,sesheke,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode33,1.0,1330.0,0.979997,polyclonal,True
+clonal,1045440,sesheke,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode34,1.0,319.0,0.134484,clonal,True
+representative,1045433,sesheke,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode35,0.0,428.0,0.00223422,clonal,False
+clonal,1045447,sesheke,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode37,0.0,489.0,0.0,clonal,False
+representative,1045448,sesheke,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode38,1.0,1868.0,0.0765572,polyclonal,True
+representative,1045454,sesheke,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode43,1.0,2610.0,0.778261,polyclonal,True
+representative,2033428,sesheke,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode45,1.0,465.0,0.167364,polyclonal,True
+representative,2033430,sesheke,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode46,0.0,2106.0,0.0,clonal,False
+representative,2033431,sesheke,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode47,1.0,1510.0,0.307115,polyclonal,True
+representative,2033432,sesheke,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode48,1.0,228.0,0.670974,polyclonal,True
+clonal,5053716,sikongo,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode78,0.0,642.0,0.0,clonal,False
+representative,5053692,sikongo,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode80,1.0,966.0,0.774466,polyclonal,True
+representative,5053732,sikongo,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode84,2.0,166.0,0.994069,clonal,True
+representative,5053714,sikongo,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode89,1.0,149.0,0.248056,polyclonal,True
+representative,5053700,sikongo,western,2025-04-03_SLMM070_HRP2 2024_Batch3,barcode93,0.0,1298.0,0.0,clonal,False
+clonal,5053711,sikongo,western,2025-04-03_SLMM071_HRP22024_Batch4,barcode10,2.0,3363.0,0.999903,clonal,True
+representative,5053727,sikongo,western,2025-04-03_SLMM071_HRP22024_Batch4,barcode12,1.0,907.0,0.589895,polyclonal,True
+representative,5053713,sikongo,western,2025-04-03_SLMM071_HRP22024_Batch4,barcode14,0.0,4482.0,0.00017307,clonal,False
+representative,5053740,sikongo,western,2025-04-03_SLMM071_HRP22024_Batch4,barcode17,0.0,58.0,0.0515196,polyclonal,False
+representative,5053699,sikongo,western,2025-04-03_SLMM071_HRP22024_Batch4,barcode18,2.0,513.0,1.0,clonal,True
+representative,5053705,sikongo,western,2025-04-03_SLMM071_HRP22024_Batch4,barcode19,1.0,605.0,0.1302,polyclonal,True
+representative,5053708,sikongo,western,2025-04-03_SLMM071_HRP22024_Batch4,barcode22,2.0,153.0,0.987127,clonal,True
+representative,1036151,sesheke,western,2025-04-03_SLMM071_HRP22024_Batch4,barcode24,0.0,2303.0,0.0,clonal,False
+representative,1036153,sesheke,western,2025-04-03_SLMM071_HRP22024_Batch4,barcode25,0.0,424.0,0.0,clonal,False
+representative,1036152,sesheke,western,2025-04-03_SLMM071_HRP22024_Batch4,barcode26,0.0,1400.0,0.000319376,clonal,False
+representative,1036154,sesheke,western,2025-04-03_SLMM071_HRP22024_Batch4,barcode27,2.0,1061.0,1.0,clonal,True
+representative,1036157,sesheke,western,2025-04-03_SLMM071_HRP22024_Batch4,barcode30,0.0,1182.0,0.000747712,polyclonal,False
+clonal,1036159,sesheke,western,2025-04-03_SLMM071_HRP22024_Batch4,barcode32,0.0,255.0,0.00389057,clonal,False
+representative,8021027,kasempa,northwestern,2025-04-03_SLMM071_HRP22024_Batch4,barcode52,0.0,4726.0,0.000131509,clonal,False
+representative,8023974,kasempa,northwestern,2025-04-03_SLMM071_HRP22024_Batch4,barcode54,0.0,4824.0,0.00016307,clonal,False
+clonal,8021039,kasempa,northwestern,2025-04-03_SLMM071_HRP22024_Batch4,barcode57,2.0,4617.0,0.999985,clonal,True
+representative,8023990,kasempa,northwestern,2025-04-03_SLMM071_HRP22024_Batch4,barcode58,0.0,656.0,0.0,clonal,False
+representative,8023994,kasempa,northwestern,2025-04-03_SLMM071_HRP22024_Batch4,barcode59,1.0,3560.0,0.815987,polyclonal,True
+representative,8021020,kasempa,northwestern,2025-04-03_SLMM071_HRP22024_Batch4,barcode60,2.0,4699.0,1.0,polyclonal,True
+representative,8019450,kasempa,northwestern,2025-04-03_SLMM071_HRP22024_Batch4,barcode61,1.0,4691.0,0.897075,polyclonal,True
+clonal,8019451,kasempa,northwestern,2025-04-03_SLMM071_HRP22024_Batch4,barcode62,0.0,4824.0,0.000124547,clonal,False
+clonal,8019456,kasempa,northwestern,2025-04-03_SLMM071_HRP22024_Batch4,barcode63,2.0,1940.0,0.999524,clonal,True
+representative,8023245,kasempa,northwestern,2025-04-03_SLMM071_HRP22024_Batch4,barcode64,1.0,3513.0,0.580816,polyclonal,True
+representative,8023299,mushindano,northwestern,2025-04-03_SLMM071_HRP22024_Batch4,barcode67,0.0,483.0,0.0,clonal,False
+representative,8023302,mushindano,northwestern,2025-04-03_SLMM071_HRP22024_Batch4,barcode68,0.0,4778.0,0.000151244,clonal,False
+representative,8023313,mushindano,northwestern,2025-04-03_SLMM071_HRP22024_Batch4,barcode69,0.0,4739.0,0.0,polyclonal,False
+representative,8023307,mushindano,northwestern,2025-04-03_SLMM071_HRP22024_Batch4,barcode71,0.0,2892.0,0.000303938,polyclonal,False
+representative,8023304,mushindano,northwestern,2025-04-03_SLMM071_HRP22024_Batch4,barcode72,0.0,1949.0,0.0,polyclonal,False
+representative,8023300,mushindano,northwestern,2025-04-03_SLMM071_HRP22024_Batch4,barcode80,0.0,72.0,0.0,clonal,False
+representative,1036155,sesheke,western,2025-04-03_SLMM071_HRP22024_Batch4,barcode81,2.0,4653.0,1.0,clonal,True
+representative,2030496,solwezi,northwestern,2025-04-04_SLMM072_HRP22024_Batch5,barcode11,2.0,577.0,0.998313,polyclonal,True
+representative,5053836,solwezi,northwestern,2025-04-04_SLMM072_HRP22024_Batch5,barcode12,2.0,65.0,1.0,clonal,True
+clonal,5053835,solwezi,northwestern,2025-04-04_SLMM072_HRP22024_Batch5,barcode14,0.0,121.0,0.0,clonal,False
+clonal,1012556,zambezi,northwestern,2025-04-04_SLMM072_HRP22024_Batch5,barcode21,0.0,2003.0,0.0,clonal,False
+clonal,1012543,zambezi,northwestern,2025-04-04_SLMM072_HRP22024_Batch5,barcode23,0.0,4318.0,0.0,clonal,False
+clonal,1012552,zambezi,northwestern,2025-04-04_SLMM072_HRP22024_Batch5,barcode30,2.0,1616.0,1.0,clonal,True
+representative,8023334,manyinga,northwestern,2025-04-04_SLMM072_HRP22024_Batch5,barcode39,0.0,4744.0,0.0,clonal,False
+clonal,8023345,manyinga,northwestern,2025-04-04_SLMM072_HRP22024_Batch5,barcode51,0.0,2568.0,0.00154478,clonal,False
+representative,8023331,manyinga,northwestern,2025-04-04_SLMM072_HRP22024_Batch5,barcode52,2.0,63.0,1.0,clonal,True
+representative,8023322,manyinga,northwestern,2025-04-04_SLMM072_HRP22024_Batch5,barcode54,2.0,2220.0,0.99968,clonal,True
+clonal,8023347,manyinga,northwestern,2025-04-04_SLMM072_HRP22024_Batch5,barcode58,1.0,1953.0,0.913203,clonal,True
+representative,1040820,manyinga,northwestern,2025-04-04_SLMM072_HRP22024_Batch5,barcode59,2.0,4062.0,1.0,clonal,True
+representative,8023285,solwezi,northwestern,2025-04-04_SLMM072_HRP22024_Batch5,barcode61,0.0,536.0,0.0,clonal,False
+representative,8023417,kabompo,northwestern,2025-04-04_SLMM072_HRP22024_Batch5,barcode70,2.0,3614.0,0.999985,clonal,True
+representative,8023421,kabompo,northwestern,2025-04-04_SLMM072_HRP22024_Batch5,barcode77,2.0,1640.0,0.995168,polyclonal,True
+representative,8023438,kabompo,northwestern,2025-04-04_SLMM072_HRP22024_Batch5,barcode78,2.0,396.0,0.997673,clonal,True
+representative,8023442,kabompo,northwestern,2025-04-04_SLMM072_HRP22024_Batch5,barcode79,1.0,1052.0,0.223021,polyclonal,True
+representative,8023420,kabompo,northwestern,2025-04-04_SLMM072_HRP22024_Batch5,barcode81,1.0,129.0,0.263374,polyclonal,True
+clonal,8023436,kabompo,northwestern,2025-04-04_SLMM072_HRP22024_Batch5,barcode82,0.0,4792.0,0.0,clonal,False
+representative,8023439,kabompo,northwestern,2025-04-04_SLMM072_HRP22024_Batch5,barcode83,1.0,268.0,0.443751,clonal,True
+representative,8023351,kabompo,northwestern,2025-04-04_SLMM072_HRP22024_Batch5,barcode85,2.0,542.0,0.998189,polyclonal,True
+representative,8023425,kabompo,northwestern,2025-04-04_SLMM072_HRP22024_Batch5,barcode86,1.0,77.0,0.883199,polyclonal,True
+representative,8023419,kabompo,northwestern,2025-04-04_SLMM072_HRP22024_Batch5,barcode87,2.0,2622.0,1.0,clonal,True
+representative,8023426,kabompo,northwestern,2025-04-04_SLMM072_HRP22024_Batch5,barcode90,1.0,1210.0,0.0873357,clonal,True
+representative,8023443,kabompo,northwestern,2025-04-04_SLMM072_HRP22024_Batch5,barcode92,0.0,74.0,0.0,polyclonal,False
+representative,1012434,mufumbwe,northwestern,2025-04-04_SLMM072_HRP22024_Batch5,barcode96,2.0,4176.0,1.0,clonal,True
+representative,1012416,mufumbwe,northwestern,2025-05-06_SLMM073_HRP22024_Batch6,barcode09,1.0,1742.0,0.914705,polyclonal,True
+representative,1012424,mufumbwe,northwestern,2025-05-06_SLMM073_HRP22024_Batch6,barcode11,2.0,1031.0,1.0,polyclonal,True
+representative,1012447,mufumbwe,northwestern,2025-05-06_SLMM073_HRP22024_Batch6,barcode13,0.0,4690.0,0.00191938,polyclonal,False
+representative,1012449,mufumbwe,northwestern,2025-05-06_SLMM073_HRP22024_Batch6,barcode15,2.0,2276.0,1.0,clonal,True
+representative,1012426,mufumbwe,northwestern,2025-05-06_SLMM073_HRP22024_Batch6,barcode18,2.0,1094.0,1.0,clonal,True
+representative,1012450,mufumbwe,northwestern,2025-05-06_SLMM073_HRP22024_Batch6,barcode20,1.0,1806.0,0.842507,polyclonal,True
+representative,1012420,mufumbwe,northwestern,2025-05-06_SLMM073_HRP22024_Batch6,barcode23,2.0,2885.0,0.999985,polyclonal,True
+clonal,1012443,mufumbwe,northwestern,2025-05-06_SLMM073_HRP22024_Batch6,barcode24,0.0,2121.0,0.0,clonal,False
+representative,1012438,mufumbwe,northwestern,2025-05-06_SLMM073_HRP22024_Batch6,barcode25,0.0,2267.0,0.0,clonal,False
+representative,1012433,mufumbwe,northwestern,2025-05-06_SLMM073_HRP22024_Batch6,barcode26,1.0,3902.0,0.0257669,polyclonal,True
+representative,8013555,chipangali,eastern,2025-05-08_SLMM074_MIS2024_Batch6,barcode08,0.0,,0.0,polyclonal,False
+representative,8022279,lumezi,eastern,2025-05-08_SLMM074_MIS2024_Batch6,barcode30,0.0,,0.0,clonal,False
+representative,8022315,lundazi,eastern,2025-05-08_SLMM074_MIS2024_Batch6,barcode43,0.0,,0.0,polyclonal,False
+representative,5053742,sikongo,western,2025-07-02_SLMM077_HRP2-32024_Batch10,barcode18,2.0,415.0,1.0,clonal,True
+representative,1036156,sesheke,western,2025-07-02_SLMM077_HRP2-32024_Batch10,barcode24,2.0,1344.0,0.999985,clonal,True
+clonal,1036158,sesheke,western,2025-07-02_SLMM077_HRP2-32024_Batch10,barcode26,2.0,1498.0,1.0,clonal,True
+representative,8023230,kasempa,northwestern,2025-07-02_SLMM077_HRP2-32024_Batch10,barcode56,2.0,917.0,1.0,clonal,True
+representative,8023305,mushindano,northwestern,2025-07-02_SLMM077_HRP2-32024_Batch10,barcode62,0.0,748.0,0.0,polyclonal,False
+representative,5053837,solwezi,northwestern,2025-07-02_SLMM077_HRP2-32024_Batch10,barcode66,0.0,582.0,0.0,clonal,False
+clonal,5053831,solwezi,northwestern,2025-07-02_SLMM077_HRP2-32024_Batch10,barcode67,0.0,865.0,0.0,clonal,False
+representative,5053842,solwezi,northwestern,2025-07-02_SLMM077_HRP2-32024_Batch10,barcode68,0.0,745.0,0.0,clonal,False
+representative,1012544,zambezi,northwestern,2025-07-02_SLMM077_HRP2-32024_Batch10,barcode69,2.0,354.0,1.0,clonal,True
+clonal,1012412,zambezi,northwestern,2025-07-02_SLMM077_HRP2-32024_Batch10,barcode70,2.0,582.0,1.0,clonal,True
+representative,1012542,zambezi,northwestern,2025-07-02_SLMM077_HRP2-32024_Batch10,barcode71,2.0,528.0,1.0,polyclonal,True
+representative,1012540,zambezi,northwestern,2025-07-02_SLMM077_HRP2-32024_Batch10,barcode72,0.0,562.0,1.52506e-05,clonal,False
+clonal,1012559,zambezi,northwestern,2025-07-02_SLMM077_HRP2-32024_Batch10,barcode73,0.0,366.0,0.00241701,clonal,False
+representative,1012546,zambezi,northwestern,2025-07-02_SLMM077_HRP2-32024_Batch10,barcode77,1.0,1078.0,0.577924,polyclonal,True
+representative,1012538,zambezi,northwestern,2025-07-02_SLMM077_HRP2-32024_Batch10,barcode79,1.0,1202.0,0.419088,polyclonal,True
+representative,1012413,zambezi,northwestern,2025-07-02_SLMM077_HRP2-32024_Batch10,barcode83,1.0,1059.0,0.974033,polyclonal,True
+clonal,1012521,zambezi,northwestern,2025-07-02_SLMM077_HRP2-32024_Batch10,barcode84,0.0,902.0,0.0,clonal,False
+clonal,8023349,manyinga,northwestern,2025-07-02_SLMM077_HRP2-32024_Batch10,barcode86,0.0,1072.0,0.0,clonal,False
+representative,8023330,manyinga,northwestern,2025-07-02_SLMM077_HRP2-32024_Batch10,barcode89,1.0,413.0,0.576245,polyclonal,True
+representative,8023337,manyinga,northwestern,2025-07-02_SLMM077_HRP2-32024_Batch10,barcode90,2.0,641.0,1.0,clonal,True
+clonal,8023320,manyinga,northwestern,2025-07-02_SLMM077_HRP2-32024_Batch10,barcode92,2.0,987.0,1.0,clonal,True
+representative,8023346,manyinga,northwestern,2025-07-02_SLMM078_HRP22024_Batch11,barcode11,1.0,424.0,0.155393,polyclonal,True
+representative,8023348,manyinga,northwestern,2025-07-02_SLMM078_HRP22024_Batch11,barcode14,2.0,1844.0,1.0,clonal,True
+representative,8023321,manyinga,northwestern,2025-07-02_SLMM078_HRP22024_Batch11,barcode15,1.0,422.0,0.554454,polyclonal,True
+clonal,8023250,solwezi,northwestern,2025-07-02_SLMM078_HRP22024_Batch11,barcode21,0.0,3754.0,0.0,clonal,False
+representative,8023249,solwezi,northwestern,2025-07-02_SLMM078_HRP22024_Batch11,barcode25,0.0,112.0,0.0,clonal,False
+representative,8023441,kabompo,northwestern,2025-07-02_SLMM078_HRP22024_Batch11,barcode27,0.0,420.0,0.0,clonal,False
+clonal,8023430,kabompo,northwestern,2025-07-02_SLMM078_HRP22024_Batch11,barcode28,2.0,664.0,1.0,clonal,True
+representative,8023427,kabompo,northwestern,2025-07-02_SLMM078_HRP22024_Batch11,barcode33,2.0,1015.0,1.0,clonal,True
+representative,8023437,kabompo,northwestern,2025-07-02_SLMM078_HRP22024_Batch11,barcode38,2.0,1732.0,1.0,clonal,True
+clonal,8023432,kabompo,northwestern,2025-07-02_SLMM078_HRP22024_Batch11,barcode39,0.0,2116.0,0.000420977,clonal,False
+representative,8023440,kabompo,northwestern,2025-07-02_SLMM078_HRP22024_Batch11,barcode41,2.0,1489.0,1.0,clonal,True
+representative,1012421,mufumbwe,northwestern,2025-07-02_SLMM078_HRP22024_Batch11,barcode42,1.0,2083.0,0.245115,polyclonal,True
+representative,1012431,mufumbwe,northwestern,2025-07-02_SLMM078_HRP22024_Batch11,barcode52,0.0,1090.0,0.0,clonal,False
+representative,1012427,mufumbwe,northwestern,2025-07-02_SLMM078_HRP22024_Batch11,barcode55,0.0,295.0,0.0,clonal,False
+representative,1012430,mufumbwe,northwestern,2025-07-02_SLMM078_HRP22024_Batch11,barcode57,2.0,125.0,1.0,polyclonal,True
+clonal,1012423,mufumbwe,northwestern,2025-07-02_SLMM078_HRP22024_Batch11,barcode59,0.0,635.0,0.0,clonal,False
+clonal,1012444,mufumbwe,northwestern,2025-07-02_SLMM078_HRP22024_Batch11,barcode65,2.0,576.0,1.0,clonal,True
+representative,1012418,mufumbwe,northwestern,2025-07-02_SLMM078_HRP22024_Batch11,barcode67,1.0,4135.0,0.543514,polyclonal,True
+representative,8010700,chipata,eastern,2025-10-03_SLMM087_HRP2_2024_Batch19,barcode87,0.0,,0.0,clonal,False
+representative,8010709,chipata,eastern,2025-10-03_SLMM087_HRP2_2024_Batch19,barcode95,0.0,,0.0,clonal,False
+representative,8010711,chipata,eastern,2025-10-03_SLMM087_HRP2_2024_Batch19,barcode96,0.0,,0.0,clonal,False
+representative,8010683,chipata,eastern,2025-10-08_SLMM088_HRP2_2024_Batch20,barcode52,0.0,,0.0,clonal,False
+representative,8010689,chipata,eastern,2025-10-08_SLMM088_HRP2_2024_Batch20,barcode54,0.0,,0.0,clonal,False
+representative,8010988,chipata,eastern,2025-10-08_SLMM088_HRP2_2024_Batch20,barcode94,0.0,,0.0,polyclonal,False
+representative,8010995,chipata,eastern,2025-10-08_SLMM089_HRP2_2024_Batch21,barcode08,0.0,,0.0,clonal,False
+representative,8012421,vubwi,eastern,2025-10-08_SLMM089_HRP2_2024_Batch21,barcode28,0.0,,0.0,clonal,False
+representative,8012434,vubwi,eastern,2025-10-08_SLMM089_HRP2_2024_Batch21,barcode33,0.0,,0.0,polyclonal,False
+representative,8012436,vubwi,eastern,2025-10-08_SLMM089_HRP2_2024_Batch21,barcode35,0.0,,0.0,polyclonal,False
+representative,8012469,vubwi,eastern,2025-10-08_SLMM089_HRP2_2024_Batch21,barcode58,0.0,,0.0,clonal,False
+representative,8012489,vubwi,eastern,2025-10-08_SLMM089_HRP2_2024_Batch21,barcode73,0.0,,0.0,clonal,False
+representative,8013943,vubwi,eastern,2025-10-08_SLMM089_HRP2_2024_Batch21,barcode86,0.0,,0.0,clonal,False
+representative,8013944,vubwi,eastern,2025-10-08_SLMM089_HRP2_2024_Batch21,barcode87,0.0,,0.0,polyclonal,False
+representative,8013950,vubwi,eastern,2025-10-08_SLMM089_HRP2_2024_Batch21,barcode91,0.0,,0.0,polyclonal,False
+representative,8013952,vubwi,eastern,2025-10-08_SLMM089_HRP2_2024_Batch21,barcode92,0.0,,0.0,clonal,False
+representative,8013425,chipata,eastern,2025-10-08_SLMM089_HRP2_2024_Batch21,barcode93,0.0,,0.0,clonal,False
+representative,8013449,chipata,eastern,2025-10-14_SLMM090_HRP2_2024_Batch22,barcode18,0.0,,0.0,clonal,False
+representative,8013459,chipata,eastern,2025-10-14_SLMM090_HRP2_2024_Batch22,barcode27,0.0,,0.0,polyclonal,False
+representative,8013460,chipata,eastern,2025-10-14_SLMM090_HRP2_2024_Batch22,barcode28,0.0,,0.0,clonal,False
+representative,8013470,chipata,eastern,2025-10-14_SLMM090_HRP2_2024_Batch22,barcode36,0.0,,0.0,clonal,False
+representative,8013471,chipata,eastern,2025-10-14_SLMM090_HRP2_2024_Batch22,barcode37,0.0,,0.0,polyclonal,False
+representative,8013476,chipata,eastern,2025-10-14_SLMM090_HRP2_2024_Batch22,barcode40,0.0,,0.0,polyclonal,False
+representative,8013478,chipata,eastern,2025-10-14_SLMM090_HRP2_2024_Batch22,barcode42,0.0,,0.0,polyclonal,False
+representative,8013480,chipata,eastern,2025-10-14_SLMM090_HRP2_2024_Batch22,barcode44,0.0,,0.0,clonal,False
+representative,8013488,chipata,eastern,2025-10-14_SLMM090_HRP2_2024_Batch22,barcode50,0.0,,0.0,clonal,False
+representative,8013498,chipata,eastern,2025-10-14_SLMM090_HRP2_2024_Batch22,barcode58,0.0,,0.0,clonal,False
+representative,8013676,chipata,eastern,2025-10-14_SLMM090_HRP2_2024_Batch22,barcode60,0.0,,0.0,clonal,False
+representative,8013681,chipata,eastern,2025-10-14_SLMM090_HRP2_2024_Batch22,barcode64,0.0,,0.0,clonal,False
+representative,8013686,chipata,eastern,2025-10-14_SLMM090_HRP2_2024_Batch22,barcode67,0.0,,0.0,polyclonal,False
+representative,8022819,chipangali,eastern,2025-10-14_SLMM090_HRP2_2024_Batch22,barcode83,0.0,,0.0,polyclonal,False
+representative,8022865,chipangali,eastern,2025-10-14_SLMM091_HRP2_2024_Batch23,barcode17,0.0,,0.0,polyclonal,False
+representative,8022891,chipangali,eastern,2025-10-14_SLMM091_HRP2_2024_Batch23,barcode37,0.0,,0.0,clonal,False
+representative,8023679,katete,eastern,2025-10-14_SLMM091_HRP2_2024_Batch23,barcode43,0.0,,0.0,polyclonal,False
+representative,8033123,chipangali,eastern,2025-10-14_SLMM091_HRP2_2024_Batch23,barcode71,0.0,,0.0,clonal,False
+representative,8033127,chipangali,eastern,2025-10-14_SLMM091_HRP2_2024_Batch23,barcode74,0.0,,0.0,clonal,False
+representative,8033128,chipangali,eastern,2025-10-14_SLMM091_HRP2_2024_Batch23,barcode75,0.0,,0.0,clonal,False
+representative,8033146,chipangali,eastern,2025-10-14_SLMM091_HRP2_2024_Batch23,barcode78,0.0,,0.0,polyclonal,False
+representative,8033155,chipangali,eastern,2025-10-14_SLMM091_HRP2_2024_Batch23,barcode84,0.0,,0.0,polyclonal,False
+clonal,8034000,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode07,0.0,3653.0,0.000443104,clonal,False
+clonal,8034002,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode09,0.0,3181.0,0.000303616,clonal,False
+clonal,8034003,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode10,0.0,3749.0,0.000255173,clonal,False
+clonal,8034004,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode11,0.0,4011.0,0.000240319,clonal,False
+clonal,8034006,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode13,0.0,123.0,0.0,clonal,False
+clonal,8034007,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode14,0.0,3621.0,0.0,clonal,False
+representative,8034008,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode15,0.0,2394.0,0.0,clonal,False
+clonal,8034009,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode16,2.0,2868.0,1.0,clonal,True
+representative,8034010,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode17,2.0,2695.0,0.99973,polyclonal,True
+representative,8034013,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode20,0.0,2542.0,0.000385903,clonal,False
+representative,8034014,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode21,0.0,3133.0,0.0,clonal,False
+representative,8034015,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode22,0.0,296.0,0.00337407,clonal,False
+representative,8034016,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode23,1.0,4453.0,0.139411,clonal,True
+representative,8034017,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode24,0.0,2867.0,0.0,clonal,False
+clonal,8034018,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode25,0.0,1573.0,0.0,clonal,False
+representative,8034019,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode26,1.0,2107.0,0.318949,polyclonal,True
+representative,8034024,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode31,0.0,4197.0,0.00016307,clonal,False
+clonal,8034025,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode32,2.0,1522.0,0.998863,clonal,True
+representative,8034026,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode33,0.0,2774.0,0.0,clonal,False
+clonal,8034028,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode35,2.0,2577.0,1.0,clonal,True
+representative,8034030,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode37,2.0,79.0,1.0,clonal,True
+clonal,8034031,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode38,0.0,3701.0,0.00125451,clonal,False
+representative,8034036,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode43,2.0,3006.0,0.999985,clonal,True
+representative,8034037,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode44,0.0,2476.0,1.52506e-05,polyclonal,False
+representative,8034039,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode46,0.0,3074.0,0.0,clonal,False
+representative,8034040,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode47,0.0,3121.0,0.0,clonal,False
+representative,8034042,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode49,2.0,1692.0,0.999314,clonal,True
+representative,8034043,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode50,0.0,2905.0,1.52506e-05,polyclonal,False
+representative,8034044,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode51,2.0,4744.0,0.99974,clonal,True
+representative,8034045,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode52,2.0,4746.0,0.999985,clonal,True
+representative,8034048,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode55,2.0,3777.0,0.999114,clonal,True
+representative,8034049,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode56,0.0,4910.0,0.0,clonal,False
+clonal,8034050,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode57,0.0,3670.0,0.000463104,clonal,False
+representative,8034052,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode59,0.0,4298.0,0.0,clonal,False
+representative,8034053,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode60,2.0,1652.0,1.0,polyclonal,True
+clonal,8034059,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode66,2.0,2763.0,1.0,clonal,True
+representative,8034060,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode67,0.0,1422.0,1.52506e-05,polyclonal,False
+representative,8033172,chipangali,eastern,2025-10-30_SLMM093_HRP2_2024_Batch25,barcode07,0.0,,0.0,polyclonal,False
+representative,8033185,chipangali,eastern,2025-10-30_SLMM093_HRP2_2024_Batch25,barcode12,0.0,,0.0,clonal,False
+representative,8033342,mambwe,eastern,2025-10-30_SLMM093_HRP2_2024_Batch25,barcode23,0.0,,0.0,clonal,False
+representative,8033344,mambwe,eastern,2025-10-30_SLMM093_HRP2_2024_Batch25,barcode25,0.0,,0.0,clonal,False
+representative,8033355,mambwe,eastern,2025-10-30_SLMM093_HRP2_2024_Batch25,barcode32,0.0,,0.0,polyclonal,False
+representative,8033369,mambwe,eastern,2025-10-30_SLMM093_HRP2_2024_Batch25,barcode41,0.0,,0.0,clonal,False
+representative,8033385,mambwe,eastern,2025-10-30_SLMM093_HRP2_2024_Batch25,barcode49,0.0,,0.0,clonal,False
+representative,8033412,mambwe,eastern,2025-10-30_SLMM093_HRP2_2024_Batch25,barcode65,0.0,,0.0,polyclonal,False
+representative,8033415,mambwe,eastern,2025-10-30_SLMM093_HRP2_2024_Batch25,barcode67,0.0,,0.0,clonal,False
+representative,8033426,mambwe,eastern,2025-10-30_SLMM093_HRP2_2024_Batch25,barcode75,0.0,,0.0,polyclonal,False
+representative,8010843,shiwang'andu,muchinga,2025-10-30_SLMM093_HRP2_2024_Batch25,barcode85,0.0,,0.0,clonal,False

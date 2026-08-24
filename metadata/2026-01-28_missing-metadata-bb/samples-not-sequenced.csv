@@ -1,0 +1,285 @@
+sample_id,n_replicates,n_passing,status,take_for_sequencing,study,province,district,ward,healthfac,rdt_result,screening_method_x,has_pcr,extraction_id,genus_cp,genus_result,pf_cp,pf_result,screening_method_y,pf_convpcr
+01039048,0,0,not_sequenced,True,HRP23,central,serenje,,mulilima rural health centre,invalid,pet_pcr,True,DR913,36.595,pos,33.33,pos,pet_pcr,
+01039059,0,0,not_sequenced,True,HRP23,central,serenje,,mulilima rural health centre,invalid,pet_pcr,True,DR906,18.79,pos,28.95,pos,pet_pcr,
+01039062,0,0,not_sequenced,True,HRP23,central,serenje,,mulilima rural health centre,invalid,pet_pcr,True,DR926,37.83,pos,34.72,pos,pet_pcr,
+01039078,0,0,not_sequenced,True,HRP23,central,serenje,,mulilima rural health centre,invalid,pet_pcr,True,DR907,35.515,pos,32.065,pos,pet_pcr,
+01039087,0,0,not_sequenced,True,HRP23,central,serenje,,mulilima rural health centre,invalid,pet_pcr,True,DR920,33.9,pos,32.425,pos,pet_pcr,
+01039088,0,0,not_sequenced,True,HRP23,central,serenje,,mulilima rural health centre,invalid,pet_pcr,True,DR922,37.495,pos,33.58,pos,pet_pcr,
+01039091,0,0,not_sequenced,True,HRP23,central,serenje,,mulilima rural health centre,invalid,pet_pcr,True,DR912,33.445,pos,30.86,pos,pet_pcr,
+01039093,0,0,not_sequenced,True,HRP23,central,serenje,,mulilima rural health centre,invalid,pet_pcr,True,DR927,31.495,pos,28.635,pos,pet_pcr,
+01039094,0,0,not_sequenced,True,HRP23,central,serenje,,mulilima rural health centre,invalid,pet_pcr,True,DR925,30.57,pos,27.65,pos,pet_pcr,
+01039095,0,0,not_sequenced,True,HRP23,central,serenje,,mulilima rural health centre,invalid,pet_pcr,True,DR909,23.685,pos,29.875,pos,pet_pcr,
+01039104,0,0,not_sequenced,True,HRP23,central,serenje,,mulilima rural health centre,invalid,pet_pcr,True,DR931,33.35,pos,30.565,pos,pet_pcr,
+01039112,0,0,not_sequenced,True,HRP23,central,serenje,,mulilima rural health centre,invalid,pet_pcr,True,DR908,34.65,pos,31.51,pos,pet_pcr,
+01039129,0,0,not_sequenced,True,HRP23,central,serenje,,mulilima rural health centre,invalid,pet_pcr,True,DR915,37.42,pos,35.655,pos,pet_pcr,
+01039132,0,0,not_sequenced,True,HRP23,central,serenje,,mulilima rural health centre,invalid,pet_pcr,True,DR902,30.205,pos,26.41,pos,pet_pcr,
+01046684,0,0,not_sequenced,True,HRP23,western,luampa,,luampa mission district hospital,pf_pos,pet_pcr,True,DR220,27.87,pos,28.75,pos,pet_pcr,
+01046706,0,0,not_sequenced,True,HRP23,western,luampa,,luampa mission district hospital,pf_pos,pet_pcr,True,DR219,26.095,pos,29.865,pos,pet_pcr,
+01046709,0,0,not_sequenced,True,HRP23,western,luampa,,luampa mission district hospital,pf_pos,pet_pcr,True,DR222,26.28,pos,27.815,pos,pet_pcr,
+01046710,0,0,not_sequenced,True,HRP23,western,luampa,,luampa mission district hospital,pf_pos,pet_pcr,True,DR224,36.265,pos,32.9,pos,pet_pcr,
+01046712,0,0,not_sequenced,True,HRP23,western,luampa,,luampa mission district hospital,pf_pos,pet_pcr,True,DR223,36.93,pos,33.645,pos,pet_pcr,
+01046730,0,0,not_sequenced,True,HRP23,western,luampa,,luampa mission district hospital,pf_pos,pet_pcr,True,DR221,33.71,pos,33.055,pos,pet_pcr,
+01046732,0,0,not_sequenced,True,HRP23,western,luampa,,luampa mission district hospital,pf_pos,pet_pcr,True,DR225,36.63,pos,34.865,pos,pet_pcr,
+01046748,0,0,not_sequenced,True,HRP23,western,kalabo,,kalabo district hospital,invalid,pet_pcr,True,DR228,30.22,pos,23.36,pos,pet_pcr,
+01046750,0,0,not_sequenced,True,HRP23,western,kalabo,,kalabo district hospital,invalid,pet_pcr,True,DR229,36.97,pos,30.86,pos,pet_pcr,
+01046752,0,0,not_sequenced,True,HRP23,western,kalabo,,kalabo district hospital,invalid,pet_pcr,True,DR230,36.125,pos,30.59,pos,pet_pcr,
+01046753,0,0,not_sequenced,True,HRP23,western,kalabo,,kalabo district hospital,invalid,pet_pcr,True,DR231,32.95,pos,30.675,pos,pet_pcr,
+01046754,0,0,not_sequenced,True,HRP23,western,kalabo,,kalabo district hospital,invalid,pet_pcr,True,DR232,28.01,pos,26.865,pos,pet_pcr,
+01046755,0,0,not_sequenced,True,HRP23,western,kalabo,,kalabo district hospital,invalid,pet_pcr,True,DR233,31.735,pos,28.61,pos,pet_pcr,
+01046756,0,0,not_sequenced,True,HRP23,western,kalabo,,kalabo district hospital,invalid,pet_pcr,True,DR234,27.76,pos,25.525,pos,pet_pcr,
+01046767,0,0,not_sequenced,True,HRP23,western,kalabo,,kalabo district hospital,invalid,pet_pcr,True,DR235,33.56,pos,28.32,pos,pet_pcr,
+01046769,0,0,not_sequenced,True,HRP23,western,kalabo,,kalabo district hospital,invalid,pet_pcr,True,DR238,38.75,pos,32.785,pos,pet_pcr,
+01046770,0,0,not_sequenced,True,HRP23,western,kalabo,,kalabo district hospital,invalid,pet_pcr,True,DR239,27.75,pos,26.765,pos,pet_pcr,
+01046772,0,0,not_sequenced,True,HRP23,western,kalabo,,kalabo district hospital,invalid,pet_pcr,True,DR240,32.58,pos,32.275,pos,pet_pcr,
+01046773,0,0,not_sequenced,True,HRP23,western,kalabo,,kalabo district hospital,invalid,pet_pcr,True,DR241,32.635,pos,29.89,pos,pet_pcr,
+01046774,0,0,not_sequenced,True,HRP23,western,kalabo,,kalabo district hospital,invalid,pet_pcr,True,DR242,29.56,pos,25.515,pos,pet_pcr,
+01046782,0,0,not_sequenced,True,HRP23,western,kalabo,,kalabo district hospital,invalid,pet_pcr,True,DR244,30.85,pos,23.915,pos,pet_pcr,
+01046783,0,0,not_sequenced,True,HRP23,western,kalabo,,kalabo district hospital,invalid,pet_pcr,True,DR243,28.72,pos,24.005,pos,pet_pcr,
+01046788,0,0,not_sequenced,True,HRP23,western,kalabo,,kalabo district hospital,invalid,pet_pcr,True,DR245,30.4,pos,24.59,pos,pet_pcr,
+1012744,0,0,not_sequenced,True,HRP23,copperbelt,chingola,,musenga rural health post,invalid,18s_pcr,True,EG197,,,,,18s_pcr,pos
+1012745,0,0,not_sequenced,True,HRP23,copperbelt,chingola,,musenga rural health post,invalid,18s_pcr,True,EG198,,,,,18s_pcr,pos
+1012746,0,0,not_sequenced,True,HRP23,copperbelt,chingola,,musenga rural health post,invalid,18s_pcr,True,EG199,,,,,18s_pcr,pos
+1012747,0,0,not_sequenced,True,HRP23,copperbelt,chingola,,musenga rural health post,invalid,18s_pcr,True,EG200,,,,,18s_pcr,pos
+1012749,0,0,not_sequenced,True,HRP23,copperbelt,chingola,,musenga rural health post,invalid,18s_pcr,True,EG202,,,,,18s_pcr,pos
+1012750,0,0,not_sequenced,True,HRP23,copperbelt,chingola,,musenga rural health post,invalid,18s_pcr,True,EG203,,,,,18s_pcr,pos
+1012752,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_neg,18s_pcr,True,EG294,,,,,18s_pcr,pos
+1012753,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG295,,,,,18s_pcr,pos
+1012755,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG296,,,,,18s_pcr,pos
+1012756,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG297,,,,,18s_pcr,pos
+1012757,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG298,,,,,18s_pcr,pos
+1012758,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG299,,,,,18s_pcr,pos
+1012759,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG300,,,,,18s_pcr,pos
+1012760,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG301,,,,,18s_pcr,pos
+1012761,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG302,,,,,18s_pcr,pos
+1012762,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG303,,,,,18s_pcr,pos
+1012763,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG304,,,,,18s_pcr,pos
+1012764,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG305,,,,,18s_pcr,pos
+1012765,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG306,,,,,18s_pcr,pos
+1012766,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG307,,,,,18s_pcr,pos
+1012772,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG313,,,,,18s_pcr,pos
+1012774,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG315,,,,,18s_pcr,pos
+1012775,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG316,,,,,18s_pcr,pos
+1012776,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG317,,,,,18s_pcr,pos
+1012778,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG318,,,,,18s_pcr,pos
+1012780,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG320,,,,,18s_pcr,pos
+1012783,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG323,,,,,18s_pcr,pos
+1012784,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG324,,,,,18s_pcr,pos
+1012785,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG325,,,,,18s_pcr,pos
+1012787,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG343,,,,,18s_pcr,pos
+1012788,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG327,,,,,18s_pcr,pos
+1012789,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG328,,,,,18s_pcr,pos
+1012792,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG331,,,,,18s_pcr,pos
+1012793,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG332,,,,,18s_pcr,pos
+1012794,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG333,,,,,18s_pcr,pos
+1012795,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG334,,,,,18s_pcr,pos
+1012796,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG335,,,,,18s_pcr,pos
+1012798,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG337,,,,,18s_pcr,pos
+1012799,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG338,,,,,18s_pcr,pos
+1012800,0,0,not_sequenced,True,HRP23,northern,mpulungu,,kasakalawe rural health centre,pf_pos,18s_pcr,True,EG339,,,,,18s_pcr,pos
+1012855,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG396,,,,,18s_pcr,pos
+1012857,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG398,,,,,18s_pcr,pos
+1012858,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG399,,,,,18s_pcr,pos
+1012866,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG401,,,,,18s_pcr,pos
+1012867,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG402,,,,,18s_pcr,pos
+1012869,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG403,,,,,18s_pcr,pos
+1012870,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG404,,,,,18s_pcr,pos
+1012872,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG406,,,,,18s_pcr,pos
+1012873,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG407,,,,,18s_pcr,pos
+1012875,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG408,,,,,18s_pcr,pos
+1012887,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG413,,,,,18s_pcr,pos
+1012888,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG414,,,,,18s_pcr,pos
+1012889,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG415,,,,,18s_pcr,pos
+1012890,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG416,,,,,18s_pcr,pos
+1012891,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG417,,,,,18s_pcr,pos
+1012899,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG421,,,,,18s_pcr,pos
+1012900,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG422,,,,,18s_pcr,pos
+1012903,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG423,,,,,18s_pcr,pos
+1012904,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG424,,,,,18s_pcr,pos
+1012908,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG426,,,,,18s_pcr,pos
+1012912,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG429,,,,,18s_pcr,pos
+1012913,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG430,,,,,18s_pcr,pos
+1012914,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG431,,,,,18s_pcr,pos
+1012915,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG432,,,,,18s_pcr,pos
+1012917,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG433,,,,,18s_pcr,pos
+1012918,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG434,,,,,18s_pcr,pos
+1012925,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG436,,,,,18s_pcr,pos
+1012928,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG438,,,,,18s_pcr,pos
+1012930,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG439,,,,,18s_pcr,pos
+1012931,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG440,,,,,18s_pcr,pos
+1012935,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG441,,,,,18s_pcr,pos
+1012937,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG442,,,,,18s_pcr,pos
+1012943,0,0,not_sequenced,True,HRP23,northern,mpulungu,,mpulungu district hospital,pf_pos,18s_pcr,True,EG444,,,,,18s_pcr,pos
+4043097,0,0,not_sequenced,True,HRP23,northern,senga hill,,nondo rural health centre,invalid,18s_pcr,True,EG446,,,,,18s_pcr,pos
+4043100,0,0,not_sequenced,True,HRP23,northern,senga hill,,nondo rural health centre,invalid,18s_pcr,True,EG449,,,,,18s_pcr,pos
+4043103,0,0,not_sequenced,True,HRP23,northern,senga hill,,nondo rural health centre,invalid,18s_pcr,True,EG451,,,,,18s_pcr,pos
+4043104,0,0,not_sequenced,True,HRP23,northern,senga hill,,nondo rural health centre,invalid,18s_pcr,True,EG452,,,,,18s_pcr,pos
+4043107,0,0,not_sequenced,True,HRP23,northern,senga hill,,nondo rural health centre,invalid,18s_pcr,True,EG455,,,,,18s_pcr,pos
+4043110,0,0,not_sequenced,True,HRP23,northern,senga hill,,nondo rural health centre,invalid,18s_pcr,True,EG458,,,,,18s_pcr,pos
+4043113,0,0,not_sequenced,True,HRP23,northern,senga hill,,nondo rural health centre,invalid,18s_pcr,True,EG461,,,,,18s_pcr,pos
+4043116,0,0,not_sequenced,True,HRP23,northern,senga hill,,nondo rural health centre,invalid,18s_pcr,True,EG464,,,,,18s_pcr,pos
+4043118,0,0,not_sequenced,True,HRP23,northern,senga hill,,nondo rural health centre,invalid,18s_pcr,True,EG466,,,,,18s_pcr,pos
+4043120,0,0,not_sequenced,True,HRP23,northern,senga hill,,nondo rural health centre,invalid,18s_pcr,True,EG468,,,,,18s_pcr,pos
+4043122,0,0,not_sequenced,True,HRP23,northern,senga hill,,nondo rural health centre,invalid,18s_pcr,True,EG470,,,,,18s_pcr,pos
+4043123,0,0,not_sequenced,True,HRP23,northern,senga hill,,nondo rural health centre,invalid,18s_pcr,True,EG471,,,,,18s_pcr,pos
+4043124,0,0,not_sequenced,True,HRP23,northern,senga hill,,nondo rural health centre,invalid,18s_pcr,True,EG472,,,,,18s_pcr,pos
+4043127,0,0,not_sequenced,True,HRP23,northern,senga hill,,nondo rural health centre,invalid,18s_pcr,True,EG475,,,,,18s_pcr,pos
+4043134,0,0,not_sequenced,True,HRP23,northern,senga hill,,nondo rural health centre,invalid,18s_pcr,True,EG481,,,,,18s_pcr,pos
+4043136,0,0,not_sequenced,True,HRP23,northern,senga hill,,nondo rural health centre,invalid,18s_pcr,True,EG483,,,,,18s_pcr,pos
+4043150,0,0,not_sequenced,True,HRP23,northern,senga hill,,senga district hospital,pf_pos,18s_pcr,True,EG345,,,,,18s_pcr,pos
+4043151,0,0,not_sequenced,True,HRP23,northern,senga hill,,senga district hospital,pf_pos,18s_pcr,True,EG346,,,,,18s_pcr,pos
+4043152,0,0,not_sequenced,True,HRP23,northern,senga hill,,senga district hospital,pf_pos,18s_pcr,True,EG347,,,,,18s_pcr,pos
+4043153,0,0,not_sequenced,True,HRP23,northern,senga hill,,senga district hospital,pf_pos,18s_pcr,True,EG348,,,,,18s_pcr,pos
+4043154,0,0,not_sequenced,True,HRP23,northern,senga hill,,senga district hospital,pf_pos,18s_pcr,True,EG349,,,,,18s_pcr,pos
+4043155,0,0,not_sequenced,True,HRP23,northern,senga hill,,senga district hospital,pf_pos,18s_pcr,True,EG350,,,,,18s_pcr,pos
+4043156,0,0,not_sequenced,True,HRP23,northern,senga hill,,senga district hospital,pf_pos,18s_pcr,True,EG351,,,,,18s_pcr,pos
+4043157,0,0,not_sequenced,True,HRP23,northern,senga hill,,senga district hospital,pf_pos,18s_pcr,True,EG352,,,,,18s_pcr,pos
+4043158,0,0,not_sequenced,True,HRP23,northern,senga hill,,senga district hospital,pf_pos,18s_pcr,True,EG353,,,,,18s_pcr,pos
+4043159,0,0,not_sequenced,True,HRP23,northern,senga hill,,senga district hospital,pf_pos,18s_pcr,True,EG354,,,,,18s_pcr,pos
+4043160,0,0,not_sequenced,True,HRP23,northern,senga hill,,senga district hospital,pf_pos,18s_pcr,True,EG355,,,,,18s_pcr,pos
+4043161,0,0,not_sequenced,True,HRP23,northern,senga hill,,senga district hospital,pf_pos,18s_pcr,True,EG356,,,,,18s_pcr,pos
+4043164,0,0,not_sequenced,True,HRP23,northern,senga hill,,senga district hospital,pf_pos,18s_pcr,True,EG359,,,,,18s_pcr,pos
+4043167,0,0,not_sequenced,True,HRP23,northern,senga hill,,senga district hospital,pf_pos,18s_pcr,True,EG362,,,,,18s_pcr,pos
+4043168,0,0,not_sequenced,True,HRP23,northern,senga hill,,senga district hospital,pf_pos,18s_pcr,True,EG363,,,,,18s_pcr,pos
+4043169,0,0,not_sequenced,True,HRP23,northern,senga hill,,senga district hospital,pf_pos,18s_pcr,True,EG364,,,,,18s_pcr,pos
+4043170,0,0,not_sequenced,True,HRP23,northern,senga hill,,senga district hospital,pf_pos,18s_pcr,True,EG365,,,,,18s_pcr,pos
+4043171,0,0,not_sequenced,True,HRP23,northern,senga hill,,senga district hospital,pf_pos,18s_pcr,True,EG366,,,,,18s_pcr,pos
+4043186,0,0,not_sequenced,True,HRP23,northern,senga hill,,senga district hospital,pf_pos,18s_pcr,True,EG383,,,,,18s_pcr,pos
+4043189,0,0,not_sequenced,True,HRP23,northern,senga hill,,senga district hospital,pf_pos,18s_pcr,True,EG384,,,,,18s_pcr,pos
+4043190,0,0,not_sequenced,True,HRP23,northern,senga hill,,senga district hospital,pf_pos,18s_pcr,True,EG385,,,,,18s_pcr,pos
+4043191,0,0,not_sequenced,True,HRP23,northern,senga hill,,senga district hospital,pf_pos,18s_pcr,True,EG386,,,,,18s_pcr,pos
+4043195,0,0,not_sequenced,True,HRP23,northern,senga hill,,senga district hospital,pf_pos,18s_pcr,True,EG390,,,,,18s_pcr,pos
+4043196,0,0,not_sequenced,True,HRP23,northern,senga hill,,senga district hospital,pf_pos,18s_pcr,True,EG391,,,,,18s_pcr,pos
+4043258,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG206,,,,,18s_pcr,pos
+4043259,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG207,,,,,18s_pcr,pos
+4043261,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG208,,,,,18s_pcr,pos
+4043263,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG209,,,,,18s_pcr,pos
+4043264,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG210,,,,,18s_pcr,pos
+4043265,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG211,,,,,18s_pcr,pos
+4043266,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG212,,,,,18s_pcr,pos
+4043267,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG213,,,,,18s_pcr,pos
+4043268,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG214,,,,,18s_pcr,pos
+4043270,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG215,,,,,18s_pcr,pos
+4043271,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG216,,,,,18s_pcr,pos
+4043272,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG217,,,,,18s_pcr,pos
+4043273,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG218,,,,,18s_pcr,pos
+4043274,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG219,,,,,18s_pcr,pos
+4043275,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG220,,,,,18s_pcr,pos
+4043276,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG221,,,,,18s_pcr,pos
+4043277,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG222,,,,,18s_pcr,pos
+4043278,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG223,,,,,18s_pcr,pos
+4043279,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG224,,,,,18s_pcr,pos
+4043282,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG226,,,,,18s_pcr,pos
+4043285,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG229,,,,,18s_pcr,pos
+4043286,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG230,,,,,18s_pcr,pos
+4043287,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG231,,,,,18s_pcr,pos
+4043289,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG233,,,,,18s_pcr,pos
+4043290,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG234,,,,,18s_pcr,pos
+4043293,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG236,,,,,18s_pcr,pos
+4043295,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG238,,,,,18s_pcr,pos
+4043296,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG239,,,,,18s_pcr,pos
+4043299,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG242,,,,,18s_pcr,pos
+4043301,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG243,,,,,18s_pcr,pos
+4043302,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG244,,,,,18s_pcr,pos
+4043303,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG245,,,,,18s_pcr,pos
+4043304,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG246,,,,,18s_pcr,pos
+4043305,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG247,,,,,18s_pcr,pos
+4043306,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG248,,,,,18s_pcr,pos
+4043307,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG249,,,,,18s_pcr,pos
+4043308,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG250,,,,,18s_pcr,pos
+4043309,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG251,,,,,18s_pcr,pos
+4043310,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG252,,,,,18s_pcr,pos
+4043311,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG253,,,,,18s_pcr,pos
+4043312,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG254,,,,,18s_pcr,pos
+4043315,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG257,,,,,18s_pcr,pos
+4043316,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG258,,,,,18s_pcr,pos
+4043318,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG260,,,,,18s_pcr,pos
+4043319,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG261,,,,,18s_pcr,pos
+4043320,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG262,,,,,18s_pcr,pos
+4043321,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG263,,,,,18s_pcr,pos
+4043322,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG264,,,,,18s_pcr,pos
+4043323,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG265,,,,,18s_pcr,pos
+4043324,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG266,,,,,18s_pcr,pos
+4043325,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG267,,,,,18s_pcr,pos
+4043327,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG269,,,,,18s_pcr,pos
+4043329,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG271,,,,,18s_pcr,pos
+4043330,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG272,,,,,18s_pcr,pos
+4043331,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG273,,,,,18s_pcr,pos
+4043332,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG274,,,,,18s_pcr,pos
+4043333,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG275,,,,,18s_pcr,pos
+4043335,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG277,,,,,18s_pcr,pos
+4043337,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG279,,,,,18s_pcr,pos
+4043338,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG280,,,,,18s_pcr,pos
+4043340,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG282,,,,,18s_pcr,pos
+4043342,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG288,,,,,18s_pcr,pos
+4043344,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG286,,,,,18s_pcr,pos
+4043346,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG284,,,,,18s_pcr,pos
+4043347,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG289,,,,,18s_pcr,pos
+4043348,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG290,,,,,18s_pcr,pos
+4043352,0,0,not_sequenced,True,HRP23,northern,kasama,,chisanga health centre,pf_pos,18s_pcr,True,EG293,,,,,18s_pcr,pos
+8010889,0,0,not_sequenced,True,HRP23,muchinga,shiwang'andu,,ilondola rural health centre,pf_pos,18s_pcr,True,EF732,,,,,18s_pcr,pos
+8012210,0,0,not_sequenced,True,HRP23,luapula,mansa,,senama urban health centre,pf_pos,18s_pcr,True,EE182,,,,,18s_pcr,pos
+8012211,0,0,not_sequenced,True,HRP23,luapula,mansa,,senama urban health centre,pf_pos,18s_pcr,True,EE183,,,,,18s_pcr,pos
+8012212,0,0,not_sequenced,True,HRP23,luapula,mansa,,senama urban health centre,pf_pos,18s_pcr,True,EE184,,,,,18s_pcr,pos
+8012213,0,0,not_sequenced,True,HRP23,luapula,mansa,,senama urban health centre,pf_pos,18s_pcr,True,EE185,,,,,18s_pcr,pos
+8012214,0,0,not_sequenced,True,HRP23,luapula,mansa,,senama urban health centre,pf_pos,18s_pcr,True,EE186,,,,,18s_pcr,pos
+8012215,0,0,not_sequenced,True,HRP23,luapula,mansa,,senama urban health centre,pf_pos,18s_pcr,True,EE187,,,,,18s_pcr,pos
+8012216,0,0,not_sequenced,True,HRP23,luapula,mansa,,senama urban health centre,pf_pos,18s_pcr,True,EE188,,,,,18s_pcr,pos
+8012217,0,0,not_sequenced,True,HRP23,luapula,mansa,,senama urban health centre,pf_pos,18s_pcr,True,EE189,,,,,18s_pcr,pos
+8012218,0,0,not_sequenced,True,HRP23,luapula,mansa,,senama urban health centre,pf_pos,18s_pcr,True,EE190,,,,,18s_pcr,pos
+8012222,0,0,not_sequenced,True,HRP23,luapula,mansa,,senama urban health centre,pf_pos,18s_pcr,True,EE194,,,,,18s_pcr,pos
+8012223,0,0,not_sequenced,True,HRP23,luapula,mansa,,senama urban health centre,pf_pos,18s_pcr,True,EE195,,,,,18s_pcr,pos
+8012232,0,0,not_sequenced,True,HRP23,luapula,mansa,,senama urban health centre,pf_pos,18s_pcr,True,EE204,,,,,18s_pcr,pos
+8012245,0,0,not_sequenced,True,HRP23,luapula,mansa,,senama urban health centre,pf_pos,18s_pcr,True,EE217,,,,,18s_pcr,pos
+8012246,0,0,not_sequenced,True,HRP23,luapula,mansa,,senama urban health centre,pf_pos,18s_pcr,True,EE218,,,,,18s_pcr,pos
+8012678,0,0,not_sequenced,True,HRP23,luapula,samfya,,kasanka rural health centre,pf_pos,18s_pcr,True,EE226,,,,,18s_pcr,pos
+8012679,0,0,not_sequenced,True,HRP23,luapula,samfya,,kasanka rural health centre,pf_pos,18s_pcr,True,EE227,,,,,18s_pcr,pos
+8012680,0,0,not_sequenced,True,HRP23,luapula,samfya,,kasanka rural health centre,pf_pos,18s_pcr,True,EE228,,,,,18s_pcr,pos
+8012681,0,0,not_sequenced,True,HRP23,luapula,samfya,,kasanka rural health centre,pf_pos,18s_pcr,True,EE229,,,,,18s_pcr,pos
+8012682,0,0,not_sequenced,True,HRP23,luapula,samfya,,kasanka rural health centre,pf_pos,18s_pcr,True,EE230,,,,,18s_pcr,pos
+8012683,0,0,not_sequenced,True,HRP23,luapula,samfya,,kasanka rural health centre,pf_pos,18s_pcr,True,EE231,,,,,18s_pcr,pos
+8012684,0,0,not_sequenced,True,HRP23,luapula,samfya,,kasanka rural health centre,pf_pos,18s_pcr,True,EE232,,,,,18s_pcr,pos
+8012688,0,0,not_sequenced,True,HRP23,luapula,samfya,,kasanka rural health centre,pf_pos,18s_pcr,True,EE236,,,,,18s_pcr,pos
+8012692,0,0,not_sequenced,True,HRP23,luapula,samfya,,kasanka rural health centre,pf_pos,18s_pcr,True,EE240,,,,,18s_pcr,pos
+8012693,0,0,not_sequenced,True,HRP23,luapula,samfya,,kasanka rural health centre,pf_pos,18s_pcr,True,EE241,,,,,18s_pcr,pos
+8012694,0,0,not_sequenced,True,HRP23,luapula,samfya,,kasanka rural health centre,pf_pos,18s_pcr,True,EE242,,,,,18s_pcr,pos
+8012697,0,0,not_sequenced,True,HRP23,luapula,samfya,,kasanka rural health centre,pf_pos,18s_pcr,True,EE244,,,,,18s_pcr,pos
+8012698,0,0,not_sequenced,True,HRP23,luapula,samfya,,kasanka rural health centre,pf_pos,18s_pcr,True,EE245,,,,,18s_pcr,pos
+8012703,0,0,not_sequenced,True,HRP23,luapula,samfya,,kasanka rural health centre,pf_pos,18s_pcr,True,EE250,,,,,18s_pcr,pos
+8012704,0,0,not_sequenced,True,HRP23,luapula,samfya,,kasanka rural health centre,pf_pos,18s_pcr,True,EE251,,,,,18s_pcr,pos
+8012705,0,0,not_sequenced,True,HRP23,luapula,samfya,,kasanka rural health centre,pf_pos,18s_pcr,True,EE252,,,,,18s_pcr,pos
+8012706,0,0,not_sequenced,True,HRP23,luapula,samfya,,kasanka rural health centre,pf_pos,18s_pcr,True,EE253,,,,,18s_pcr,pos
+8012708,0,0,not_sequenced,True,HRP23,luapula,samfya,,kasanka rural health centre,pf_pos,18s_pcr,True,EE255,,,,,18s_pcr,pos
+8012722,0,0,not_sequenced,True,HRP23,luapula,samfya,,kasanka rural health centre,pf_pos,18s_pcr,True,EE269,,,,,18s_pcr,pos
+8012767,0,0,not_sequenced,True,MIS2024,copperbelt,mufulira,kafue,,pf_pos,pet_pcr,True,DV561,28.695,pos,27.435,pos,pet_pcr,
+8012768,0,0,not_sequenced,True,MIS2024,copperbelt,mufulira,kafue,,pf_pos,pet_pcr,True,DV562,27.87,pos,25.93,pos,pet_pcr,
+8012789,0,0,not_sequenced,True,MIS2024,copperbelt,kalulushi,lulamba,,pf_pos,pet_pcr,True,DV570,26.455,pos,24.96,pos,pet_pcr,
+8012792,0,0,not_sequenced,True,MIS2024,copperbelt,kalulushi,lulamba,,pf_pos,pet_pcr,True,DV572,30.52,pos,29.84,pos,pet_pcr,
+8012799,0,0,not_sequenced,True,MIS2024,copperbelt,mufulira,kafue,,pf_pos,pet_pcr,True,DV575,35.47,pos,33.125,pos,pet_pcr,
+8012807,0,0,not_sequenced,True,MIS2024,copperbelt,lufwanyama,luswishi,,pf_pos,pet_pcr,True,DV579,32.605,pos,30.575,pos,pet_pcr,
+8012819,0,0,not_sequenced,True,MIS2024,copperbelt,chingola,ipafu,,pf_pos,pet_pcr,True,DV585,35.78,pos,33.71,pos,pet_pcr,
+8012827,0,0,not_sequenced,True,MIS2024,copperbelt,lufwanyama,kansanta,,pf_pos,pet_pcr,True,DV589,33.11,pos,31.545,pos,pet_pcr,
+8012830,0,0,not_sequenced,True,MIS2024,copperbelt,lufwanyama,kansanta,,pf_pos,pet_pcr,True,DV591,38.495,pos,35.785,pos,pet_pcr,
+8012834,0,0,not_sequenced,True,MIS2024,copperbelt,chingola,mutenda,,pf_pos,pet_pcr,True,DV595,32.29,pos,35.855,pos,pet_pcr,
+8013007,0,0,not_sequenced,True,MIS2024,eastern,lusangazi,singozi,,pf_pos,pet_pcr,True,DV601,32.35,pos,30.2,pos,pet_pcr,
+8013014,0,0,not_sequenced,True,MIS2024,eastern,lusangazi,lutwazi,,pf_pos,pet_pcr,True,DV602,28.76,pos,26.125,pos,pet_pcr,
+8013033,0,0,not_sequenced,True,MIS2024,eastern,kasenengwa,mkowe,,pf_pos,pet_pcr,True,DV610,33.69,pos,30.925,pos,pet_pcr,
+8013036,0,0,not_sequenced,True,MIS2024,eastern,chadiza,chanjowe,,pf_pos,pet_pcr,True,DV611,29.805,pos,26.855,pos,pet_pcr,
+8013037,0,0,not_sequenced,True,MIS2024,eastern,chadiza,chanjowe,,pf_pos,pet_pcr,True,DV612,35.355,pos,33.875,pos,pet_pcr,
+8013045,0,0,not_sequenced,True,MIS2024,eastern,chadiza,ngala,,pf_pos,pet_pcr,True,DV617,24.375,pos,22.84,pos,pet_pcr,
+8013067,0,0,not_sequenced,True,MIS2024,eastern,katete,kazakaluba,,pf_pos,pet_pcr,True,DV619,28.93,pos,26.095,pos,pet_pcr,
+8013074,0,0,not_sequenced,True,MIS2024,eastern,sinda,nchembwe,,pf_pos,pet_pcr,True,DV620,34.085,pos,32.185,pos,pet_pcr,
+8013256,0,0,not_sequenced,True,MIS2024,eastern,lusangazi,singozi,,pf_pos,pet_pcr,True,DV621,37.23,pos,35.44,pos,pet_pcr,
+8013258,0,0,not_sequenced,True,MIS2024,eastern,lusangazi,lutwazi,,pf_pos,pet_pcr,True,DV622,39.005,pos,35.865,pos,pet_pcr,
+8013264,0,0,not_sequenced,True,MIS2024,eastern,vubwi,mbande,,pf_pos,pet_pcr,True,DV624,33.46,pos,31.675,pos,pet_pcr,
+8013268,0,0,not_sequenced,True,MIS2024,eastern,vubwi,mbande,,pf_pos,pet_pcr,True,DV626,27.84,pos,26.39,pos,pet_pcr,
+8013274,0,0,not_sequenced,True,MIS2024,eastern,vubwi,mbande,,pf_pos,pet_pcr,True,DV629,29.895,pos,27.07,pos,pet_pcr,
+8013275,0,0,not_sequenced,True,MIS2024,eastern,vubwi,mbande,,pf_pos,pet_pcr,True,DV630,31.015,pos,28.6,pos,pet_pcr,
+8013277,0,0,not_sequenced,True,MIS2024,eastern,vubwi,mbande,,pf_pos,pet_pcr,True,DV632,35.15,pos,33.69,pos,pet_pcr,
+8013280,0,0,not_sequenced,True,MIS2024,eastern,kasenengwa,mkowe,,pf_pos,pet_pcr,True,DV635,29.14,pos,26.78,pos,pet_pcr,
+8013284,0,0,not_sequenced,True,MIS2024,eastern,kasenengwa,mkowe,,pf_pos,pet_pcr,True,DV637,31.37,pos,29.05,pos,pet_pcr,
+8013286,0,0,not_sequenced,True,MIS2024,eastern,kasenengwa,mkowe,,pf_pos,pet_pcr,True,DV639,28.13,pos,25.81,pos,pet_pcr,
+8013290,0,0,not_sequenced,True,MIS2024,eastern,kasenengwa,mkowe,,pf_pos,pet_pcr,True,DV641,33.015,pos,31.48,pos,pet_pcr,
+8013310,0,0,not_sequenced,True,MIS2024,eastern,katete,yowoyani,,pf_pos,pet_pcr,True,DV647,26.265,pos,25.175,pos,pet_pcr,
+8013522,0,0,not_sequenced,True,MIS2024,eastern,chipata,nsingo,,pf_pos,pet_pcr,True,DV651,27.79,pos,25.51,pos,pet_pcr,
+8013547,0,0,not_sequenced,True,MIS2024,eastern,chipangali,madziatuba,,pf_pos,pet_pcr,True,DV660,28.95,pos,27.315,pos,pet_pcr,
+8013548,0,0,not_sequenced,True,MIS2024,eastern,chipangali,madziatuba,,pf_pos,pet_pcr,True,DV661,32.905,pos,31.65,pos,pet_pcr,

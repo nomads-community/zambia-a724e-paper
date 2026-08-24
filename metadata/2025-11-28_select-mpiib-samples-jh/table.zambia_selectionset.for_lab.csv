@@ -1,0 +1,301 @@
+expt_name,barcode,sample_id,province,district
+2024-10-16_SLMM055_MIS2024_Batch1,barcode08,8032012,northwestern,mushindano
+2024-10-16_SLMM055_MIS2024_Batch1,barcode13,8032294,western,kaoma
+2024-10-16_SLMM055_MIS2024_Batch1,barcode26,8032550,western,luampa
+2024-10-16_SLMM055_MIS2024_Batch1,barcode33,8032003,northwestern,mushindano
+2024-10-16_SLMM055_MIS2024_Batch1,barcode34,8032589,western,shangombo
+2024-10-16_SLMM055_MIS2024_Batch1,barcode38,8032319,western,mitete
+2024-10-16_SLMM055_MIS2024_Batch1,barcode39,8032551,western,luampa
+2024-10-16_SLMM055_MIS2024_Batch1,barcode42,8032545,western,kaoma
+2024-10-16_SLMM055_MIS2024_Batch1,barcode44,8032573,western,kalabo
+2024-10-16_SLMM056_MIS2024_Batch1,barcode57,8032348,western,sikongo
+2024-10-16_SLMM056_MIS2024_Batch1,barcode59,8032032,northwestern,mwinilunga
+2024-10-16_SLMM056_MIS2024_Batch1,barcode72,8032037,northwestern,mwinilunga
+2024-10-16_SLMM056_MIS2024_Batch1,barcode73,8032543,western,kaoma
+2024-10-16_SLMM056_MIS2024_Batch1,barcode74,8031769,northwestern,mushindano
+2024-10-16_SLMM056_MIS2024_Batch1,barcode75,8031774,northwestern,mushindano
+2024-10-16_SLMM056_MIS2024_Batch1,barcode76,8031770,northwestern,mushindano
+2024-10-16_SLMM056_MIS2024_Batch1,barcode78,8032013,northwestern,mushindano
+2024-10-16_SLMM056_MIS2024_Batch1,barcode80,8032544,western,kaoma
+2024-10-16_SLMM056_MIS2024_Batch1,barcode82,8031771,northwestern,mushindano
+2024-10-16_SLMM056_MIS2024_Batch1,barcode83,8032330,western,kalabo
+2024-10-16_SLMM056_MIS2024_Batch1,barcode84,8032000,northwestern,mushindano
+2024-10-16_SLMM056_MIS2024_Batch1,barcode88,8032343,western,shangombo
+2024-10-16_SLMM056_MIS2024_Batch1,barcode90,8032595,western,sikongo
+2024-10-16_SLMM056_MIS2024_Batch1,barcode93,8031761,northwestern,mushindano
+2024-10-30_SLMM060_MIS2024Batch2,barcode07,8032583,western,nalolo
+2024-10-30_SLMM060_MIS2024Batch2,barcode08,8032034,northwestern,mwinilunga
+2024-10-30_SLMM060_MIS2024Batch2,barcode09,8031772,northwestern,mushindano
+2024-10-30_SLMM060_MIS2024Batch2,barcode10,8032335,western,nalolo
+2024-10-30_SLMM060_MIS2024Batch2,barcode11,8032594,western,sikongo
+2024-10-30_SLMM060_MIS2024Batch2,barcode14,8032527,western,mongu
+2024-10-30_SLMM060_MIS2024Batch2,barcode20,8032526,western,mongu
+2024-10-30_SLMM060_MIS2024Batch2,barcode28,8031773,northwestern,mushindano
+2024-10-30_SLMM060_MIS2024Batch2,barcode34,8032055,northwestern,manyinga
+2024-10-30_SLMM060_MIS2024Batch2,barcode35,8032541,western,limulunga
+2024-10-30_SLMM060_MIS2024Batch2,barcode36,8032265,western,senanga
+2024-10-30_SLMM060_MIS2024Batch2,barcode38,8032347,western,sikongo
+2024-10-30_SLMM060_MIS2024Batch2,barcode39,8032558,western,luampa
+2024-10-30_SLMM060_MIS2024Batch2,barcode43,8032320,western,mitete
+2024-10-30_SLMM060_MIS2024Batch2,barcode47,8031811,northwestern,chavuma
+2024-10-30_SLMM060_MIS2024Batch2,barcode55,8032579,western,nalolo
+2024-10-30_SLMM060_MIS2024Batch2,barcode57,8031765,northwestern,mushindano
+2024-10-30_SLMM060_MIS2024Batch2,barcode58,8032277,western,mongu
+2024-11-06_SLMM065_MIS2024_Batch7,barcode63,8031271,muchinga,isoka
+2024-11-06_SLMM065_MIS2024_Batch7,barcode64,8031277,muchinga,nakonde
+2024-11-06_SLMM065_MIS2024_Batch7,barcode84,8031324,muchinga,lavushimanda
+2024-11-06_SLMM065_MIS2024_Batch7,barcode87,8031512,muchinga,mafinga
+2024-11-06_SLMM065_MIS2024_Batch7,barcode89,8031523,muchinga,isoka
+2024-11-06_SLMM065_MIS2024_Batch7,barcode91,8031527,muchinga,nakonde
+2024-11-06_SLMM067_HRP2,barcode55,8021937,western,kaoma
+2024-11-06_SLMM067_HRP2,barcode73,1046675,western,luampa
+2024-11-06_SLMM067_HRP2,barcode83,1046674,western,luampa
+2024-11-07_SLMM066_MIS2024batch8,barcode22,8031566,muchinga,kanchibiya
+2025-03-27_SLMM069_HRP2 2024_Batch2,barcode06,8021912,western,kaoma
+2025-03-27_SLMM069_HRP2 2024_Batch2,barcode20,8021930,western,kaoma
+2025-03-27_SLMM069_HRP2 2024_Batch2,barcode22,8021932,western,kaoma
+2025-03-27_SLMM069_HRP2 2024_Batch2,barcode24,8021934,western,kaoma
+2025-03-27_SLMM069_HRP2 2024_Batch2,barcode26,8021935,western,kaoma
+2025-03-27_SLMM069_HRP2 2024_Batch2,barcode30,8021940,western,kaoma
+2025-03-27_SLMM069_HRP2 2024_Batch2,barcode31,8021941,western,kaoma
+2025-03-27_SLMM069_HRP2 2024_Batch2,barcode33,8021946,western,kaoma
+2025-03-27_SLMM069_HRP2 2024_Batch2,barcode35,8021948,western,kaoma
+2025-03-27_SLMM069_HRP2 2024_Batch2,barcode37,8021950,western,kaoma
+2025-03-27_SLMM069_HRP2 2024_Batch2,barcode38,8021951,western,kaoma
+2025-03-27_SLMM069_HRP2 2024_Batch2,barcode43,8021943,western,kaoma
+2025-03-27_SLMM069_HRP2 2024_Batch2,barcode44,8021942,western,kaoma
+2025-03-27_SLMM069_HRP2 2024_Batch2,barcode57,1046720,western,luampa
+2025-03-27_SLMM069_HRP2 2024_Batch2,barcode58,1046719,western,luampa
+2025-03-27_SLMM069_HRP2 2024_Batch2,barcode59,1046678,western,luampa
+2025-03-27_SLMM069_HRP2 2024_Batch2,barcode60,1046680,western,luampa
+2025-03-27_SLMM069_HRP2 2024_Batch2,barcode61,1046677,western,luampa
+2025-03-27_SLMM069_HRP2 2024_Batch2,barcode68,1046705,western,luampa
+2025-03-27_SLMM069_HRP2 2024_Batch2,barcode69,1046689,western,luampa
+2025-03-27_SLMM069_HRP2 2024_Batch2,barcode71,1046718,western,luampa
+2025-03-27_SLMM069_HRP2 2024_Batch2,barcode73,1046717,western,luampa
+2025-03-27_SLMM069_HRP2 2024_Batch2,barcode74,1046728,western,luampa
+2025-03-27_SLMM069_HRP2 2024_Batch2,barcode79,1046736,western,luampa
+2025-04-03_SLMM070_HRP2 2024_Batch3,barcode09,1046791,western,kalabo
+2025-04-03_SLMM070_HRP2 2024_Batch3,barcode11,1046798,western,kalabo
+2025-04-03_SLMM070_HRP2 2024_Batch3,barcode13,1046802,western,kalabo
+2025-04-03_SLMM070_HRP2 2024_Batch3,barcode14,1046803,western,kalabo
+2025-04-03_SLMM070_HRP2 2024_Batch3,barcode16,1046805,western,kalabo
+2025-04-03_SLMM070_HRP2 2024_Batch3,barcode17,5053639,western,kalabo
+2025-04-03_SLMM070_HRP2 2024_Batch3,barcode18,5053640,western,kalabo
+2025-04-03_SLMM070_HRP2 2024_Batch3,barcode19,5053641,western,kalabo
+2025-04-03_SLMM070_HRP2 2024_Batch3,barcode22,5053645,western,kalabo
+2025-04-03_SLMM070_HRP2 2024_Batch3,barcode26,1053971,western,limulunga
+2025-04-03_SLMM070_HRP2 2024_Batch3,barcode27,1053943,western,limulunga
+2025-04-03_SLMM070_HRP2 2024_Batch3,barcode30,1045436,western,sesheke
+2025-04-03_SLMM070_HRP2 2024_Batch3,barcode31,1045437,western,sesheke
+2025-04-03_SLMM070_HRP2 2024_Batch3,barcode32,1045438,western,sesheke
+2025-04-03_SLMM070_HRP2 2024_Batch3,barcode33,1045439,western,sesheke
+2025-04-03_SLMM070_HRP2 2024_Batch3,barcode34,1045440,western,sesheke
+2025-04-03_SLMM070_HRP2 2024_Batch3,barcode35,1045433,western,sesheke
+2025-04-03_SLMM070_HRP2 2024_Batch3,barcode37,1045447,western,sesheke
+2025-04-03_SLMM070_HRP2 2024_Batch3,barcode38,1045448,western,sesheke
+2025-04-03_SLMM070_HRP2 2024_Batch3,barcode43,1045454,western,sesheke
+2025-04-03_SLMM070_HRP2 2024_Batch3,barcode45,2033428,western,sesheke
+2025-04-03_SLMM070_HRP2 2024_Batch3,barcode46,2033430,western,sesheke
+2025-04-03_SLMM070_HRP2 2024_Batch3,barcode47,2033431,western,sesheke
+2025-04-03_SLMM070_HRP2 2024_Batch3,barcode48,2033432,western,sesheke
+2025-04-03_SLMM070_HRP2 2024_Batch3,barcode78,5053716,western,sikongo
+2025-04-03_SLMM070_HRP2 2024_Batch3,barcode80,5053692,western,sikongo
+2025-04-03_SLMM070_HRP2 2024_Batch3,barcode84,5053732,western,sikongo
+2025-04-03_SLMM070_HRP2 2024_Batch3,barcode89,5053714,western,sikongo
+2025-04-03_SLMM070_HRP2 2024_Batch3,barcode93,5053700,western,sikongo
+2025-04-03_SLMM071_HRP22024_Batch4,barcode10,5053711,western,sikongo
+2025-04-03_SLMM071_HRP22024_Batch4,barcode12,5053727,western,sikongo
+2025-04-03_SLMM071_HRP22024_Batch4,barcode14,5053713,western,sikongo
+2025-04-03_SLMM071_HRP22024_Batch4,barcode17,5053740,western,sikongo
+2025-04-03_SLMM071_HRP22024_Batch4,barcode18,5053699,western,sikongo
+2025-04-03_SLMM071_HRP22024_Batch4,barcode19,5053705,western,sikongo
+2025-04-03_SLMM071_HRP22024_Batch4,barcode22,5053708,western,sikongo
+2025-04-03_SLMM071_HRP22024_Batch4,barcode24,1036151,western,sesheke
+2025-04-03_SLMM071_HRP22024_Batch4,barcode25,1036153,western,sesheke
+2025-04-03_SLMM071_HRP22024_Batch4,barcode26,1036152,western,sesheke
+2025-04-03_SLMM071_HRP22024_Batch4,barcode27,1036154,western,sesheke
+2025-04-03_SLMM071_HRP22024_Batch4,barcode30,1036157,western,sesheke
+2025-04-03_SLMM071_HRP22024_Batch4,barcode32,1036159,western,sesheke
+2025-04-03_SLMM071_HRP22024_Batch4,barcode52,8021027,northwestern,kasempa
+2025-04-03_SLMM071_HRP22024_Batch4,barcode54,8023974,northwestern,kasempa
+2025-04-03_SLMM071_HRP22024_Batch4,barcode57,8021039,northwestern,kasempa
+2025-04-03_SLMM071_HRP22024_Batch4,barcode58,8023990,northwestern,kasempa
+2025-04-03_SLMM071_HRP22024_Batch4,barcode59,8023994,northwestern,kasempa
+2025-04-03_SLMM071_HRP22024_Batch4,barcode60,8021020,northwestern,kasempa
+2025-04-03_SLMM071_HRP22024_Batch4,barcode61,8019450,northwestern,kasempa
+2025-04-03_SLMM071_HRP22024_Batch4,barcode62,8019451,northwestern,kasempa
+2025-04-03_SLMM071_HRP22024_Batch4,barcode63,8019456,northwestern,kasempa
+2025-04-03_SLMM071_HRP22024_Batch4,barcode64,8023245,northwestern,kasempa
+2025-04-03_SLMM071_HRP22024_Batch4,barcode67,8023299,northwestern,mushindano
+2025-04-03_SLMM071_HRP22024_Batch4,barcode68,8023302,northwestern,mushindano
+2025-04-03_SLMM071_HRP22024_Batch4,barcode69,8023313,northwestern,mushindano
+2025-04-03_SLMM071_HRP22024_Batch4,barcode71,8023307,northwestern,mushindano
+2025-04-03_SLMM071_HRP22024_Batch4,barcode72,8023304,northwestern,mushindano
+2025-04-03_SLMM071_HRP22024_Batch4,barcode80,8023300,northwestern,mushindano
+2025-04-03_SLMM071_HRP22024_Batch4,barcode81,1036155,western,sesheke
+2025-04-04_SLMM072_HRP22024_Batch5,barcode11,2030496,northwestern,solwezi
+2025-04-04_SLMM072_HRP22024_Batch5,barcode12,5053836,northwestern,solwezi
+2025-04-04_SLMM072_HRP22024_Batch5,barcode14,5053835,northwestern,solwezi
+2025-04-04_SLMM072_HRP22024_Batch5,barcode21,1012556,northwestern,zambezi
+2025-04-04_SLMM072_HRP22024_Batch5,barcode23,1012543,northwestern,zambezi
+2025-04-04_SLMM072_HRP22024_Batch5,barcode30,1012552,northwestern,zambezi
+2025-04-04_SLMM072_HRP22024_Batch5,barcode39,8023334,northwestern,manyinga
+2025-04-04_SLMM072_HRP22024_Batch5,barcode51,8023345,northwestern,manyinga
+2025-04-04_SLMM072_HRP22024_Batch5,barcode52,8023331,northwestern,manyinga
+2025-04-04_SLMM072_HRP22024_Batch5,barcode54,8023322,northwestern,manyinga
+2025-04-04_SLMM072_HRP22024_Batch5,barcode58,8023347,northwestern,manyinga
+2025-04-04_SLMM072_HRP22024_Batch5,barcode59,1040820,northwestern,manyinga
+2025-04-04_SLMM072_HRP22024_Batch5,barcode61,8023285,northwestern,solwezi
+2025-04-04_SLMM072_HRP22024_Batch5,barcode70,8023417,northwestern,kabompo
+2025-04-04_SLMM072_HRP22024_Batch5,barcode77,8023421,northwestern,kabompo
+2025-04-04_SLMM072_HRP22024_Batch5,barcode78,8023438,northwestern,kabompo
+2025-04-04_SLMM072_HRP22024_Batch5,barcode79,8023442,northwestern,kabompo
+2025-04-04_SLMM072_HRP22024_Batch5,barcode81,8023420,northwestern,kabompo
+2025-04-04_SLMM072_HRP22024_Batch5,barcode82,8023436,northwestern,kabompo
+2025-04-04_SLMM072_HRP22024_Batch5,barcode83,8023439,northwestern,kabompo
+2025-04-04_SLMM072_HRP22024_Batch5,barcode85,8023351,northwestern,kabompo
+2025-04-04_SLMM072_HRP22024_Batch5,barcode86,8023425,northwestern,kabompo
+2025-04-04_SLMM072_HRP22024_Batch5,barcode87,8023419,northwestern,kabompo
+2025-04-04_SLMM072_HRP22024_Batch5,barcode90,8023426,northwestern,kabompo
+2025-04-04_SLMM072_HRP22024_Batch5,barcode92,8023443,northwestern,kabompo
+2025-04-04_SLMM072_HRP22024_Batch5,barcode96,1012434,northwestern,mufumbwe
+2025-05-06_SLMM073_HRP22024_Batch6,barcode09,1012416,northwestern,mufumbwe
+2025-05-06_SLMM073_HRP22024_Batch6,barcode11,1012424,northwestern,mufumbwe
+2025-05-06_SLMM073_HRP22024_Batch6,barcode13,1012447,northwestern,mufumbwe
+2025-05-06_SLMM073_HRP22024_Batch6,barcode15,1012449,northwestern,mufumbwe
+2025-05-06_SLMM073_HRP22024_Batch6,barcode18,1012426,northwestern,mufumbwe
+2025-05-06_SLMM073_HRP22024_Batch6,barcode20,1012450,northwestern,mufumbwe
+2025-05-06_SLMM073_HRP22024_Batch6,barcode23,1012420,northwestern,mufumbwe
+2025-05-06_SLMM073_HRP22024_Batch6,barcode24,1012443,northwestern,mufumbwe
+2025-05-06_SLMM073_HRP22024_Batch6,barcode25,1012438,northwestern,mufumbwe
+2025-05-06_SLMM073_HRP22024_Batch6,barcode26,1012433,northwestern,mufumbwe
+2025-05-08_SLMM074_MIS2024_Batch6,barcode08,8013555,eastern,chipangali
+2025-05-08_SLMM074_MIS2024_Batch6,barcode30,8022279,eastern,lumezi
+2025-05-08_SLMM074_MIS2024_Batch6,barcode43,8022315,eastern,lundazi
+2025-07-02_SLMM077_HRP2-32024_Batch10,barcode18,5053742,western,sikongo
+2025-07-02_SLMM077_HRP2-32024_Batch10,barcode24,1036156,western,sesheke
+2025-07-02_SLMM077_HRP2-32024_Batch10,barcode26,1036158,western,sesheke
+2025-07-02_SLMM077_HRP2-32024_Batch10,barcode56,8023230,northwestern,kasempa
+2025-07-02_SLMM077_HRP2-32024_Batch10,barcode62,8023305,northwestern,mushindano
+2025-07-02_SLMM077_HRP2-32024_Batch10,barcode66,5053837,northwestern,solwezi
+2025-07-02_SLMM077_HRP2-32024_Batch10,barcode67,5053831,northwestern,solwezi
+2025-07-02_SLMM077_HRP2-32024_Batch10,barcode68,5053842,northwestern,solwezi
+2025-07-02_SLMM077_HRP2-32024_Batch10,barcode69,1012544,northwestern,zambezi
+2025-07-02_SLMM077_HRP2-32024_Batch10,barcode70,1012412,northwestern,zambezi
+2025-07-02_SLMM077_HRP2-32024_Batch10,barcode71,1012542,northwestern,zambezi
+2025-07-02_SLMM077_HRP2-32024_Batch10,barcode72,1012540,northwestern,zambezi
+2025-07-02_SLMM077_HRP2-32024_Batch10,barcode73,1012559,northwestern,zambezi
+2025-07-02_SLMM077_HRP2-32024_Batch10,barcode77,1012546,northwestern,zambezi
+2025-07-02_SLMM077_HRP2-32024_Batch10,barcode79,1012538,northwestern,zambezi
+2025-07-02_SLMM077_HRP2-32024_Batch10,barcode83,1012413,northwestern,zambezi
+2025-07-02_SLMM077_HRP2-32024_Batch10,barcode84,1012521,northwestern,zambezi
+2025-07-02_SLMM077_HRP2-32024_Batch10,barcode86,8023349,northwestern,manyinga
+2025-07-02_SLMM077_HRP2-32024_Batch10,barcode89,8023330,northwestern,manyinga
+2025-07-02_SLMM077_HRP2-32024_Batch10,barcode90,8023337,northwestern,manyinga
+2025-07-02_SLMM077_HRP2-32024_Batch10,barcode92,8023320,northwestern,manyinga
+2025-07-02_SLMM078_HRP22024_Batch11,barcode11,8023346,northwestern,manyinga
+2025-07-02_SLMM078_HRP22024_Batch11,barcode14,8023348,northwestern,manyinga
+2025-07-02_SLMM078_HRP22024_Batch11,barcode15,8023321,northwestern,manyinga
+2025-07-02_SLMM078_HRP22024_Batch11,barcode21,8023250,northwestern,solwezi
+2025-07-02_SLMM078_HRP22024_Batch11,barcode25,8023249,northwestern,solwezi
+2025-07-02_SLMM078_HRP22024_Batch11,barcode27,8023441,northwestern,kabompo
+2025-07-02_SLMM078_HRP22024_Batch11,barcode28,8023430,northwestern,kabompo
+2025-07-02_SLMM078_HRP22024_Batch11,barcode33,8023427,northwestern,kabompo
+2025-07-02_SLMM078_HRP22024_Batch11,barcode38,8023437,northwestern,kabompo
+2025-07-02_SLMM078_HRP22024_Batch11,barcode39,8023432,northwestern,kabompo
+2025-07-02_SLMM078_HRP22024_Batch11,barcode41,8023440,northwestern,kabompo
+2025-07-02_SLMM078_HRP22024_Batch11,barcode42,1012421,northwestern,mufumbwe
+2025-07-02_SLMM078_HRP22024_Batch11,barcode52,1012431,northwestern,mufumbwe
+2025-07-02_SLMM078_HRP22024_Batch11,barcode55,1012427,northwestern,mufumbwe
+2025-07-02_SLMM078_HRP22024_Batch11,barcode57,1012430,northwestern,mufumbwe
+2025-07-02_SLMM078_HRP22024_Batch11,barcode59,1012423,northwestern,mufumbwe
+2025-07-02_SLMM078_HRP22024_Batch11,barcode65,1012444,northwestern,mufumbwe
+2025-07-02_SLMM078_HRP22024_Batch11,barcode67,1012418,northwestern,mufumbwe
+2025-10-03_SLMM087_HRP2_2024_Batch19,barcode87,8010700,eastern,chipata
+2025-10-03_SLMM087_HRP2_2024_Batch19,barcode95,8010709,eastern,chipata
+2025-10-03_SLMM087_HRP2_2024_Batch19,barcode96,8010711,eastern,chipata
+2025-10-08_SLMM088_HRP2_2024_Batch20,barcode52,8010683,eastern,chipata
+2025-10-08_SLMM088_HRP2_2024_Batch20,barcode54,8010689,eastern,chipata
+2025-10-08_SLMM088_HRP2_2024_Batch20,barcode94,8010988,eastern,chipata
+2025-10-08_SLMM089_HRP2_2024_Batch21,barcode08,8010995,eastern,chipata
+2025-10-08_SLMM089_HRP2_2024_Batch21,barcode28,8012421,eastern,vubwi
+2025-10-08_SLMM089_HRP2_2024_Batch21,barcode33,8012434,eastern,vubwi
+2025-10-08_SLMM089_HRP2_2024_Batch21,barcode35,8012436,eastern,vubwi
+2025-10-08_SLMM089_HRP2_2024_Batch21,barcode58,8012469,eastern,vubwi
+2025-10-08_SLMM089_HRP2_2024_Batch21,barcode73,8012489,eastern,vubwi
+2025-10-08_SLMM089_HRP2_2024_Batch21,barcode86,8013943,eastern,vubwi
+2025-10-08_SLMM089_HRP2_2024_Batch21,barcode87,8013944,eastern,vubwi
+2025-10-08_SLMM089_HRP2_2024_Batch21,barcode91,8013950,eastern,vubwi
+2025-10-08_SLMM089_HRP2_2024_Batch21,barcode92,8013952,eastern,vubwi
+2025-10-08_SLMM089_HRP2_2024_Batch21,barcode93,8013425,eastern,chipata
+2025-10-14_SLMM090_HRP2_2024_Batch22,barcode18,8013449,eastern,chipata
+2025-10-14_SLMM090_HRP2_2024_Batch22,barcode27,8013459,eastern,chipata
+2025-10-14_SLMM090_HRP2_2024_Batch22,barcode28,8013460,eastern,chipata
+2025-10-14_SLMM090_HRP2_2024_Batch22,barcode36,8013470,eastern,chipata
+2025-10-14_SLMM090_HRP2_2024_Batch22,barcode37,8013471,eastern,chipata
+2025-10-14_SLMM090_HRP2_2024_Batch22,barcode40,8013476,eastern,chipata
+2025-10-14_SLMM090_HRP2_2024_Batch22,barcode42,8013478,eastern,chipata
+2025-10-14_SLMM090_HRP2_2024_Batch22,barcode44,8013480,eastern,chipata
+2025-10-14_SLMM090_HRP2_2024_Batch22,barcode50,8013488,eastern,chipata
+2025-10-14_SLMM090_HRP2_2024_Batch22,barcode58,8013498,eastern,chipata
+2025-10-14_SLMM090_HRP2_2024_Batch22,barcode60,8013676,eastern,chipata
+2025-10-14_SLMM090_HRP2_2024_Batch22,barcode64,8013681,eastern,chipata
+2025-10-14_SLMM090_HRP2_2024_Batch22,barcode67,8013686,eastern,chipata
+2025-10-14_SLMM090_HRP2_2024_Batch22,barcode83,8022819,eastern,chipangali
+2025-10-14_SLMM091_HRP2_2024_Batch23,barcode17,8022865,eastern,chipangali
+2025-10-14_SLMM091_HRP2_2024_Batch23,barcode37,8022891,eastern,chipangali
+2025-10-14_SLMM091_HRP2_2024_Batch23,barcode43,8023679,eastern,katete
+2025-10-14_SLMM091_HRP2_2024_Batch23,barcode71,8033123,eastern,chipangali
+2025-10-14_SLMM091_HRP2_2024_Batch23,barcode74,8033127,eastern,chipangali
+2025-10-14_SLMM091_HRP2_2024_Batch23,barcode75,8033128,eastern,chipangali
+2025-10-14_SLMM091_HRP2_2024_Batch23,barcode78,8033146,eastern,chipangali
+2025-10-14_SLMM091_HRP2_2024_Batch23,barcode84,8033155,eastern,chipangali
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode07,8034000,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode09,8034002,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode10,8034003,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode11,8034004,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode13,8034006,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode14,8034007,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode15,8034008,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode16,8034009,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode17,8034010,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode20,8034013,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode21,8034014,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode22,8034015,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode23,8034016,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode24,8034017,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode25,8034018,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode26,8034019,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode31,8034024,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode32,8034025,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode33,8034026,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode35,8034028,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode37,8034030,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode38,8034031,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode43,8034036,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode44,8034037,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode46,8034039,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode47,8034040,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode49,8034042,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode50,8034043,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode51,8034044,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode52,8034045,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode55,8034048,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode56,8034049,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode57,8034050,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode59,8034052,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode60,8034053,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode66,8034059,western,sesheke
+2025-10-30_SLMM092_HRP2_2024_Batch24,barcode67,8034060,western,sesheke
+2025-10-30_SLMM093_HRP2_2024_Batch25,barcode07,8033172,eastern,chipangali
+2025-10-30_SLMM093_HRP2_2024_Batch25,barcode12,8033185,eastern,chipangali
+2025-10-30_SLMM093_HRP2_2024_Batch25,barcode23,8033342,eastern,mambwe
+2025-10-30_SLMM093_HRP2_2024_Batch25,barcode25,8033344,eastern,mambwe
+2025-10-30_SLMM093_HRP2_2024_Batch25,barcode32,8033355,eastern,mambwe
+2025-10-30_SLMM093_HRP2_2024_Batch25,barcode41,8033369,eastern,mambwe
+2025-10-30_SLMM093_HRP2_2024_Batch25,barcode49,8033385,eastern,mambwe
+2025-10-30_SLMM093_HRP2_2024_Batch25,barcode65,8033412,eastern,mambwe
+2025-10-30_SLMM093_HRP2_2024_Batch25,barcode67,8033415,eastern,mambwe
+2025-10-30_SLMM093_HRP2_2024_Batch25,barcode75,8033426,eastern,mambwe
+2025-10-30_SLMM093_HRP2_2024_Batch25,barcode85,8010843,muchinga,shiwang'andu
