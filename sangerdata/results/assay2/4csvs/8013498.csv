@@ -1,0 +1,3 @@
+sample_id,chrom,pos,ref,alt,csq,gt
+8013498,Pf3D7_13_v3,1725868,T,C,missense|Kelch13|PF3D7_1343700.1|protein_coding|-|377E>377G|1725868T>C,0/1
+8013498,Pf3D7_13_v3,1725891,T,G,synonymous|Kelch13|PF3D7_1343700.1|protein_coding|-|369T|1725891T>G,0/1

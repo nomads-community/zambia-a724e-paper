@@ -1,0 +1,11 @@
+sample_id	chrom	pos	ref	alt	csq	gt
+8033412	Pf3D7_13_v3	1724675	T	A	3_prime_utr|Kelch13|PF3D7_1343700.1|protein_coding	0/1
+8033412	Pf3D7_13_v3	1724677	T	A	3_prime_utr|Kelch13|PF3D7_1343700.1|protein_coding	0/1
+8033412	Pf3D7_13_v3	1724679	T	A	3_prime_utr|Kelch13|PF3D7_1343700.1|protein_coding	1/1
+8033412	Pf3D7_13_v3	1724681	T	A	3_prime_utr|Kelch13|PF3D7_1343700.1|protein_coding	0/1
+8033412	Pf3D7_13_v3	1724684	T	TAAA	3_prime_utr|Kelch13|PF3D7_1343700.1|protein_coding	0/1
+8033412	Pf3D7_13_v3	1724709	AT	A	3_prime_utr|Kelch13|PF3D7_1343700.1|protein_coding	0/1
+8033412	Pf3D7_13_v3	1724717	T	G	3_prime_utr|Kelch13|PF3D7_1343700.1|protein_coding	0/1
+8033412	Pf3D7_13_v3	1724732	A	T	3_prime_utr|Kelch13|PF3D7_1343700.1|protein_coding	1/1
+8033412	Pf3D7_13_v3	1724734	T	TT	3_prime_utr|Kelch13|PF3D7_1343700.1|protein_coding	1/1
+8033412	Pf3D7_13_v3	1725306	T	A	synonymous|Kelch13|PF3D7_1343700.1|protein_coding|-|564A|1725306T>A	0/1

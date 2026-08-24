@@ -1,0 +1,13 @@
+sample_id,chrom,pos,ref,alt,csq,gt
+5053742,Pf3D7_13_v3,1724717,T,G,3_prime_utr|Kelch13|PF3D7_1343700.1|protein_coding,0/1
+5053742,Pf3D7_13_v3,1724737,A,G,3_prime_utr|Kelch13|PF3D7_1343700.1|protein_coding,1/1
+5053742,Pf3D7_13_v3,1724740,A,G,3_prime_utr|Kelch13|PF3D7_1343700.1|protein_coding,1/1
+5053742,Pf3D7_13_v3,1724757,T,G,3_prime_utr|Kelch13|PF3D7_1343700.1|protein_coding,0/1
+5053742,Pf3D7_13_v3,1724777,A,T,3_prime_utr|Kelch13|PF3D7_1343700.1|protein_coding,0/1
+5053742,Pf3D7_13_v3,1724780,A,T,3_prime_utr|Kelch13|PF3D7_1343700.1|protein_coding,1/1
+5053742,Pf3D7_13_v3,1724782,AA,A,3_prime_utr|Kelch13|PF3D7_1343700.1|protein_coding,0/1
+5053742,Pf3D7_13_v3,1724783,A,T,3_prime_utr|Kelch13|PF3D7_1343700.1|protein_coding,0/1
+5053742,Pf3D7_13_v3,1724784,TA,T,3_prime_utr|Kelch13|PF3D7_1343700.1|protein_coding,0/1
+5053742,Pf3D7_13_v3,1724827,G,T,missense|Kelch13|PF3D7_1343700.1|protein_coding|-|724A>724E|1724827G>T,1/1
+5053742,Pf3D7_13_v3,1725591,G,C,missense|Kelch13|PF3D7_1343700.1|protein_coding|-|469C>469W|1725591G>C,0/1
+5053742,Pf3D7_13_v3,1725651,A,C,synonymous|Kelch13|PF3D7_1343700.1|protein_coding|-|449G|1725651A>C,0/1

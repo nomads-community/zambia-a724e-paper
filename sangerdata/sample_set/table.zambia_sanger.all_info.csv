@@ -1,0 +1,45 @@
+set_type,sample_id,district,province,expt_name,barcode,gt_A724E,dp_A724E,wsaf_A724E,clonality,carrier_A724E
+representative,1012420,mufumbwe,northwestern,2025-05-06_SLMM073_HRP22024_Batch6,barcode23,2.0,2885.0,0.999985,polyclonal,True
+representative,1012424,mufumbwe,northwestern,2025-05-06_SLMM073_HRP22024_Batch6,barcode11,2.0,1031.0,1.0,polyclonal,True
+representative,1012426,mufumbwe,northwestern,2025-05-06_SLMM073_HRP22024_Batch6,barcode18,2.0,1094.0,1.0,clonal,True
+representative,1012542,zambezi,northwestern,2025-07-02_SLMM077_HRP2-32024_Batch10,barcode71,2.0,528.0,1.0,polyclonal,True
+clonal,1012556,zambezi,northwestern,2025-04-04_SLMM072_HRP22024_Batch5,barcode21,0.0,2003.0,0.0,clonal,False
+representative,1036151,sesheke,western,2025-04-03_SLMM071_HRP22024_Batch4,barcode24,0.0,2303.0,0.0,clonal,False
+representative,1036154,sesheke,western,2025-04-03_SLMM071_HRP22024_Batch4,barcode27,2.0,1061.0,1.0,clonal,True
+representative,1046674,luampa,western,2024-11-06_SLMM067_HRP2,barcode83,2.0,81.0,1.0,polyclonal,True
+clonal,1046680,luampa,western,2025-03-27_SLMM069_HRP2 2024_Batch2,barcode60,2.0,2754.0,1.0,clonal,True
+representative,5053740,sikongo,western,2025-04-03_SLMM071_HRP22024_Batch4,barcode17,0.0,58.0,0.0515196,polyclonal,False
+representative,5053742,sikongo,western,2025-07-02_SLMM077_HRP2-32024_Batch10,barcode18,2.0,415.0,1.0,clonal,True
+representative,5053836,solwezi,northwestern,2025-04-04_SLMM072_HRP22024_Batch5,barcode12,2.0,65.0,1.0,clonal,True
+representative,5053837,solwezi,northwestern,2025-07-02_SLMM077_HRP2-32024_Batch10,barcode66,0.0,582.0,0.0,clonal,False
+representative,8010683,chipata,eastern,2025-10-08_SLMM088_HRP2_2024_Batch20,barcode52,0.0,,0.0,clonal,False
+representative,8012421,vubwi,eastern,2025-10-08_SLMM089_HRP2_2024_Batch21,barcode28,0.0,,0.0,clonal,False
+representative,8013476,chipata,eastern,2025-10-14_SLMM090_HRP2_2024_Batch22,barcode40,0.0,,0.0,polyclonal,False
+representative,8013498,chipata,eastern,2025-10-14_SLMM090_HRP2_2024_Batch22,barcode58,0.0,,0.0,clonal,False
+clonal,8019456,kasempa,northwestern,2025-04-03_SLMM071_HRP22024_Batch4,barcode63,2.0,1940.0,0.999524,clonal,True
+clonal,8021039,kasempa,northwestern,2025-04-03_SLMM071_HRP22024_Batch4,barcode57,2.0,4617.0,0.999985,clonal,True
+representative,8021930,kaoma,western,2025-03-27_SLMM069_HRP2 2024_Batch2,barcode20,2.0,224.0,1.0,clonal,True
+representative,8021935,kaoma,western,2025-03-27_SLMM069_HRP2 2024_Batch2,barcode26,0.0,4547.0,0.00040823,clonal,False
+representative,8021942,kaoma,western,2025-03-27_SLMM069_HRP2 2024_Batch2,barcode44,0.0,470.0,0.0,polyclonal,False
+representative,8022279,lumezi,eastern,2025-05-08_SLMM074_MIS2024_Batch6,barcode30,0.0,,0.0,clonal,False
+representative,8022819,chipangali,eastern,2025-10-14_SLMM090_HRP2_2024_Batch22,barcode83,0.0,,0.0,polyclonal,False
+representative,8023299,mushindano,northwestern,2025-04-03_SLMM071_HRP22024_Batch4,barcode67,0.0,483.0,0.0,clonal,False
+clonal,8023320,manyinga,northwestern,2025-07-02_SLMM077_HRP2-32024_Batch10,barcode92,2.0,987.0,1.0,clonal,True
+representative,8023351,kabompo,northwestern,2025-04-04_SLMM072_HRP22024_Batch5,barcode85,2.0,542.0,0.998189,polyclonal,True
+clonal,8023430,kabompo,northwestern,2025-07-02_SLMM078_HRP22024_Batch11,barcode28,2.0,664.0,1.0,clonal,True
+representative,8023679,katete,eastern,2025-10-14_SLMM091_HRP2_2024_Batch23,barcode43,0.0,,0.0,polyclonal,False
+representative,8031527,nakonde,muchinga,2024-11-06_SLMM065_MIS2024_Batch7,barcode91,0.0,191.0,0.0,polyclonal,False
+clonal,8031773,mushindano,northwestern,2024-10-30_SLMM060_MIS2024Batch2,barcode28,0.0,1854.0,0.0,clonal,False
+representative,8032343,shangombo,western,2024-10-16_SLMM056_MIS2024_Batch1,barcode88,2.0,2046.0,0.999985,clonal,True
+representative,8032347,sikongo,western,2024-10-30_SLMM060_MIS2024Batch2,barcode38,0.0,1205.0,0.0,polyclonal,False
+representative,8033412,mambwe,eastern,2025-10-30_SLMM093_HRP2_2024_Batch25,barcode65,0.0,,0.0,polyclonal,False
+clonal,8034002,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode09,0.0,3181.0,0.000303616,clonal,False
+representative,8034017,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode24,0.0,2867.0,0.0,clonal,False
+clonal,8034025,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode32,2.0,1522.0,0.998863,clonal,True
+clonal,8034028,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode35,2.0,2577.0,1.0,clonal,True
+representative,8034030,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode37,2.0,79.0,1.0,clonal,True
+clonal,8034031,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode38,0.0,3701.0,0.00125451,clonal,False
+representative,8034036,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode43,2.0,3006.0,0.999985,clonal,True
+clonal,8034050,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode57,0.0,3670.0,0.000463104,clonal,False
+representative,8034053,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode60,2.0,1652.0,1.0,polyclonal,True
+clonal,8034059,sesheke,western,2025-10-30_SLMM092_HRP2_2024_Batch24,barcode66,2.0,2763.0,1.0,clonal,True
