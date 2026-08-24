@@ -1,5 +1,5 @@
 ## Data and analysis for *Pfkelch13* A724E detection in Zambia
-This repository contains the data and analysis code for the manuscript [Mwenda et al. (2026) medRXiv](https://www.medrxiv.org/content/10.64898/2026.06.04.26354343v1). Sequencing data was analysed using Nomadic, which is publicly available [here](https://github.com/JasonAHendry/nomadic). Downstream analyses and figure generation was done in Jupyter Notebooks (see [Repository Structure](#repository-overview)). 
+This repository contains the data and analysis code for the manuscript [Mwenda et al. (2026) medRXiv](https://www.medrxiv.org/content/10.64898/2026.06.04.26354343v1). Sequencing data was analysed using Nomadic, which is publicly available [here](https://github.com/JasonAHendry/nomadic). Downstream analyses and figure generation was done in Jupyter Notebooks (see [Repository overview](#repository-overview)). 
 
 ## Repository overview
 The table below outlines the contents of the main folders of the repository:
@@ -27,3 +27,10 @@ Sequencing data is available in the `seqdata` folder. The `all` folder contains 
 | `results/<expt_name>/vcfs/summary.variants.filtered.annotated.vcf.gz` | VCF file containing filtered (passing QC) and annotated set of *Pfkelch13* and *Pfama1* variant calls for the experiment. |
 
 More information about outputs in each experiment folder and column definitions can be found in the Nomadic documentation, [here](https://jasonahendry.github.io/nomadic/output_files/). 
+
+## Reference
+For more information, please see the following reference:
+1. Mwenda M, Oliveira R, Mambwe B, et al. Emergence and Spread of Artemisinin-Resistant Malaria in Zambia. medRxiv. Preprint posted online June 10, 2026:2026.06.04.26354343. doi:10.64898/2026.06.04.26354343
+
+## Acknowledgements
+This work was funded by the Gates Foundation (INV-048316).
