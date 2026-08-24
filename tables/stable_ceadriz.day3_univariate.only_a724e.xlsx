@@ -1,0 +1,8 @@
+,Negative on Day 3,Positive on Day 3,Test,P
+N,65,17,-,-
+Median Age (IQR) - yr,11.5 (7.0 - 18.0),11.0 (6.0 - 16.0),Mann-Whitney $U$,0.534
+Median parasity density (IQR) - mm$^3$,25.0 (15.0 - 48.7),50.0 (32.6 - 66.4),Mann-Whitney $U$,0.005
+Female sex - n (%),33 (50.8),10 (58.8),$X^2$,0.749
+Fever - n (%),11 (16.9),6 (35.3),$X^2$,0.233
+724A (Wildtype),19 (29.2),0 (0.0),Fisher's Exact,See below.
+724E (Mutant),46 (70.8),17 (100.0),Fisher's Exact,0.009
